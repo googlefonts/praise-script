@@ -150357,16 +150357,7 @@ unicode = E40A;
 );
 instances = (
 {
-customParameters = (
-{
-name = postscriptFullName;
-value = "Praise Pro";
-},
-{
-name = postscriptFontName;
-value = PraisePro;
-}
-);
+interpolationWeight = 400;
 instanceInterpolations = {
 "C623C401-2266-4A98-B253-3D45160C29C7" = 1;
 };
