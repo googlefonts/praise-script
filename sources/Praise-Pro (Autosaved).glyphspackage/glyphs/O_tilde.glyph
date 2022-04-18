@@ -1,0 +1,32 @@
+{
+color = 10;
+glyphname = Otilde;
+lastChange = "2022-04-18 16:25:01 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = O;
+},
+{
+pos = (118,156);
+ref = tildecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = O;
+},
+{
+pos = (339,175);
+ref = tildecomb.case;
+}
+);
+width = 508;
+}
+);
+unicode = 213;
+}

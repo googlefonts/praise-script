@@ -1,0 +1,32 @@
+{
+color = 10;
+glyphname = Eacute;
+lastChange = "2022-04-08 20:31:11 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = E;
+},
+{
+pos = (180,146);
+ref = acutecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = E;
+},
+{
+pos = (342,175);
+ref = acutecomb.case;
+}
+);
+width = 430;
+}
+);
+unicode = 201;
+}

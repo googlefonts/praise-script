@@ -1,0 +1,31 @@
+{
+glyphname = amacron.ss04;
+lastChange = "2022-04-16 05:22:02 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = a.ss04;
+},
+{
+pos = (251,-59);
+ref = macron;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = a.ss04;
+},
+{
+pos = (280,0);
+ref = macroncomb;
+}
+);
+width = 426;
+}
+);
+note = amacron;
+}

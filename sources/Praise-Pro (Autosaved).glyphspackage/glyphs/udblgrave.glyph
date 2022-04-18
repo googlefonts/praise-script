@@ -1,0 +1,31 @@
+{
+glyphname = udblgrave;
+lastChange = "2022-04-16 05:11:46 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = u;
+},
+{
+pos = (47,0);
+ref = dblgravecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = u;
+},
+{
+pos = (121,0);
+ref = dblgravecomb;
+}
+);
+width = 408;
+}
+);
+unicode = 533;
+}

@@ -1,0 +1,31 @@
+{
+color = 10;
+glyphname = Uhornacute.ss03;
+lastChange = "2022-04-08 20:31:11 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = Uhorn.ss03;
+},
+{
+pos = (770,163);
+ref = acutecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = Uhorn.ss03;
+},
+{
+pos = (809,175);
+ref = acutecomb.case;
+}
+);
+width = 844;
+}
+);
+}

@@ -1,0 +1,31 @@
+{
+color = 10;
+glyphname = Wgrave.ss02;
+lastChange = "2022-04-15 06:35:48 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = W.ss02;
+},
+{
+pos = (452,97);
+ref = gravecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = W.ss02;
+},
+{
+pos = (438,158);
+ref = gravecomb.case;
+}
+);
+width = 736;
+}
+);
+}

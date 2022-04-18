@@ -1,0 +1,31 @@
+{
+glyphname = edotaccent.ss02;
+lastChange = "2022-04-16 05:16:15 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = e.ss02;
+},
+{
+pos = (280,-70);
+ref = dotaccent;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = e.ss02;
+},
+{
+pos = (269,0);
+ref = dotaccentcomb;
+}
+);
+width = 339;
+}
+);
+note = edotaccent;
+}

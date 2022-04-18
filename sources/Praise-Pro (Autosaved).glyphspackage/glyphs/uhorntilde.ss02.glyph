@@ -1,0 +1,31 @@
+{
+color = 10;
+glyphname = uhorntilde.ss02;
+lastChange = "2022-04-13 01:12:13 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = uhorn.ss02;
+},
+{
+pos = (198,-56);
+ref = tildecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = uhorn.ss02;
+},
+{
+pos = (230,0);
+ref = tildecomb;
+}
+);
+width = 404;
+}
+);
+}

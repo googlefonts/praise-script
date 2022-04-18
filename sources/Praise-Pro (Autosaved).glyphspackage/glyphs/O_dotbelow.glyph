@@ -1,0 +1,32 @@
+{
+color = 10;
+glyphname = Odotbelow;
+lastChange = "2022-04-18 16:25:01 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = O;
+},
+{
+pos = (188,0);
+ref = dotbelowcomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = O;
+},
+{
+pos = (91,0);
+ref = dotbelowcomb;
+}
+);
+width = 508;
+}
+);
+unicode = 7884;
+}

@@ -1,0 +1,31 @@
+{
+glyphname = zdotaccent;
+lastChange = "2022-04-16 05:12:15 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = z;
+},
+{
+pos = (130,0);
+ref = dotaccentcomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = z;
+},
+{
+pos = (315,0);
+ref = dotaccentcomb;
+}
+);
+width = 359;
+}
+);
+unicode = 380;
+}

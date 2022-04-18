@@ -1,0 +1,31 @@
+{
+glyphname = uhungarumlaut.ss04;
+lastChange = "2022-04-16 05:23:51 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = u.ss04;
+},
+{
+pos = (218,-110);
+ref = hungarumlaut;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = u.ss04;
+},
+{
+pos = (230,0);
+ref = hungarumlautcomb;
+}
+);
+width = 401;
+}
+);
+note = uhungarumlaut;
+}

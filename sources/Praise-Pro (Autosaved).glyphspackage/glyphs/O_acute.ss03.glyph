@@ -1,0 +1,32 @@
+{
+color = 10;
+glyphname = Oacute.ss03;
+lastChange = "2022-04-08 20:31:11 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = O.ss03;
+},
+{
+pos = (468,216);
+ref = acute;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = O.ss03;
+},
+{
+pos = (583,228);
+ref = acutecomb.case;
+}
+);
+width = 705;
+}
+);
+note = Oacute;
+}

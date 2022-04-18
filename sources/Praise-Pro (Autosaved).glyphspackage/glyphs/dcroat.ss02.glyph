@@ -1,0 +1,33 @@
+{
+color = 10;
+glyphname = dcroat.ss02;
+lastChange = "2022-04-12 03:08:13 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = d.ss02;
+},
+{
+pos = (231,327);
+ref = hyphen;
+scale = (1.1461,0.546);
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = d.ss02;
+},
+{
+pos = (231,327);
+ref = hyphen;
+scale = (1.1461,0.546);
+}
+);
+width = 386;
+}
+);
+}

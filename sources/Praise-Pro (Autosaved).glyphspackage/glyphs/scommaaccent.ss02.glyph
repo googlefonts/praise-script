@@ -1,0 +1,29 @@
+{
+glyphname = scommaaccent.ss02;
+lastChange = "2022-04-16 05:16:58 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = s.ss02;
+},
+{
+ref = commaaccentcomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = s.ss02;
+},
+{
+pos = (18,0);
+ref = commaaccentcomb;
+}
+);
+width = 280;
+}
+);
+}

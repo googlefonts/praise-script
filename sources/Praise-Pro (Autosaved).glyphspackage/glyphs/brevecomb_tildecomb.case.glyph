@@ -1,0 +1,40 @@
+{
+glyphname = brevecomb_tildecomb.case;
+lastChange = "2022-04-15 06:53:05 +0000";
+layers = (
+{
+background = {
+anchors = (
+{
+name = _top;
+pos = (125,454);
+},
+{
+name = top;
+pos = (125,725);
+}
+);
+shapes = (
+{
+ref = brevecomb;
+},
+{
+pos = (0,116);
+ref = tildecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = brevecomb.case;
+},
+{
+pos = (19,129);
+ref = tildecomb.case;
+}
+);
+width = 235;
+}
+);
+}

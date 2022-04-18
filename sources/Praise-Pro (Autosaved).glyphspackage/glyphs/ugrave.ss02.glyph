@@ -1,0 +1,31 @@
+{
+glyphname = ugrave.ss02;
+lastChange = "2022-04-16 05:18:10 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = u.ss02;
+},
+{
+pos = (215,-33);
+ref = grave;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = u.ss02;
+},
+{
+pos = (183,0);
+ref = gravecomb;
+}
+);
+width = 404;
+}
+);
+note = ugrave;
+}

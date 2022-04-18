@@ -1,0 +1,31 @@
+{
+glyphname = ntilde.ss02;
+lastChange = "2022-04-16 05:17:41 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = n.ss02;
+},
+{
+pos = (183,-46);
+ref = tilde;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = n.ss02;
+},
+{
+pos = (202,0);
+ref = tildecomb;
+}
+);
+width = 392;
+}
+);
+note = ntilde;
+}

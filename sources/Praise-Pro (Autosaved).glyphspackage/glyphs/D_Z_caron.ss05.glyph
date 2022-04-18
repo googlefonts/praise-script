@@ -1,0 +1,38 @@
+{
+color = 10;
+glyphname = DZcaron.ss05;
+lastChange = "2022-04-08 20:31:11 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = D.ss05;
+},
+{
+alignment = -1;
+pos = (741,0);
+ref = Z.ss05;
+},
+{
+alignment = -1;
+pos = (1215,135);
+ref = caron;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = D.ss05;
+},
+{
+alignment = -1;
+pos = (741,0);
+ref = Zcaron.ss05;
+}
+);
+width = 1425;
+}
+);
+}

@@ -1,0 +1,31 @@
+{
+color = 10;
+glyphname = ohorn.ss04;
+lastChange = "2022-04-13 02:06:41 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = o.ss04;
+},
+{
+pos = (377,-136);
+ref = horncomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = o.ss04;
+},
+{
+pos = (343,0);
+ref = horncomb;
+}
+);
+width = 403;
+}
+);
+}

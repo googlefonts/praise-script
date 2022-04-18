@@ -1,0 +1,30 @@
+{
+glyphname = ocircumflextilde.ss01;
+lastChange = "2022-04-16 05:14:46 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = o.ss01;
+},
+{
+pos = (68,0);
+ref = circumflexcomb_tildecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = o.ss01;
+},
+{
+pos = (220,0);
+ref = circumflexcomb_tildecomb;
+}
+);
+width = 404;
+}
+);
+}

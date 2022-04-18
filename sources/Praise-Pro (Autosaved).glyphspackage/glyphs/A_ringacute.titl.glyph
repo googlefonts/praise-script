@@ -1,0 +1,35 @@
+{
+color = 10;
+glyphname = Aringacute.titl;
+lastChange = "2022-04-08 20:31:11 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = Aring.titl;
+},
+{
+pos = (517,182);
+ref = acutecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = A.titl;
+},
+{
+pos = (399,165);
+ref = ringcomb.case;
+},
+{
+pos = (507,340);
+ref = acutecomb.case;
+}
+);
+width = 458;
+}
+);
+}

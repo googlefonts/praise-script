@@ -1,0 +1,29 @@
+{
+glyphname = abrevehookabove.ss05;
+lastChange = "2022-04-16 05:24:46 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = a.ss05;
+},
+{
+ref = brevecomb_hookabovecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = a.ss05;
+},
+{
+pos = (252,0);
+ref = brevecomb_hookabovecomb;
+}
+);
+width = 422;
+}
+);
+}

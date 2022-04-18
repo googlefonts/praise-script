@@ -1,0 +1,32 @@
+{
+color = 10;
+glyphname = Agrave.ss04;
+lastChange = "2022-04-15 06:41:35 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = A.ss04;
+},
+{
+pos = (769,137);
+ref = grave;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = A.ss04;
+},
+{
+pos = (744,175);
+ref = gravecomb.case;
+}
+);
+width = 827;
+}
+);
+note = Agrave;
+}

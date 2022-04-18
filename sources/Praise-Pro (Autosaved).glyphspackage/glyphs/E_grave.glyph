@@ -1,0 +1,32 @@
+{
+color = 10;
+glyphname = Egrave;
+lastChange = "2022-04-15 06:35:48 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = E;
+},
+{
+pos = (56,145);
+ref = gravecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = E;
+},
+{
+pos = (207,175);
+ref = gravecomb.case;
+}
+);
+width = 430;
+}
+);
+unicode = 200;
+}

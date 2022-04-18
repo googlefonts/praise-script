@@ -1,0 +1,32 @@
+{
+color = 10;
+glyphname = Sacute;
+lastChange = "2022-04-18 16:25:01 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = S;
+},
+{
+pos = (186,146);
+ref = acutecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = S;
+},
+{
+pos = (401,185);
+ref = acutecomb.case;
+}
+);
+width = 478;
+}
+);
+unicode = 346;
+}

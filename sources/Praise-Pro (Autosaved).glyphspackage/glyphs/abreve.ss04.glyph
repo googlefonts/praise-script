@@ -1,0 +1,30 @@
+{
+glyphname = abreve.ss04;
+lastChange = "2022-04-16 05:22:02 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = a.ss04;
+},
+{
+pos = (254,-45);
+ref = brevecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = a.ss04;
+},
+{
+pos = (255,0);
+ref = brevecomb;
+}
+);
+width = 426;
+}
+);
+}
