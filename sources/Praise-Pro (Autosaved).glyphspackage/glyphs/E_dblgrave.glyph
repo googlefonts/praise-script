@@ -1,7 +1,7 @@
 {
 color = 10;
 glyphname = Edblgrave;
-lastChange = "2022-04-08 20:31:11 +0000";
+lastChange = "2022-04-19 02:15:49 +0000";
 layers = (
 {
 background = {
@@ -21,11 +21,11 @@ shapes = (
 ref = E;
 },
 {
-pos = (142,175);
+pos = (153,175);
 ref = dblgravecomb.case;
 }
 );
-width = 430;
+width = 456;
 }
 );
 unicode = 516;

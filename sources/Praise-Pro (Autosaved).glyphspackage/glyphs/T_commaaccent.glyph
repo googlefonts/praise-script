@@ -1,7 +1,7 @@
 {
 color = 10;
 glyphname = Tcommaaccent;
-lastChange = "2022-04-15 05:54:05 +0000";
+lastChange = "2022-04-19 02:15:49 +0000";
 layers = (
 {
 background = {
@@ -21,11 +21,11 @@ shapes = (
 ref = T;
 },
 {
-pos = (61,0);
+pos = (63,10);
 ref = commaaccentcomb;
 }
 );
-width = 387;
+width = 357;
 }
 );
 unicode = 538;

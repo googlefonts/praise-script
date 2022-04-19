@@ -1,7 +1,7 @@
 {
 color = 10;
 glyphname = Aogonek;
-lastChange = "2022-04-08 20:31:11 +0000";
+lastChange = "2022-04-18 23:25:06 +0000";
 layers = (
 {
 background = {
@@ -25,7 +25,7 @@ pos = (323,0);
 ref = ogonekcomb;
 }
 );
-width = 511;
+width = 545;
 }
 );
 unicode = 260;
