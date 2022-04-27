@@ -1,0 +1,41 @@
+{
+glyphname = circumflexcomb_acutecomb;
+lastChange = "2022-04-15 06:47:30 +0000";
+layers = (
+{
+background = {
+anchors = (
+{
+name = _top;
+pos = (182,454);
+},
+{
+name = top;
+pos = (182,678);
+}
+);
+shapes = (
+{
+ref = circumflexcomb;
+},
+{
+angle = -12.77839;
+pos = (84,105);
+ref = acutecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = circumflexcomb;
+},
+{
+pos = (262,68);
+ref = acutecomb;
+}
+);
+width = 246;
+}
+);
+}

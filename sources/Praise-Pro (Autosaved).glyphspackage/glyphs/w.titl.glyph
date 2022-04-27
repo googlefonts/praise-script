@@ -1,0 +1,21 @@
+{
+glyphname = w.titl;
+lastChange = "2022-04-26 07:06:44 +0000";
+layers = (
+{
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+alignment = -1;
+pos = (13,0);
+ref = W.titl;
+scale = (0.8,0.8);
+}
+);
+width = 563;
+}
+);
+metricLeft = v.titl;
+metricRight = v.titl;
+note = W.smcp;
+}

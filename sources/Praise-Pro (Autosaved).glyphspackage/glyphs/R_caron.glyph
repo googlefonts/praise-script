@@ -1,0 +1,32 @@
+{
+color = 10;
+glyphname = Rcaron;
+lastChange = "2022-04-22 05:27:12 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = R;
+},
+{
+pos = (125,179);
+ref = caroncomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = R;
+},
+{
+pos = (421,175);
+ref = caroncomb.case;
+}
+);
+width = 561;
+}
+);
+unicode = 344;
+}

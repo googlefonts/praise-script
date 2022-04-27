@@ -1,0 +1,38 @@
+{
+color = 10;
+glyphname = Udieresismacron.ss02;
+lastChange = "2022-04-22 15:21:30 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = U.ss02;
+},
+{
+ref = dieresiscomb;
+},
+{
+pos = (23,167);
+ref = macroncomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = U.ss02;
+},
+{
+pos = (385,175);
+ref = dieresiscomb.case;
+},
+{
+pos = (430,312);
+ref = macroncomb.case;
+}
+);
+width = 504;
+}
+);
+}

@@ -1,0 +1,32 @@
+{
+color = 10;
+glyphname = Ograve.ss03;
+lastChange = "2022-04-22 15:43:00 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = O.ss03;
+},
+{
+pos = (428,198);
+ref = grave;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = O.ss03;
+},
+{
+pos = (511,228);
+ref = gravecomb.case;
+}
+);
+width = 758;
+}
+);
+note = Ograve;
+}

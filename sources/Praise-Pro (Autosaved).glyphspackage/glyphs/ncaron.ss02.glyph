@@ -1,0 +1,31 @@
+{
+glyphname = ncaron.ss02;
+lastChange = "2022-04-16 05:17:41 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = n.ss02;
+},
+{
+pos = (221,-39);
+ref = caron;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = n.ss02;
+},
+{
+pos = (230,0);
+ref = caroncomb;
+}
+);
+width = 392;
+}
+);
+note = ncaron;
+}

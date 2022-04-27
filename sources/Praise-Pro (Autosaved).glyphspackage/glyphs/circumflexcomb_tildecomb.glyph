@@ -1,0 +1,41 @@
+{
+glyphname = circumflexcomb_tildecomb;
+lastChange = "2022-04-15 06:47:30 +0000";
+layers = (
+{
+background = {
+anchors = (
+{
+name = _top;
+pos = (132,454);
+},
+{
+name = top;
+pos = (132,725);
+}
+);
+shapes = (
+{
+ref = circumflexcomb;
+},
+{
+alignment = -1;
+pos = (21,122);
+ref = tildecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = circumflexcomb;
+},
+{
+pos = (187,68);
+ref = tildecomb;
+}
+);
+width = 246;
+}
+);
+}

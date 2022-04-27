@@ -1,0 +1,31 @@
+{
+color = 10;
+glyphname = Ubreve.ss03;
+lastChange = "2022-04-22 15:43:00 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = U.ss03;
+},
+{
+pos = (712,134);
+ref = brevecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = U.ss03;
+},
+{
+pos = (776,175);
+ref = brevecomb.case;
+}
+);
+width = 925;
+}
+);
+}

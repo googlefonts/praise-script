@@ -1,0 +1,18 @@
+{
+glyphname = d.sc;
+lastChange = "2022-04-27 02:15:51 +0000";
+layers = (
+{
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = d.titl;
+}
+);
+width = 397;
+}
+);
+metricLeft = b.sc;
+metricRight = o.titl;
+note = D.smcp;
+}

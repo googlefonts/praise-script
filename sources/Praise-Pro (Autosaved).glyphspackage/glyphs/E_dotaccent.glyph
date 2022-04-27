@@ -1,0 +1,32 @@
+{
+color = 10;
+glyphname = Edotaccent;
+lastChange = "2022-04-19 21:21:09 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = E;
+},
+{
+pos = (168,179);
+ref = dotaccentcomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = E;
+},
+{
+pos = (362,175);
+ref = dotaccentcomb.case;
+}
+);
+width = 451;
+}
+);
+unicode = 278;
+}

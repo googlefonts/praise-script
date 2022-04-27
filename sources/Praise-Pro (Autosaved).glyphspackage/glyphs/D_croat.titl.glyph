@@ -1,0 +1,23 @@
+{
+color = 10;
+glyphname = Dcroat.titl;
+lastChange = "2022-04-22 17:17:30 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = Eth.titl;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = Eth.titl;
+}
+);
+width = 506;
+}
+);
+}

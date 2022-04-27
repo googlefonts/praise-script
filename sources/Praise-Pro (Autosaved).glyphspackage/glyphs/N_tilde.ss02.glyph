@@ -1,0 +1,32 @@
+{
+color = 10;
+glyphname = Ntilde.ss02;
+lastChange = "2022-04-21 02:21:50 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = N.ss02;
+},
+{
+pos = (323,143);
+ref = tilde;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = N.ss02;
+},
+{
+pos = (405,175);
+ref = tildecomb.case;
+}
+);
+width = 492;
+}
+);
+note = Ntilde;
+}

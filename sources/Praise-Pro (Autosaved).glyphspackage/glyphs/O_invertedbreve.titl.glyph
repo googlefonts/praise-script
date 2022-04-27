@@ -1,0 +1,31 @@
+{
+color = 10;
+glyphname = Oinvertedbreve.titl;
+lastChange = "2022-04-21 02:45:09 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = O.titl;
+},
+{
+pos = (155,262);
+ref = breveinvertedcomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = O.titl;
+},
+{
+pos = (314,168);
+ref = breveinvertedcomb.case;
+}
+);
+width = 506;
+}
+);
+}

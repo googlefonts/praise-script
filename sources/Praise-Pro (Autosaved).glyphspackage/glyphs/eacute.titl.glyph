@@ -1,0 +1,32 @@
+{
+color = 10;
+glyphname = eacute.titl;
+lastChange = "2022-04-26 07:06:40 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = e.titl;
+},
+{
+pos = (230,-5);
+ref = acute;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = e.titl;
+},
+{
+pos = (262,46);
+ref = acutecomb;
+}
+);
+width = 344;
+}
+);
+note = eacute;
+}

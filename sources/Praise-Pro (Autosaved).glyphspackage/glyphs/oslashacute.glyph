@@ -1,0 +1,31 @@
+{
+color = 7;
+glyphname = oslashacute;
+lastChange = "2022-04-16 05:08:31 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = oslash;
+},
+{
+ref = acutecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = oslash;
+},
+{
+pos = (302,33);
+ref = acutecomb;
+}
+);
+width = 405;
+}
+);
+unicode = 511;
+}

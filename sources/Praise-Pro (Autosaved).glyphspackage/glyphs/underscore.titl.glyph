@@ -1,0 +1,55 @@
+{
+color = 1;
+glyphname = underscore.titl;
+lastChange = "2022-04-08 20:31:11 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(494,-139,ls),
+(509.925,-139,o),
+(528.325,-94,o),
+(510,-94,cs),
+(1,-94,ls),
+(-13.732,-94,o),
+(-40.841,-139,o),
+(-26,-139,cs)
+);
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+closed = 1;
+nodes = (
+(494,-139,ls),
+(505,-139,o),
+(518,-117,o),
+(518,-104,cs),
+(518,-98,o),
+(515,-94,o),
+(510,-94,cs),
+(1,-94,ls),
+(-13.732,-94,o),
+(-40.841,-139,o),
+(-26,-139,cs)
+);
+}
+);
+userData = {
+assembly = "SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+PUSHW[ ]	/* 4 values pushed */
+0 5 5 4 
+CALL[ ]	/* CallFunction */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */";
+};
+width = 510;
+}
+);
+note = underscore;
+}

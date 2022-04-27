@@ -1,0 +1,34 @@
+{
+color = 5;
+glyphname = f_f.ss04;
+lastChange = "2022-04-22 17:17:08 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+pos = (3,0);
+ref = f.ss04;
+},
+{
+pos = (259,0);
+ref = f.ss04;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = f.ss04;
+},
+{
+pos = (263,0);
+ref = f.ss04;
+}
+);
+width = 526;
+}
+);
+metricLeft = f;
+metricRight = f;
+}

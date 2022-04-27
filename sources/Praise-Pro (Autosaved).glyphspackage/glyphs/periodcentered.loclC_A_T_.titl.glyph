@@ -1,0 +1,25 @@
+{
+color = 1;
+glyphname = periodcentered.loclCAT.titl;
+lastChange = "2022-04-08 20:31:11 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+pos = (-29,220);
+ref = period.titl;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+pos = (-29,220);
+ref = period.titl;
+}
+);
+width = 285;
+}
+);
+}

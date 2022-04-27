@@ -1,0 +1,31 @@
+{
+color = 10;
+glyphname = edblgrave.titl;
+lastChange = "2022-04-26 07:06:40 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = e.titl;
+},
+{
+pos = (57,33);
+ref = dblgravecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = e.titl;
+},
+{
+pos = (75,46);
+ref = dblgravecomb;
+}
+);
+width = 344;
+}
+);
+}

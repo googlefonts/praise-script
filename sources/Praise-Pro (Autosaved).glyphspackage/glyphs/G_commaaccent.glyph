@@ -1,0 +1,32 @@
+{
+color = 10;
+glyphname = Gcommaaccent;
+lastChange = "2022-04-19 21:21:09 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = G;
+},
+{
+pos = (196,0);
+ref = commaaccentcomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = G;
+},
+{
+pos = (8,30);
+ref = commaaccentcomb;
+}
+);
+width = 492;
+}
+);
+unicode = 290;
+}

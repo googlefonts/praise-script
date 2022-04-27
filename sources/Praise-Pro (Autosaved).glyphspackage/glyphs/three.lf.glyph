@@ -1,0 +1,25 @@
+{
+color = 3;
+glyphname = three.lf;
+lastChange = "2022-04-08 20:31:11 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = three;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = three;
+}
+);
+width = 418;
+}
+);
+metricLeft = three;
+metricRight = three;
+}

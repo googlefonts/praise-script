@@ -1,0 +1,31 @@
+{
+glyphname = adieresis.ss04;
+lastChange = "2022-04-16 05:22:02 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = a.ss04;
+},
+{
+pos = (243,-7);
+ref = dieresis;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = a.ss04;
+},
+{
+pos = (275,0);
+ref = dieresiscomb;
+}
+);
+width = 426;
+}
+);
+note = adieresis;
+}

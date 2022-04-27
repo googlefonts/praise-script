@@ -1,0 +1,32 @@
+{
+color = 10;
+glyphname = Zdotaccent.ss04;
+lastChange = "2022-04-22 16:14:58 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = Z.ss04;
+},
+{
+pos = (353,108);
+ref = dotaccent;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = Z.ss04;
+},
+{
+pos = (392,154);
+ref = dotaccentcomb.case;
+}
+);
+width = 459;
+}
+);
+note = Zdotaccent;
+}

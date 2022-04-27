@@ -1,0 +1,31 @@
+{
+color = 10;
+glyphname = Uhookabove.titl;
+lastChange = "2022-04-26 00:17:01 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = U.titl;
+},
+{
+pos = (313,73);
+ref = hookabovecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = U.titl;
+},
+{
+pos = (455,175);
+ref = hookabovecomb.case;
+}
+);
+width = 519;
+}
+);
+}

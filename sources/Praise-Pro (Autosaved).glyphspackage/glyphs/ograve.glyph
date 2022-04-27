@@ -1,0 +1,31 @@
+{
+glyphname = ograve;
+lastChange = "2022-04-16 05:08:26 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = o;
+},
+{
+pos = (44,-34);
+ref = gravecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = o;
+},
+{
+pos = (174,0);
+ref = gravecomb;
+}
+);
+width = 404;
+}
+);
+unicode = 242;
+}

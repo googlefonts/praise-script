@@ -1,0 +1,23 @@
+{
+glyphname = breve;
+lastChange = "2022-04-15 05:19:49 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = brevecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = brevecomb;
+}
+);
+width = 235;
+}
+);
+unicode = 728;
+}

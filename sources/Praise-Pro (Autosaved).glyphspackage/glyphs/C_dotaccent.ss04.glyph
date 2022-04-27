@@ -1,0 +1,31 @@
+{
+color = 10;
+glyphname = Cdotaccent.ss04;
+lastChange = "2022-04-22 15:43:00 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = C.ss04;
+},
+{
+pos = (457,90);
+ref = dotaccentcomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = C.ss04;
+},
+{
+pos = (472,180);
+ref = dotaccentcomb.case;
+}
+);
+width = 501;
+}
+);
+}

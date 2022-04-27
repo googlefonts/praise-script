@@ -1,0 +1,31 @@
+{
+color = 10;
+glyphname = Ymacron.ss03;
+lastChange = "2022-04-22 15:43:00 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = Y.ss03;
+},
+{
+pos = (740,111);
+ref = macroncomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = Y.ss03;
+},
+{
+pos = (860,243);
+ref = macroncomb.case;
+}
+);
+width = 963;
+}
+);
+}

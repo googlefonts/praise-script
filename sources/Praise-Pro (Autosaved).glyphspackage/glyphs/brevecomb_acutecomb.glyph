@@ -1,0 +1,40 @@
+{
+glyphname = brevecomb_acutecomb;
+lastChange = "2022-04-15 06:47:30 +0000";
+layers = (
+{
+background = {
+anchors = (
+{
+name = _top;
+pos = (138,454);
+},
+{
+name = top;
+pos = (122,651);
+}
+);
+shapes = (
+{
+ref = brevecomb;
+},
+{
+pos = (82,106);
+ref = acutecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = brevecomb;
+},
+{
+pos = (94,129);
+ref = acutecomb;
+}
+);
+width = 235;
+}
+);
+}

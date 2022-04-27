@@ -1,0 +1,32 @@
+{
+color = 10;
+glyphname = Ydieresis.ss04;
+lastChange = "2022-04-22 16:14:58 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = Y.ss04;
+},
+{
+pos = (473,142);
+ref = dieresis;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = Y.ss04;
+},
+{
+pos = (606,175);
+ref = dieresiscomb.case;
+}
+);
+width = 744;
+}
+);
+note = Ydieresis;
+}

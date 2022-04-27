@@ -1,0 +1,32 @@
+{
+color = 10;
+glyphname = Tcedilla;
+lastChange = "2022-04-19 21:21:09 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = T;
+},
+{
+pos = (100,0);
+ref = cedillacomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = T;
+},
+{
+pos = (110,7);
+ref = cedillacomb;
+}
+);
+width = 357;
+}
+);
+unicode = 354;
+}

@@ -1,0 +1,32 @@
+{
+color = 10;
+glyphname = Ccedilla.ss02;
+lastChange = "2022-04-22 15:15:09 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = C.ss02;
+},
+{
+pos = (-73,12);
+ref = cedilla;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = C.ss02;
+},
+{
+pos = (137,11);
+ref = cedillacomb;
+}
+);
+width = 453;
+}
+);
+note = Ccedilla;
+}

@@ -1,0 +1,32 @@
+{
+color = 10;
+glyphname = Omacron.ss02;
+lastChange = "2022-04-21 02:21:50 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = O.ss02;
+},
+{
+pos = (330,106);
+ref = macron;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = O.ss02;
+},
+{
+pos = (353,165);
+ref = macroncomb.case;
+}
+);
+width = 511;
+}
+);
+note = Omacron;
+}

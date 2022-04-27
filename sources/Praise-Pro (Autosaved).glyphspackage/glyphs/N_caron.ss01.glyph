@@ -1,0 +1,31 @@
+{
+color = 10;
+glyphname = Ncaron.ss01;
+lastChange = "2022-04-22 15:15:09 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = N.ss01;
+},
+{
+pos = (266,205);
+ref = caroncomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = N.ss01;
+},
+{
+pos = (823,175);
+ref = caroncomb.case;
+}
+);
+width = 850;
+}
+);
+}

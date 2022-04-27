@@ -1,0 +1,38 @@
+{
+color = 9;
+glyphname = f_f_i.ss01;
+lastChange = "2022-04-22 17:17:08 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+pos = (72,0);
+ref = f.ss01;
+},
+{
+pos = (386,0);
+ref = f.ss01;
+},
+{
+pos = (700,0);
+ref = i.ss01;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = f.ss01;
+},
+{
+pos = (314,0);
+ref = f.ss01;
+}
+);
+width = 628;
+}
+);
+metricLeft = f;
+metricRight = i;
+}

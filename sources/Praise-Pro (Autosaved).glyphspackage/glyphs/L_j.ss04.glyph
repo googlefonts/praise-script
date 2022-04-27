@@ -1,0 +1,31 @@
+{
+color = 10;
+glyphname = Lj.ss04;
+lastChange = "2022-04-22 15:43:00 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = L.ss04;
+},
+{
+pos = (589,0);
+ref = j.ss04;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = L.ss04;
+},
+{
+pos = (617,0);
+ref = j.ss04;
+}
+);
+width = 847;
+}
+);
+}

@@ -1,0 +1,32 @@
+{
+color = 10;
+glyphname = Scaron;
+lastChange = "2022-04-22 06:36:08 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = S;
+},
+{
+pos = (98,179);
+ref = caroncomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = S;
+},
+{
+pos = (348,175);
+ref = caroncomb.case;
+}
+);
+width = 485;
+}
+);
+unicode = 352;
+}

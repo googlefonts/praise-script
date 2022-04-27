@@ -1,0 +1,31 @@
+{
+color = 10;
+glyphname = Jcircumflex.ss01;
+lastChange = "2022-04-22 15:15:09 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = J.ss01;
+},
+{
+pos = (152,205);
+ref = circumflexcomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = J.ss01;
+},
+{
+pos = (585,152);
+ref = circumflexcomb.case;
+}
+);
+width = 571;
+}
+);
+}

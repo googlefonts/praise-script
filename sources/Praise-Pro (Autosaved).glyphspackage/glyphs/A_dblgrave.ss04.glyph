@@ -1,0 +1,31 @@
+{
+color = 10;
+glyphname = Adblgrave.ss04;
+lastChange = "2022-04-22 15:43:00 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = A.ss04;
+},
+{
+pos = (641,174);
+ref = dblgravecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = A.ss04;
+},
+{
+pos = (752,175);
+ref = dblgravecomb.case;
+}
+);
+width = 926;
+}
+);
+}

@@ -1,0 +1,30 @@
+{
+color = 10;
+glyphname = Ldot.ss01;
+lastChange = "2022-04-22 15:15:09 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = L.ss01;
+},
+{
+ref = periodcentered;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = L.ss01;
+},
+{
+pos = (623,-19);
+ref = periodcentered;
+}
+);
+width = 929;
+}
+);
+}
