@@ -1,0 +1,32 @@
+{
+color = 4;
+glyphname = ohorndotbelow;
+lastChange = "2022-06-01 22:08:56 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = ohorn;
+},
+{
+pos = (156,0);
+ref = dotbelowcomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = ohorn;
+},
+{
+pos = (59,0);
+ref = dotbelowcomb;
+}
+);
+width = 407;
+}
+);
+unicode = 7907;
+}

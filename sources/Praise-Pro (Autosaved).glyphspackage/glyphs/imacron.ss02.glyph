@@ -1,0 +1,32 @@
+{
+color = 4;
+glyphname = imacron.ss02;
+lastChange = "2022-05-31 21:09:52 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = idotless.ss02;
+},
+{
+pos = (157,-51);
+ref = macron;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = idotless.ss02;
+},
+{
+pos = (172,0);
+ref = macron;
+}
+);
+width = 210;
+}
+);
+note = imacron;
+}

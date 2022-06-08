@@ -1,0 +1,30 @@
+{
+color = 4;
+glyphname = Ucaron.titl;
+lastChange = "2022-06-02 03:24:10 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = U.titl;
+},
+{
+ref = caroncomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = U.titl;
+},
+{
+pos = (402,175);
+ref = caroncomb.case;
+}
+);
+width = 519;
+}
+);
+}

@@ -1,0 +1,31 @@
+{
+glyphname = Ydotbelow;
+lastChange = "2022-06-03 20:23:03 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = Y;
+},
+{
+pos = (256,0);
+ref = dotbelowcomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = Y;
+},
+{
+pos = (577,-20);
+ref = dotbelowcomb;
+}
+);
+width = 691;
+}
+);
+unicode = 7924;
+}

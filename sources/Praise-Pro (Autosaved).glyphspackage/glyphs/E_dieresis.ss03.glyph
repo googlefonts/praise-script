@@ -1,0 +1,32 @@
+{
+color = 4;
+glyphname = Edieresis.ss03;
+lastChange = "2022-06-02 01:15:11 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = E.ss03;
+},
+{
+pos = (599,229);
+ref = dieresis;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = E.ss03;
+},
+{
+pos = (620,242);
+ref = dieresiscomb.case;
+}
+);
+width = 716;
+}
+);
+note = Edieresis;
+}

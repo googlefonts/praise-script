@@ -1,0 +1,29 @@
+{
+glyphname = kcommaaccent.ss04;
+lastChange = "2022-06-03 18:17:16 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = k.ss04;
+},
+{
+ref = commaaccentcomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = k.ss04;
+},
+{
+pos = (90,0);
+ref = commaaccentcomb;
+}
+);
+width = 381;
+}
+);
+}

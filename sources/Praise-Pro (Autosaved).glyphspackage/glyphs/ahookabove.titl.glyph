@@ -1,0 +1,31 @@
+{
+color = 4;
+glyphname = ahookabove.titl;
+lastChange = "2022-06-02 03:29:10 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = a.titl;
+},
+{
+pos = (299,-25);
+ref = hookabovecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = a.titl;
+},
+{
+pos = (338,47);
+ref = hookabovecomb;
+}
+);
+width = 390;
+}
+);
+}

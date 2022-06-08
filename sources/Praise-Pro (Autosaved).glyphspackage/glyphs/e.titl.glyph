@@ -1,0 +1,19 @@
+{
+glyphname = e.titl;
+lastChange = "2022-06-02 03:29:07 +0000";
+layers = (
+{
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+alignment = -1;
+pos = (-8,0);
+ref = E.titl;
+scale = (0.8,0.8);
+}
+);
+width = 339;
+}
+);
+note = E.smcp;
+}

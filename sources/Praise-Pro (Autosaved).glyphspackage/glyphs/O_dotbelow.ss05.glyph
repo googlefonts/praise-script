@@ -1,0 +1,30 @@
+{
+color = 4;
+glyphname = Odotbelow.ss05;
+lastChange = "2022-06-02 01:02:25 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = O.ss05;
+},
+{
+ref = dotbelowcomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = O.ss05;
+},
+{
+pos = (201,0);
+ref = dotbelowcomb;
+}
+);
+width = 647;
+}
+);
+}

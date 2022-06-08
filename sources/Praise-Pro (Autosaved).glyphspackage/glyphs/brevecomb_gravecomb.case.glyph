@@ -1,0 +1,42 @@
+{
+color = 11;
+glyphname = brevecomb_gravecomb.case;
+lastChange = "2022-06-01 02:08:30 +0000";
+layers = (
+{
+background = {
+anchors = (
+{
+name = _top;
+pos = (140,454);
+},
+{
+name = top;
+pos = (140,736);
+}
+);
+shapes = (
+{
+pos = (42,0);
+ref = brevecomb;
+},
+{
+pos = (0,105);
+ref = gravecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = brevecomb.case;
+},
+{
+pos = (-28,129);
+ref = gravecomb.case;
+}
+);
+width = 235;
+}
+);
+}

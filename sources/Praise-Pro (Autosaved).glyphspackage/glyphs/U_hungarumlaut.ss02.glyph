@@ -1,0 +1,32 @@
+{
+color = 4;
+glyphname = Uhungarumlaut.ss02;
+lastChange = "2022-06-01 22:49:30 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = U.ss02;
+},
+{
+pos = (361,37);
+ref = hungarumlaut;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = U.ss02;
+},
+{
+pos = (380,175);
+ref = hungarumlautcomb.case;
+}
+);
+width = 489;
+}
+);
+note = Uhungarumlaut;
+}

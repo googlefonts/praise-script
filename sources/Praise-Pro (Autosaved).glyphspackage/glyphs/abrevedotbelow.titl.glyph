@@ -1,0 +1,39 @@
+{
+color = 4;
+glyphname = abrevedotbelow.titl;
+lastChange = "2022-06-02 03:29:10 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = a.titl;
+},
+{
+pos = (139,-137);
+ref = dotbelowcomb;
+},
+{
+pos = (294,-13);
+ref = brevecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = a.titl;
+},
+{
+pos = (79,0);
+ref = dotbelowcomb;
+},
+{
+pos = (267,47);
+ref = brevecomb;
+}
+);
+width = 390;
+}
+);
+}

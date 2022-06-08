@@ -1,0 +1,40 @@
+{
+color = 4;
+glyphname = ocircumflexdotbelow;
+lastChange = "2022-06-01 22:08:56 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = o;
+},
+{
+pos = (156,0);
+ref = dotbelowcomb;
+},
+{
+pos = (80,0);
+ref = circumflexcomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = o;
+},
+{
+pos = (59,0);
+ref = dotbelowcomb;
+},
+{
+pos = (212,0);
+ref = circumflexcomb;
+}
+);
+width = 407;
+}
+);
+unicode = 7897;
+}

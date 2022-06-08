@@ -1,0 +1,32 @@
+{
+color = 4;
+glyphname = Aogonek.titl;
+lastChange = "2022-06-02 03:24:10 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = A.titl;
+},
+{
+pos = (240,22);
+ref = ogonek;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = A.titl;
+},
+{
+pos = (285,0);
+ref = ogonekcomb;
+}
+);
+width = 481;
+}
+);
+note = Aogonek;
+}

@@ -1,0 +1,55 @@
+{
+color = 0;
+glyphname = brokenbar;
+lastChange = "2022-06-01 02:09:47 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(297,344,l),
+(419,632,l),
+(306,632,l),
+(184,344,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(152,0,l),
+(267,274,l),
+(154,274,l),
+(39,0,l)
+);
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+closed = 1;
+nodes = (
+(297,344,l),
+(419,632,l),
+(306,632,l),
+(184,344,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(152,0,l),
+(267,274,l),
+(154,274,l),
+(39,0,l)
+);
+}
+);
+width = 309;
+}
+);
+note = brokenbar;
+unicode = 166;
+}

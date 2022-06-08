@@ -1,0 +1,31 @@
+{
+color = 4;
+glyphname = Tbar.ss01;
+lastChange = "2022-06-02 01:15:11 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = T.ss01;
+},
+{
+pos = (132,157);
+ref = strokeshortcomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = T.ss01;
+},
+{
+pos = (466,120);
+ref = strokeshortcomb;
+}
+);
+width = 643;
+}
+);
+}

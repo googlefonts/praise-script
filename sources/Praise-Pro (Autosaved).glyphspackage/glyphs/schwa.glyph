@@ -1,0 +1,30 @@
+{
+color = 4;
+glyphname = schwa;
+lastChange = "2022-06-01 02:13:04 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+alignment = -1;
+angle = 180;
+pos = (449,426);
+ref = e;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+alignment = -1;
+angle = 180;
+pos = (449,426);
+ref = e;
+}
+);
+width = 408;
+}
+);
+unicode = 601;
+}

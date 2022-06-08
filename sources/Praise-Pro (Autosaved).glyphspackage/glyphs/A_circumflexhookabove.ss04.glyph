@@ -1,0 +1,31 @@
+{
+color = 4;
+glyphname = Acircumflexhookabove.ss04;
+lastChange = "2022-06-01 02:13:04 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = A.ss04;
+},
+{
+pos = (795,89);
+ref = circumflexcomb_hookabovecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = A.ss04;
+},
+{
+pos = (855,175);
+ref = circumflexcomb_hookabovecomb.case;
+}
+);
+width = 926;
+}
+);
+}

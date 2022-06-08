@@ -1,0 +1,39 @@
+{
+color = 4;
+glyphname = Odotaccentmacron.titl;
+lastChange = "2022-06-03 18:46:44 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = O.titl;
+},
+{
+pos = (353,64);
+ref = dotaccentcomb;
+},
+{
+pos = (299,231);
+ref = macroncomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = O.titl;
+},
+{
+pos = (408,168);
+ref = dotaccentcomb.case;
+},
+{
+pos = (392,325);
+ref = macroncomb.case;
+}
+);
+width = 491;
+}
+);
+}

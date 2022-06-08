@@ -1,0 +1,31 @@
+{
+color = 4;
+glyphname = Uhornhookabove.ss03;
+lastChange = "2022-06-02 01:02:26 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = Uhorn.ss03;
+},
+{
+pos = (708,131);
+ref = hookabovecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = Uhorn.ss03;
+},
+{
+pos = (847,175);
+ref = hookabovecomb.case;
+}
+);
+width = 910;
+}
+);
+}

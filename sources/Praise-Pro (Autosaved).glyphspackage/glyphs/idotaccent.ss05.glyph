@@ -1,0 +1,30 @@
+{
+color = 4;
+glyphname = idotaccent.ss05;
+lastChange = "2022-06-01 21:27:50 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = idotless.ss05;
+},
+{
+ref = dotaccentcomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = idotless.ss05;
+},
+{
+pos = (250,0);
+ref = dotaccentcomb;
+}
+);
+width = 254;
+}
+);
+}

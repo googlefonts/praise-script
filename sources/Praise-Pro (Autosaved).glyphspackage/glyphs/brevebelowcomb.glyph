@@ -1,0 +1,48 @@
+{
+color = 11;
+glyphname = brevebelowcomb;
+lastChange = "2022-06-01 02:08:30 +0000";
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+pos = (139,0);
+},
+{
+name = bottom;
+pos = (118,-161);
+}
+);
+background = {
+anchors = (
+{
+name = _bottom;
+pos = (108,0);
+},
+{
+name = bottom;
+pos = (108,-167);
+}
+);
+shapes = (
+{
+pos = (0,-628);
+ref = brevecomb;
+scale = (0.9216,0.8812);
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+pos = (0,-601);
+ref = brevecomb;
+scale = (0.9216,0.8812);
+}
+);
+width = 217;
+}
+);
+unicode = 814;
+}

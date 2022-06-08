@@ -1,0 +1,19 @@
+{
+glyphname = rdblgrave.init;
+lastChange = "2022-06-03 19:58:39 +0000";
+layers = (
+{
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = r.init;
+},
+{
+pos = (86,31);
+ref = dblgravecomb;
+}
+);
+width = 314;
+}
+);
+}

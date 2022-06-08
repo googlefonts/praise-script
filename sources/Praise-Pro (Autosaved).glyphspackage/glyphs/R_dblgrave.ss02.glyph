@@ -1,0 +1,31 @@
+{
+color = 4;
+glyphname = Rdblgrave.ss02;
+lastChange = "2022-06-01 22:49:30 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = R.ss02;
+},
+{
+pos = (193,179);
+ref = dblgravecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = R.ss02;
+},
+{
+pos = (170,171);
+ref = dblgravecomb.case;
+}
+);
+width = 468;
+}
+);
+}

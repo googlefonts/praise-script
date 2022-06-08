@@ -1,0 +1,100 @@
+{
+color = 0;
+glyphname = ordmasculine.ss02.ss02;
+lastChange = "2022-06-01 02:09:47 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(220,329,o),
+(279,448,o),
+(279,501,cs),
+(279,533,o),
+(253,540,o),
+(222,540,cs),
+(151.807,540,o),
+(91,446.589,o),
+(91,378,cs),
+(91,339.333,o),
+(116,329,o),
+(156,329,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(144,371,o),
+(172,433,o),
+(176,443,cs),
+(186.44,465.371,o),
+(215.982,529,o),
+(227,529,cs),
+(243.372,529,o),
+(204.004,445.008,o),
+(199,435,cs),
+(186,406,o),
+(144,315,o),
+(144,349,cs)
+);
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+closed = 1;
+nodes = (
+(220,329,o),
+(279,448,o),
+(279,501,cs),
+(279,533,o),
+(253,540,o),
+(222,540,cs),
+(151.807,540,o),
+(91,446.589,o),
+(91,378,cs),
+(91,339.333,o),
+(116,329,o),
+(156,329,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(144,371,o),
+(172,433,o),
+(176,443,cs),
+(186.44,465.371,o),
+(215.982,529,o),
+(227,529,cs),
+(243.372,529,o),
+(204.004,445.008,o),
+(199,435,cs),
+(186,406,o),
+(144,315,o),
+(144,349,cs)
+);
+}
+);
+userData = {
+assembly = "PUSHW[ ]	/* 4 values pushed */
+0 10 8 4 
+CALL[ ]	/* CallFunction */
+NPUSHW[ ]	/* 11 values pushed */
+6 0 22 0 38 0 54 0 70 0 5 
+DELTAP1[ ]	/* DeltaExceptionP1 */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+PUSHW[ ]	/* 4 values pushed */
+13 5 5 4 
+CALL[ ]	/* CallFunction */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */";
+};
+width = 352;
+}
+);
+note = ordmasculine;
+}

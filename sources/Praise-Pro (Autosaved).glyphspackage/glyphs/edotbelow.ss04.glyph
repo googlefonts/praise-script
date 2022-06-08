@@ -1,0 +1,31 @@
+{
+color = 4;
+glyphname = edotbelow.ss04;
+lastChange = "2022-05-31 21:09:52 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = e.ss04;
+},
+{
+pos = (77,-145);
+ref = dotbelowcomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = e.ss04;
+},
+{
+pos = (86,0);
+ref = dotbelowcomb;
+}
+);
+width = 332;
+}
+);
+}

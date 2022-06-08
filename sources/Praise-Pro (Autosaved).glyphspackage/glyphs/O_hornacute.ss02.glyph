@@ -1,0 +1,31 @@
+{
+color = 4;
+glyphname = Ohornacute.ss02;
+lastChange = "2022-06-01 22:49:30 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = Ohorn.ss02;
+},
+{
+pos = (390,161);
+ref = acutecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = Ohorn.ss02;
+},
+{
+pos = (406,165);
+ref = acutecomb.case;
+}
+);
+width = 506;
+}
+);
+}

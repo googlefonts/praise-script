@@ -1,0 +1,32 @@
+{
+color = 4;
+glyphname = abrevegrave;
+lastChange = "2022-05-31 21:09:52 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = a;
+},
+{
+pos = (72,0);
+ref = brevecomb_gravecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = a;
+},
+{
+pos = (245,0);
+ref = brevecomb_gravecomb;
+}
+);
+width = 426;
+}
+);
+unicode = 7857;
+}

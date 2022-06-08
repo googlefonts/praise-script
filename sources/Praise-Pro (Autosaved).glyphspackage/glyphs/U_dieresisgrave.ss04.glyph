@@ -1,0 +1,38 @@
+{
+color = 4;
+glyphname = Udieresisgrave.ss04;
+lastChange = "2022-06-02 01:02:26 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = U.ss04;
+},
+{
+ref = dieresiscomb;
+},
+{
+pos = (-35,133);
+ref = gravecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = U.ss04;
+},
+{
+pos = (736,175);
+ref = dieresiscomb.case;
+},
+{
+pos = (704,312);
+ref = gravecomb.case;
+}
+);
+width = 833;
+}
+);
+}

@@ -1,0 +1,38 @@
+{
+color = 4;
+glyphname = Aringacute.ss05;
+lastChange = "2022-06-02 01:15:11 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = A.ss05;
+},
+{
+ref = ringcomb;
+},
+{
+pos = (60,166);
+ref = acutecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = A.ss05;
+},
+{
+pos = (1004,186);
+ref = ringcomb.case;
+},
+{
+pos = (1112,361);
+ref = acutecomb.case;
+}
+);
+width = 998;
+}
+);
+}

@@ -1,0 +1,31 @@
+{
+color = 4;
+glyphname = ebreve.ss02;
+lastChange = "2022-06-01 22:08:56 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = e.ss02;
+},
+{
+pos = (171,-70);
+ref = brevecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = e.ss02;
+},
+{
+pos = (187,0);
+ref = brevecomb;
+}
+);
+width = 349;
+}
+);
+}

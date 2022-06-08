@@ -1,0 +1,31 @@
+{
+color = 4;
+glyphname = Obreve.ss03;
+lastChange = "2022-06-02 01:02:26 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = O.ss03;
+},
+{
+pos = (426,197);
+ref = brevecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = O.ss03;
+},
+{
+pos = (578,228);
+ref = brevecomb.case;
+}
+);
+width = 768;
+}
+);
+}

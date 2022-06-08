@@ -1,0 +1,36 @@
+{
+color = 0;
+glyphname = divisionslash;
+lastChange = "2022-06-01 02:09:47 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(65,-49,l),
+(540,633,l),
+(472,633,l),
+(-2,-49,l)
+);
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+closed = 1;
+nodes = (
+(65,-49,l),
+(540,633,l),
+(472,633,l),
+(-2,-49,l)
+);
+}
+);
+width = 582;
+}
+);
+unicode = 8725;
+}

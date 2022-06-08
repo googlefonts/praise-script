@@ -1,0 +1,32 @@
+{
+color = 4;
+glyphname = Zacute.ss04;
+lastChange = "2022-06-02 01:02:26 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = Z.ss04;
+},
+{
+pos = (299,118);
+ref = acute;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = Z.ss04;
+},
+{
+pos = (378,154);
+ref = acutecomb.case;
+}
+);
+width = 454;
+}
+);
+note = Zacute;
+}

@@ -1,0 +1,31 @@
+{
+color = 4;
+glyphname = ytilde.ss03;
+lastChange = "2022-05-31 21:09:52 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = y.ss03;
+},
+{
+pos = (159,-39);
+ref = tildecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = y.ss03;
+},
+{
+pos = (194,0);
+ref = tildecomb;
+}
+);
+width = 388;
+}
+);
+}

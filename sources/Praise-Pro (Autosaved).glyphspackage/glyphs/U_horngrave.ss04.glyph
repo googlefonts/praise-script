@@ -1,0 +1,31 @@
+{
+color = 4;
+glyphname = Uhorngrave.ss04;
+lastChange = "2022-06-02 01:15:11 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = Uhorn.ss04;
+},
+{
+pos = (596,140);
+ref = gravecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = Uhorn.ss04;
+},
+{
+pos = (664,175);
+ref = gravecomb.case;
+}
+);
+width = 833;
+}
+);
+}

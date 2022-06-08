@@ -1,0 +1,30 @@
+{
+color = 4;
+glyphname = Hcircumflex.ss05;
+lastChange = "2022-06-02 01:02:26 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = H.ss05;
+},
+{
+ref = circumflexcomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = H.ss05;
+},
+{
+pos = (694,175);
+ref = circumflexcomb;
+}
+);
+width = 849;
+}
+);
+}

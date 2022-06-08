@@ -1,0 +1,30 @@
+{
+color = 4;
+glyphname = Ccaron.ss05;
+lastChange = "2022-06-08 16:52:30 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = C.ss05;
+},
+{
+ref = caroncomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = C.ss05;
+},
+{
+pos = (572,196);
+ref = caroncomb.case;
+}
+);
+width = 639;
+}
+);
+}

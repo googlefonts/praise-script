@@ -1,0 +1,32 @@
+{
+color = 4;
+glyphname = hbar.ss02;
+lastChange = "2022-06-01 22:08:56 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = h.ss02;
+},
+{
+pos = (140,353);
+ref = strokeshortcomb;
+scale = (1,0.6852);
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = h.ss02;
+},
+{
+pos = (126,243);
+ref = strokeshortcomb;
+}
+);
+width = 384;
+}
+);
+}

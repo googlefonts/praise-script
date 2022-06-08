@@ -1,0 +1,31 @@
+{
+glyphname = Uinvertedbreve;
+lastChange = "2022-06-03 20:22:28 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = U;
+},
+{
+pos = (180,179);
+ref = breveinvertedcomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = U;
+},
+{
+pos = (538,175);
+ref = breveinvertedcomb.case;
+}
+);
+width = 674;
+}
+);
+unicode = 534;
+}

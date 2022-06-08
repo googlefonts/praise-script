@@ -1,0 +1,31 @@
+{
+color = 4;
+glyphname = ohorngrave.titl;
+lastChange = "2022-06-02 03:24:10 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = ohorn.titl;
+},
+{
+pos = (219,0);
+ref = gravecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = ohorn.titl;
+},
+{
+pos = (173,49);
+ref = gravecomb;
+}
+);
+width = 395;
+}
+);
+}

@@ -1,0 +1,32 @@
+{
+color = 4;
+glyphname = uacute.ss04;
+lastChange = "2022-05-31 21:09:52 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = u.ss04;
+},
+{
+pos = (229,-25);
+ref = acute;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = u.ss04;
+},
+{
+pos = (270,0);
+ref = acutecomb;
+}
+);
+width = 401;
+}
+);
+note = uacute;
+}

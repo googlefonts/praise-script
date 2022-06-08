@@ -1,0 +1,31 @@
+{
+color = 4;
+glyphname = Odieresis.ss01;
+lastChange = "2022-06-02 01:15:11 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = O.ss01;
+},
+{
+pos = (210,205);
+ref = dieresiscomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = O.ss01;
+},
+{
+pos = (694,229);
+ref = dieresiscomb.case;
+}
+);
+width = 776;
+}
+);
+}

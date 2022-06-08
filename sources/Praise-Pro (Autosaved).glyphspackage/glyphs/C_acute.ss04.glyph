@@ -1,0 +1,32 @@
+{
+color = 4;
+glyphname = Cacute.ss04;
+lastChange = "2022-06-02 01:02:26 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = C.ss04;
+},
+{
+pos = (392,125);
+ref = acute;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = C.ss04;
+},
+{
+pos = (463,180);
+ref = acutecomb.case;
+}
+);
+width = 491;
+}
+);
+note = Cacute;
+}
