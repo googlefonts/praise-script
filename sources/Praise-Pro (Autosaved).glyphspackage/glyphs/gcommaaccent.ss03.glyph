@@ -1,0 +1,30 @@
+{
+glyphname = gcommaaccent.ss03;
+lastChange = "2022-06-17 19:55:35 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = g.ss03;
+},
+{
+pos = (231,-27);
+ref = commaturnedabovecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = g.ss03;
+},
+{
+pos = (350,0);
+ref = commaturnedabovecomb;
+}
+);
+width = 418;
+}
+);
+}

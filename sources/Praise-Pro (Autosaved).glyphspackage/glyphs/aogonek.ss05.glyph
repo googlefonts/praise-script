@@ -1,0 +1,29 @@
+{
+glyphname = aogonek.ss05;
+lastChange = "2022-06-14 22:07:04 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = a.ss05;
+},
+{
+ref = ogonekcomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = a.ss05;
+},
+{
+pos = (199,0);
+ref = ogonekcomb;
+}
+);
+width = 422;
+}
+);
+}

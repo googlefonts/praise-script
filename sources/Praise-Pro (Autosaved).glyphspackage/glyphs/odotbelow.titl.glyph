@@ -1,0 +1,31 @@
+{
+color = 4;
+glyphname = odotbelow.titl;
+lastChange = "2022-06-08 20:05:26 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = o.titl;
+},
+{
+pos = (62,-123);
+ref = dotbelowcomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = o.titl;
+},
+{
+pos = (53,-5);
+ref = dotbelowcomb;
+}
+);
+width = 395;
+}
+);
+}

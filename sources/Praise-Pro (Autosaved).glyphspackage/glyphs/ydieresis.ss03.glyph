@@ -1,0 +1,31 @@
+{
+glyphname = ydieresis.ss03;
+lastChange = "2022-06-15 16:22:56 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = y.ss03;
+},
+{
+pos = (163,-14);
+ref = dieresis;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = y.ss03;
+},
+{
+pos = (199,0);
+ref = dieresiscomb;
+}
+);
+width = 388;
+}
+);
+note = ydieresis;
+}

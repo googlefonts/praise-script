@@ -1,0 +1,30 @@
+{
+glyphname = Odblgrave.titl;
+lastChange = "2022-06-08 20:09:30 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = O.titl;
+},
+{
+pos = (160,143);
+ref = dblgravecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = O.titl;
+},
+{
+pos = (199,168);
+ref = dblgravecomb.case;
+}
+);
+width = 491;
+}
+);
+}

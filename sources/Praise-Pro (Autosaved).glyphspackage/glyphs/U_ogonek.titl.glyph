@@ -1,0 +1,31 @@
+{
+glyphname = Uogonek.titl;
+lastChange = "2022-06-08 20:09:30 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = U.titl;
+},
+{
+pos = (-83,0);
+ref = ogonek;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = U.titl;
+},
+{
+pos = (90,-10);
+ref = ogonekcomb;
+}
+);
+width = 519;
+}
+);
+note = Uogonek;
+}

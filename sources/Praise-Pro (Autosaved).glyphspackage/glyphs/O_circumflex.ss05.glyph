@@ -1,0 +1,29 @@
+{
+glyphname = Ocircumflex.ss05;
+lastChange = "2022-06-08 19:57:55 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = O.ss05;
+},
+{
+ref = circumflexcomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = O.ss05;
+},
+{
+pos = (487,201);
+ref = circumflexcomb.case;
+}
+);
+width = 647;
+}
+);
+}

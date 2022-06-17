@@ -1,0 +1,30 @@
+{
+glyphname = Atilde.ss01;
+lastChange = "2022-06-08 19:52:04 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = A.ss01;
+},
+{
+pos = (1079,165);
+ref = tildecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = A.ss01;
+},
+{
+pos = (1051,227);
+ref = tildecomb.case;
+}
+);
+width = 1075;
+}
+);
+}

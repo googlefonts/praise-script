@@ -1,0 +1,30 @@
+{
+glyphname = Wacute.ss03;
+lastChange = "2022-06-08 19:55:39 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = W.ss03;
+},
+{
+pos = (860,100);
+ref = acutecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = W.ss03;
+},
+{
+pos = (954,123);
+ref = acutecomb.case;
+}
+);
+width = 1155;
+}
+);
+}

@@ -1,0 +1,30 @@
+{
+glyphname = Ohorn.ss04;
+lastChange = "2022-06-08 19:56:17 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = O.ss04;
+},
+{
+pos = (478,-57);
+ref = horncomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = O.ss04;
+},
+{
+pos = (556,81);
+ref = horncomb;
+}
+);
+width = 596;
+}
+);
+}

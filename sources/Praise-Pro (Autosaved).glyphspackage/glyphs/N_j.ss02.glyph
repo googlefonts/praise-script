@@ -1,0 +1,31 @@
+{
+color = 0;
+glyphname = Nj.ss02;
+lastChange = "2022-06-03 18:11:25 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = N.ss02;
+},
+{
+pos = (507,0);
+ref = j.ss02;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = N.ss02;
+},
+{
+pos = (492,0);
+ref = j.ss02;
+}
+);
+width = 713;
+}
+);
+}

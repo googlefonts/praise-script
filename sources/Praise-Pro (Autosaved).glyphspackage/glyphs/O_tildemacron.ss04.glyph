@@ -1,0 +1,38 @@
+{
+glyphname = Otildemacron.ss04;
+lastChange = "2022-06-08 19:56:17 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = O.ss04;
+},
+{
+pos = (307,77);
+ref = tildecomb;
+},
+{
+pos = (332,237);
+ref = macroncomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = O.ss04;
+},
+{
+pos = (410,171);
+ref = tildecomb.case;
+},
+{
+pos = (461,291);
+ref = macroncomb.case;
+}
+);
+width = 596;
+}
+);
+}

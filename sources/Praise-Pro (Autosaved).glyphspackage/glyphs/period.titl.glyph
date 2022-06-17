@@ -1,0 +1,72 @@
+{
+color = 0;
+glyphname = period.titl;
+lastChange = "2022-06-01 02:09:47 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(182,-3.333,o),
+(211.667,22.667,o),
+(221,56,cs),
+(229,88,o),
+(213,113.667,o),
+(185,111,cs),
+(157,108.333,o),
+(127,82,o),
+(119,50,cs),
+(109.667,16.667,o),
+(126,-7.333,o),
+(154,-6,cs)
+);
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+closed = 1;
+nodes = (
+(180,-6,o),
+(211,22,o),
+(221,56,c),
+(222,62,o),
+(223,67,o),
+(223,72,cs),
+(223,94,o),
+(209,111,o),
+(189,111,cs),
+(155,111,o),
+(116,74,o),
+(116,32,cs),
+(116,9,o),
+(130,-6,o),
+(152,-6,cs)
+);
+}
+);
+userData = {
+assembly = "SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+PUSHW[ ]	/* 1 value pushed */
+0 
+RCVT[ ]	/* ReadCVT */
+IF[ ]	/* If */
+PUSHW[ ]	/* 1 value pushed */
+3 
+MDAP[1]	/* MoveDirectAbsPt */
+ELSE[ ]	/* Else */
+PUSHW[ ]	/* 2 values pushed */
+3 11 
+MIAP[0]	/* MoveIndirectAbsPt */
+EIF[ ]	/* EndIf */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */";
+};
+width = 285;
+}
+);
+note = period;
+}

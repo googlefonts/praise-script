@@ -1,0 +1,38 @@
+{
+color = 0;
+glyphname = Hbar.ss03;
+lastChange = "2022-06-08 19:57:09 +0000";
+layers = (
+{
+annotations = (
+{
+pos = (499.071,821.844);
+text = "Check with the rest of Hbar(s)";
+type = Text;
+}
+);
+background = {
+shapes = (
+{
+ref = H.ss03;
+},
+{
+pos = (345,211);
+ref = emdash;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = H.ss03;
+},
+{
+pos = (345,211);
+ref = emdash;
+}
+);
+width = 1022;
+}
+);
+}

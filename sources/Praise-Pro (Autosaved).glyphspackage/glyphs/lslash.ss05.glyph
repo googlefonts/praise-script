@@ -1,0 +1,35 @@
+{
+color = 0;
+glyphname = lslash.ss05;
+lastChange = "2022-06-13 20:01:14 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = l.ss05;
+},
+{
+angle = 14.24104;
+pos = (-102,-118);
+ref = hyphen;
+scale = (1.1569,1.0068);
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = l.ss05;
+},
+{
+angle = 14.24104;
+pos = (-102,-118);
+ref = hyphen;
+scale = (1.1569,1.0068);
+}
+);
+width = 253;
+}
+);
+}

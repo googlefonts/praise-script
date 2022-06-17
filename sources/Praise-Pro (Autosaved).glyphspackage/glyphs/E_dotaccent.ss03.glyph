@@ -1,0 +1,31 @@
+{
+glyphname = Edotaccent.ss03;
+lastChange = "2022-06-08 19:55:03 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = E.ss03;
+},
+{
+pos = (695,169);
+ref = dotaccent;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = E.ss03;
+},
+{
+pos = (692,242);
+ref = dotaccentcomb.case;
+}
+);
+width = 716;
+}
+);
+note = Edotaccent;
+}

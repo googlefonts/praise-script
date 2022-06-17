@@ -1,0 +1,19 @@
+{
+glyphname = AEacute;
+layers = (
+{
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = AE;
+},
+{
+pos = (615,175);
+ref = acutecomb.case;
+}
+);
+width = 703;
+}
+);
+unicode = 508;
+}

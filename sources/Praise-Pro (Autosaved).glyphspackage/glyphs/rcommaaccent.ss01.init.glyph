@@ -1,0 +1,19 @@
+{
+glyphname = rcommaaccent.ss01.init;
+lastChange = "2022-06-14 21:39:21 +0000";
+layers = (
+{
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = r.ss01.init;
+},
+{
+pos = (-18,72);
+ref = commaaccentcomb;
+}
+);
+width = 314;
+}
+);
+}

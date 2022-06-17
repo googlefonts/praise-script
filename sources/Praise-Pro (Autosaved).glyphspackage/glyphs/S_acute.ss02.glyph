@@ -1,0 +1,31 @@
+{
+glyphname = Sacute.ss02;
+lastChange = "2022-06-08 19:54:41 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = S.ss02;
+},
+{
+pos = (291,152);
+ref = acute;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = S.ss02;
+},
+{
+pos = (363,167);
+ref = acutecomb.case;
+}
+);
+width = 408;
+}
+);
+note = Sacute;
+}

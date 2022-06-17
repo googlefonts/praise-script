@@ -1,0 +1,34 @@
+{
+color = 0;
+glyphname = lira;
+lastChange = "2022-06-01 02:09:47 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = sterling;
+},
+{
+pos = (-140,-21);
+ref = hyphen;
+scale = (1.148,0.7343);
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = sterling;
+},
+{
+pos = (-140,-21);
+ref = hyphen;
+scale = (1.148,0.7343);
+}
+);
+width = 478;
+}
+);
+unicode = 8356;
+}

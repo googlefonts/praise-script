@@ -1,0 +1,33 @@
+{
+color = 0;
+glyphname = dcaron.ss03;
+lastChange = "2022-06-13 19:33:41 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = d.ss03;
+},
+{
+pos = (459,-30);
+ref = quoteright;
+scale = (0.791,0.7893);
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = d.ss03;
+},
+{
+pos = (925,324);
+ref = caroncomb.alt;
+}
+);
+width = 421;
+}
+);
+note = dcaron;
+}

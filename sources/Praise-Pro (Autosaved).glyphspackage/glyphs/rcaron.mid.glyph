@@ -1,0 +1,20 @@
+{
+glyphname = rcaron.mid;
+lastChange = "2022-06-14 21:27:49 +0000";
+layers = (
+{
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = r.mid;
+},
+{
+alignment = -1;
+pos = (231,11);
+ref = caroncomb;
+}
+);
+width = 338;
+}
+);
+}

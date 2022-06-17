@@ -1,0 +1,31 @@
+{
+glyphname = Ibreve;
+lastChange = "2022-06-03 20:39:40 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = I;
+},
+{
+pos = (65,179);
+ref = brevecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = I;
+},
+{
+pos = (301,185);
+ref = brevecomb.case;
+}
+);
+width = 354;
+}
+);
+unicode = 300;
+}

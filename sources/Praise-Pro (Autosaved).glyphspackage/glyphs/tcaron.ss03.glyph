@@ -1,0 +1,33 @@
+{
+color = 0;
+glyphname = tcaron.ss03;
+lastChange = "2022-06-14 21:29:01 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = t.ss03;
+},
+{
+pos = (401,243);
+ref = quoteright;
+scale = (0.791,0.7893);
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = t.ss03;
+},
+{
+pos = (530,315);
+ref = caroncomb.alt;
+}
+);
+width = 259;
+}
+);
+note = tcaron;
+}
