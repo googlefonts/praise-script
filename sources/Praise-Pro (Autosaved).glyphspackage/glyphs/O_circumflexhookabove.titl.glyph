@@ -1,0 +1,30 @@
+{
+glyphname = Ocircumflexhookabove.titl;
+lastChange = "2022-06-08 20:09:30 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = O.titl;
+},
+{
+pos = (290,72);
+ref = circumflexcomb_hookabovecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = O.titl;
+},
+{
+pos = (302,168);
+ref = circumflexcomb_hookabovecomb.case;
+}
+);
+width = 491;
+}
+);
+}

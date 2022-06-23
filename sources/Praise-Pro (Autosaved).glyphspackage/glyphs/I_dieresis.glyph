@@ -1,0 +1,31 @@
+{
+glyphname = Idieresis;
+lastChange = "2022-06-14 22:52:48 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = I;
+},
+{
+pos = (58,179);
+ref = dieresiscomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = I;
+},
+{
+pos = (321,185);
+ref = dieresiscomb.case;
+}
+);
+width = 354;
+}
+);
+unicode = 207;
+}

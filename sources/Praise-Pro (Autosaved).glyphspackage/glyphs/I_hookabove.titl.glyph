@@ -1,0 +1,30 @@
+{
+glyphname = Ihookabove.titl;
+lastChange = "2022-06-08 20:09:30 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = I.titl;
+},
+{
+pos = (260,91);
+ref = hookabovecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = I.titl;
+},
+{
+pos = (334,165);
+ref = hookabovecomb.case;
+}
+);
+width = 268;
+}
+);
+}

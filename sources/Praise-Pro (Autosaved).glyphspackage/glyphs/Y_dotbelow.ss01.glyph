@@ -1,0 +1,46 @@
+{
+color = 0;
+glyphname = Ydotbelow.ss01;
+lastChange = "2022-06-08 19:57:09 +0000";
+layers = (
+{
+annotations = (
+{
+pos = (378.908,539.397);
+text = "Double Check";
+type = Text;
+},
+{
+pos = (-2053.589,906.858);
+type = Text;
+},
+{
+pos = (-1427.135,-1497.75);
+type = Text;
+}
+);
+background = {
+shapes = (
+{
+ref = Y.ss01;
+},
+{
+pos = (339,0);
+ref = dotbelowcomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = Y.ss01;
+},
+{
+pos = (634,-157);
+ref = dotbelowcomb;
+}
+);
+width = 845;
+}
+);
+}

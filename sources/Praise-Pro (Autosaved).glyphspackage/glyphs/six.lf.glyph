@@ -1,0 +1,25 @@
+{
+color = 0;
+glyphname = six.lf;
+lastChange = "2022-06-01 02:09:47 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = six;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = six;
+}
+);
+width = 393;
+}
+);
+metricLeft = six;
+metricRight = six;
+}

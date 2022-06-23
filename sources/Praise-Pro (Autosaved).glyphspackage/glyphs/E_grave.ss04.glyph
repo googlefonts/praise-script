@@ -1,0 +1,31 @@
+{
+glyphname = Egrave.ss04;
+lastChange = "2022-06-08 19:55:59 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = E.ss04;
+},
+{
+pos = (356,138);
+ref = grave;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = E.ss04;
+},
+{
+pos = (279,175);
+ref = gravecomb.case;
+}
+);
+width = 533;
+}
+);
+note = Egrave;
+}

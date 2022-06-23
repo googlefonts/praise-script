@@ -1,0 +1,31 @@
+{
+glyphname = zcaron;
+lastChange = "2022-06-14 21:13:49 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = z;
+},
+{
+pos = (54,0);
+ref = caroncomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = z;
+},
+{
+pos = (224,-11);
+ref = caroncomb;
+}
+);
+width = 358;
+}
+);
+unicode = 382;
+}

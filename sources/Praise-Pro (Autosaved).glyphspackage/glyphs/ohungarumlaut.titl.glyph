@@ -1,0 +1,32 @@
+{
+color = 4;
+glyphname = ohungarumlaut.titl;
+lastChange = "2022-06-02 03:24:10 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = o.titl;
+},
+{
+pos = (253,-69);
+ref = hungarumlaut;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = o.titl;
+},
+{
+pos = (255,49);
+ref = hungarumlautcomb;
+}
+);
+width = 395;
+}
+);
+note = ohungarumlaut;
+}

@@ -1,0 +1,29 @@
+{
+glyphname = ibreve.ss05;
+lastChange = "2022-06-14 22:07:04 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = idotless.ss05;
+},
+{
+ref = brevecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = idotless.ss05;
+},
+{
+pos = (158,0);
+ref = brevecomb;
+}
+);
+width = 254;
+}
+);
+}

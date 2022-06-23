@@ -1,0 +1,105 @@
+{
+glyphname = thorn.titl;
+lastChange = "2022-06-14 21:31:34 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(82,-81,o),
+(73,-65,o),
+(77,-48,cs),
+(83,-13,o),
+(94,26,o),
+(110,67,c),
+(190,67,o),
+(258,96,o),
+(311,137,cs),
+(363,177,o),
+(395,228,o),
+(405,273,cs),
+(424,372,o),
+(338,394,o),
+(265,396,c),
+(269,409,o),
+(284,454,o),
+(286,465,cs),
+(291,493,o),
+(279,500,o),
+(258,500,cs),
+(228,500,o),
+(204,485,o),
+(178,439,cs),
+(131,356,o),
+(-1,76,o),
+(-16,8,cs),
+(-28,-49,o),
+(16,-70,o),
+(59,-76,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(144,146,o),
+(215,292,o),
+(239,346,c),
+(286,345,o),
+(310,319,o),
+(310,292,cs),
+(310,225,o),
+(210,112,o),
+(132,110,c)
+);
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+alignment = -1;
+pos = (-10,0);
+ref = Thorn.titl;
+scale = (0.8,0.8);
+}
+);
+userData = {
+assembly = "SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+PUSHW[ ]	/* 1 value pushed */
+0 
+RCVT[ ]	/* ReadCVT */
+IF[ ]	/* If */
+PUSHW[ ]	/* 1 value pushed */
+38 
+MDAP[1]	/* MoveDirectAbsPt */
+ELSE[ ]	/* Else */
+PUSHW[ ]	/* 2 values pushed */
+38 11 
+MIAP[0]	/* MoveIndirectAbsPt */
+EIF[ ]	/* EndIf */
+PUSHW[ ]	/* 2 values pushed */
+65 4 
+MIRP[10100]	/* MoveIndirectRelPt */
+NPUSHW[ ]	/* 33 values pushed */
+7 65 23 65 39 65 55 65 71 65 87 65 103 65 119 65 135 65 151 65 167 65 183 65 199 65 215 65 231 65 247 65 16 
+DELTAP1[ ]	/* DeltaExceptionP1 */
+NPUSHW[ ]	/* 33 values pushed */
+7 65 23 65 39 65 55 65 71 65 87 65 103 65 119 65 135 65 151 65 167 65 183 65 199 65 215 65 231 65 247 65 16 
+DELTAP2[ ]	/* DeltaExceptionP2 */
+NPUSHW[ ]	/* 19 values pushed */
+7 65 23 65 39 65 55 65 71 65 87 65 103 65 119 65 135 65 9 
+DELTAP3[ ]	/* DeltaExceptionP3 */
+NPUSHW[ ]	/* 5 values pushed */
+150 65 166 65 2 
+DELTAP3[ ]	/* DeltaExceptionP3 */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */";
+};
+width = 381;
+}
+);
+metricLeft = h.titl;
+note = thorn;
+}

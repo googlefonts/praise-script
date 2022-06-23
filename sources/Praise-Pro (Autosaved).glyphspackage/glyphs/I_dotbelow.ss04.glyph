@@ -1,0 +1,30 @@
+{
+glyphname = Idotbelow.ss04;
+lastChange = "2022-06-08 19:56:17 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = I.ss04;
+},
+{
+pos = (36,-179);
+ref = dotbelowcomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = I.ss04;
+},
+{
+pos = (9,-34);
+ref = dotbelowcomb;
+}
+);
+width = 423;
+}
+);
+}

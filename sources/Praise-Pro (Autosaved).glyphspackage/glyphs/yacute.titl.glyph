@@ -1,0 +1,32 @@
+{
+color = 4;
+glyphname = yacute.titl;
+lastChange = "2022-06-14 22:53:02 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = y.titl;
+},
+{
+pos = (245,-11);
+ref = acute;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = y.titl;
+},
+{
+pos = (256,31);
+ref = acutecomb;
+}
+);
+width = 346;
+}
+);
+note = yacute;
+}

@@ -1,0 +1,29 @@
+{
+glyphname = icaron.ss04;
+lastChange = "2022-06-14 22:06:00 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = idotless.ss04;
+},
+{
+ref = caroncomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = idotless.ss04;
+},
+{
+pos = (181,0);
+ref = caroncomb;
+}
+);
+width = 236;
+}
+);
+}

@@ -1,0 +1,32 @@
+{
+color = 0;
+glyphname = ldot;
+lastChange = "2022-06-13 20:06:18 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = l;
+},
+{
+pos = (72,0);
+ref = periodcentered;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = l;
+},
+{
+pos = (124,60);
+ref = periodcentered;
+}
+);
+width = 237;
+}
+);
+unicode = 320;
+}

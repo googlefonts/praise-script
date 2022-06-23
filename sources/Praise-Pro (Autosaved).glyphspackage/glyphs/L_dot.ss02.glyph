@@ -1,0 +1,38 @@
+{
+color = 0;
+glyphname = Ldot.ss02;
+lastChange = "2022-06-08 19:57:09 +0000";
+layers = (
+{
+annotations = (
+{
+pos = (72,520);
+text = "double check with other UC L";
+type = Text;
+}
+);
+background = {
+shapes = (
+{
+ref = L.ss02;
+},
+{
+pos = (139,55);
+ref = periodcentered;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = L.ss02;
+},
+{
+pos = (166,0);
+ref = periodcentered;
+}
+);
+width = 411;
+}
+);
+}

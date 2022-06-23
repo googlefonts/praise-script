@@ -1,0 +1,31 @@
+{
+color = 4;
+glyphname = utilde.titl;
+lastChange = "2022-06-08 20:06:34 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = u.titl;
+},
+{
+pos = (216,-25);
+ref = tildecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = u.titl;
+},
+{
+pos = (263,46);
+ref = tildecomb;
+}
+);
+width = 423;
+}
+);
+}

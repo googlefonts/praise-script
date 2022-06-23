@@ -1,0 +1,30 @@
+{
+glyphname = dzcaron.ss04;
+lastChange = "2022-06-23 01:40:56 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = d.ss04;
+},
+{
+pos = (414,0);
+ref = zcaron.ss04;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = d.ss04;
+},
+{
+pos = (421,0);
+ref = zcaron.ss04;
+}
+);
+width = 757;
+}
+);
+}

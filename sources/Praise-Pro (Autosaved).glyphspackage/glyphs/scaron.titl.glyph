@@ -1,0 +1,32 @@
+{
+color = 4;
+glyphname = scaron.titl;
+lastChange = "2022-06-02 03:24:10 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = s.titl;
+},
+{
+pos = (236,-10);
+ref = caron;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = s.titl;
+},
+{
+pos = (217,53);
+ref = caroncomb;
+}
+);
+width = 327;
+}
+);
+note = scaron;
+}

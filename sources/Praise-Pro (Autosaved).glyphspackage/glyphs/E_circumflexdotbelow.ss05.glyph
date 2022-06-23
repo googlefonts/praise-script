@@ -1,0 +1,36 @@
+{
+glyphname = Ecircumflexdotbelow.ss05;
+lastChange = "2022-06-14 22:53:02 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = E.ss05;
+},
+{
+ref = dotbelowcomb;
+},
+{
+ref = circumflexcomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = E.ss05;
+},
+{
+pos = (110,-50);
+ref = dotbelowcomb;
+},
+{
+pos = (392,171);
+ref = circumflexcomb.case;
+}
+);
+width = 551;
+}
+);
+}

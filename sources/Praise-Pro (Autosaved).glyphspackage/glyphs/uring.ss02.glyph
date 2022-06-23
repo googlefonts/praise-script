@@ -1,0 +1,31 @@
+{
+glyphname = uring.ss02;
+lastChange = "2022-06-14 22:04:47 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = u.ss02;
+},
+{
+pos = (236,-79);
+ref = ring;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = u.ss02;
+},
+{
+pos = (286,0);
+ref = ringcomb;
+}
+);
+width = 407;
+}
+);
+note = uring;
+}

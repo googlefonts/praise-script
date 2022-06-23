@@ -1,0 +1,29 @@
+{
+glyphname = igrave.ss04;
+lastChange = "2022-06-14 22:06:00 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = idotless.ss04;
+},
+{
+ref = gravecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = idotless.ss04;
+},
+{
+pos = (106,0);
+ref = gravecomb;
+}
+);
+width = 236;
+}
+);
+}

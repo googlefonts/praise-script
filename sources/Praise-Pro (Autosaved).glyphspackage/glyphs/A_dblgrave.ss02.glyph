@@ -1,0 +1,30 @@
+{
+glyphname = Adblgrave.ss02;
+lastChange = "2022-06-08 19:53:36 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = A.ss02;
+},
+{
+pos = (379,165);
+ref = dblgravecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = A.ss02;
+},
+{
+pos = (375,175);
+ref = dblgravecomb.case;
+}
+);
+width = 526;
+}
+);
+}

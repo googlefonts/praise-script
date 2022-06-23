@@ -1,0 +1,31 @@
+{
+color = 0;
+glyphname = Oslashacute.ss04;
+lastChange = "2022-06-03 18:13:31 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = Oslash.ss04;
+},
+{
+pos = (371,146);
+ref = acutecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = Oslash.ss04;
+},
+{
+pos = (448,149);
+ref = acutecomb.case;
+}
+);
+width = 489;
+}
+);
+}

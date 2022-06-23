@@ -1,0 +1,30 @@
+{
+glyphname = adotbelow.ss04;
+lastChange = "2022-06-14 22:06:00 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = a.ss04;
+},
+{
+pos = (38,-146);
+ref = dotbelowcomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = a.ss04;
+},
+{
+pos = (123,0);
+ref = dotbelowcomb;
+}
+);
+width = 426;
+}
+);
+}

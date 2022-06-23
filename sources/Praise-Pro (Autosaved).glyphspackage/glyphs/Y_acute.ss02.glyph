@@ -1,0 +1,31 @@
+{
+glyphname = Yacute.ss02;
+lastChange = "2022-06-08 19:54:41 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = Y.ss02;
+},
+{
+pos = (389,138);
+ref = acute;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = Y.ss02;
+},
+{
+pos = (415,174);
+ref = acutecomb.case;
+}
+);
+width = 487;
+}
+);
+note = Yacute;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = Dcroat;
+lastChange = "2022-06-22 23:08:20 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = Eth;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = Eth;
+}
+);
+width = 591;
+}
+);
+unicode = 272;
+}

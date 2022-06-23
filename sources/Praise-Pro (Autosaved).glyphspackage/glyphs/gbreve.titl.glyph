@@ -1,0 +1,31 @@
+{
+color = 4;
+glyphname = gbreve.titl;
+lastChange = "2022-06-08 20:07:53 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = g.titl;
+},
+{
+pos = (218,-25);
+ref = brevecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = g.titl;
+},
+{
+pos = (250,45);
+ref = brevecomb;
+}
+);
+width = 404;
+}
+);
+}

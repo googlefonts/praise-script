@@ -1,0 +1,29 @@
+{
+glyphname = Cacute.ss05;
+lastChange = "2022-06-08 19:56:40 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = C.ss05;
+},
+{
+ref = acutecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = C.ss05;
+},
+{
+pos = (632,196);
+ref = acutecomb.case;
+}
+);
+width = 639;
+}
+);
+}

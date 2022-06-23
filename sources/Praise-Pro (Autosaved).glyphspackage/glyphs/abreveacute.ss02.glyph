@@ -1,0 +1,30 @@
+{
+glyphname = abreveacute.ss02;
+lastChange = "2022-06-14 22:04:47 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = a.ss02;
+},
+{
+pos = (249,-47);
+ref = brevecomb_acutecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = a.ss02;
+},
+{
+pos = (259,0);
+ref = brevecomb_acutecomb;
+}
+);
+width = 411;
+}
+);
+}

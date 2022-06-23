@@ -1,0 +1,31 @@
+{
+glyphname = Rcaron.titl;
+lastChange = "2022-06-08 20:09:30 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = R.titl;
+},
+{
+pos = (320,117);
+ref = caron;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = R.titl;
+},
+{
+pos = (336,151);
+ref = caroncomb.case;
+}
+);
+width = 482;
+}
+);
+note = Rcaron;
+}

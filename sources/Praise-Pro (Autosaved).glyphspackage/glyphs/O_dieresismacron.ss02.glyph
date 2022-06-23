@@ -1,0 +1,38 @@
+{
+glyphname = Odieresismacron.ss02;
+lastChange = "2022-06-14 22:52:48 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = O.ss02;
+},
+{
+pos = (334,148);
+ref = dieresiscomb;
+},
+{
+pos = (357,315);
+ref = macroncomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = O.ss02;
+},
+{
+pos = (343,165);
+ref = dieresiscomb.case;
+},
+{
+pos = (391,302);
+ref = macroncomb.case;
+}
+);
+width = 506;
+}
+);
+}

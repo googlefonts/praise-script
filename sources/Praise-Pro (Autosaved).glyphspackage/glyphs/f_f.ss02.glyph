@@ -1,0 +1,33 @@
+{
+color = 0;
+glyphname = f_f.ss02;
+lastChange = "2022-06-01 02:10:05 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+pos = (-25,0);
+ref = f.ss02;
+},
+{
+pos = (191,0);
+ref = f.ss02;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = f.ss02;
+},
+{
+pos = (231,0);
+ref = f.ss02;
+}
+);
+width = 462;
+}
+);
+metricLeft = f;
+}

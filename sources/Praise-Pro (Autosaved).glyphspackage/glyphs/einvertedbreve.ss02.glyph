@@ -1,0 +1,30 @@
+{
+glyphname = einvertedbreve.ss02;
+lastChange = "2022-06-14 22:04:47 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = e.ss02;
+},
+{
+pos = (42,120);
+ref = breveinvertedcomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = e.ss02;
+},
+{
+pos = (180,0);
+ref = breveinvertedcomb;
+}
+);
+width = 349;
+}
+);
+}

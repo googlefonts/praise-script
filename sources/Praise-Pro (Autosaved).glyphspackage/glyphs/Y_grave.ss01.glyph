@@ -1,0 +1,30 @@
+{
+glyphname = Ygrave.ss01;
+lastChange = "2022-06-08 19:53:29 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = Y.ss01;
+},
+{
+pos = (287,205);
+ref = gravecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = Y.ss01;
+},
+{
+pos = (601,179);
+ref = gravecomb.case;
+}
+);
+width = 845;
+}
+);
+}
