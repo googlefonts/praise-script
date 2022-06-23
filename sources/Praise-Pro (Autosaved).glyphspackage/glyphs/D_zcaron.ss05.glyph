@@ -18,15 +18,6 @@ ref = zcaron;
 layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
 shapes = (
 {
-alignment = -1;
-ref = D.ss05;
-},
-{
-alignment = -1;
-pos = (1106,-11);
-ref = caroncomb;
-},
-{
 closed = 1;
 nodes = (
 (1189,303,l),
@@ -112,6 +103,15 @@ nodes = (
 (1180,303,o),
 (1188,305,c)
 );
+},
+{
+alignment = -1;
+ref = D.ss05;
+},
+{
+alignment = -1;
+pos = (1106,-11);
+ref = caroncomb;
 }
 );
 width = 1240;

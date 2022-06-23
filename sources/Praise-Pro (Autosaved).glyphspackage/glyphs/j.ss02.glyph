@@ -1,6 +1,6 @@
 {
 glyphname = j.ss02;
-lastChange = "2022-06-14 22:04:47 +0000";
+lastChange = "2022-06-23 04:24:50 +0000";
 layers = (
 {
 background = {
@@ -86,11 +86,11 @@ shapes = (
 ref = jdotless.ss02;
 },
 {
-pos = (203,0);
+pos = (208,0);
 ref = dotaccentcomb;
 }
 );
-width = 221;
+width = 226;
 }
 );
 note = j;

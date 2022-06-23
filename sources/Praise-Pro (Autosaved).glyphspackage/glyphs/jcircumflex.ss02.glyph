@@ -1,6 +1,6 @@
 {
 glyphname = jcircumflex.ss02;
-lastChange = "2022-06-14 22:04:47 +0000";
+lastChange = "2022-06-23 04:26:00 +0000";
 layers = (
 {
 background = {
@@ -20,11 +20,11 @@ shapes = (
 ref = jdotless.ss02;
 },
 {
-pos = (97,0);
+pos = (102,0);
 ref = circumflexcomb;
 }
 );
-width = 221;
+width = 226;
 }
 );
 }

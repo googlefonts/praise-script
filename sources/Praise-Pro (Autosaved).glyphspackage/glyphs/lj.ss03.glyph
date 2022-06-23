@@ -1,7 +1,6 @@
 {
-color = 0;
 glyphname = lj.ss03;
-lastChange = "2022-06-03 18:11:12 +0000";
+lastChange = "2022-06-23 04:22:39 +0000";
 layers = (
 {
 background = {
@@ -19,9 +18,13 @@ layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
 shapes = (
 {
 ref = l.ss03;
+},
+{
+pos = (260,0);
+ref = j.ss03;
 }
 );
-width = 260;
+width = 485;
 }
 );
 }

@@ -1,7 +1,6 @@
 {
-color = 0;
 glyphname = Lj.ss02;
-lastChange = "2022-06-03 18:11:12 +0000";
+lastChange = "2022-06-23 04:30:05 +0000";
 layers = (
 {
 background = {
@@ -21,11 +20,13 @@ shapes = (
 ref = L.ss02;
 },
 {
-pos = (411,0);
+alignment = -1;
+pos = (435,0);
 ref = j.ss02;
 }
 );
-width = 632;
+width = 661;
 }
 );
+metricRight = j.ss02;
 }

@@ -29,14 +29,6 @@ ref = z;
 layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
 shapes = (
 {
-ref = D;
-},
-{
-alignment = -1;
-pos = (770,-11);
-ref = caroncomb;
-},
-{
 closed = 1;
 nodes = (
 (853,303,l),
@@ -122,6 +114,14 @@ nodes = (
 (844,303,o),
 (852,305,c)
 );
+},
+{
+ref = D;
+},
+{
+alignment = -1;
+pos = (770,-11);
+ref = caroncomb;
 }
 );
 width = 904;

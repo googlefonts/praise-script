@@ -18,9 +18,6 @@ ref = zcaron.ss04;
 layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
 shapes = (
 {
-ref = D.ss04;
-},
-{
 closed = 1;
 nodes = (
 (1046,116,o),
@@ -117,6 +114,9 @@ nodes = (
 (796,-155,o),
 (753,-155,cs)
 );
+},
+{
+ref = D.ss04;
 },
 {
 pos = (969,0);

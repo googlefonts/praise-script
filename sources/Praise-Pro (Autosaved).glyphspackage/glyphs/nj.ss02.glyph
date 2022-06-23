@@ -1,7 +1,6 @@
 {
-color = 0;
 glyphname = nj.ss02;
-lastChange = "2022-06-03 18:11:25 +0000";
+lastChange = "2022-06-23 04:26:00 +0000";
 layers = (
 {
 background = {
@@ -25,7 +24,7 @@ pos = (392,0);
 ref = j.ss02;
 }
 );
-width = 613;
+width = 618;
 }
 );
 }
