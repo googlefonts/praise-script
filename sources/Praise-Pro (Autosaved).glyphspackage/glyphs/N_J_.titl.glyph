@@ -1,0 +1,30 @@
+{
+glyphname = NJ.titl;
+lastChange = "2022-10-04 19:26:57 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = N.titl;
+},
+{
+pos = (507,0);
+ref = J.titl;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = N.titl;
+},
+{
+pos = (486,0);
+ref = J.titl;
+}
+);
+width = 838;
+}
+);
+}

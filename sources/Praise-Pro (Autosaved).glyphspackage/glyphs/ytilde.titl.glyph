@@ -1,0 +1,30 @@
+{
+glyphname = ytilde.titl;
+lastChange = "2022-10-06 01:46:31 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = y.titl;
+},
+{
+pos = (201,-45);
+ref = tildecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = y.titl;
+},
+{
+pos = (181,31);
+ref = tildecomb;
+}
+);
+width = 346;
+}
+);
+}

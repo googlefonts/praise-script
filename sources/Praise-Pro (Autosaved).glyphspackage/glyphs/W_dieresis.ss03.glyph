@@ -1,0 +1,30 @@
+{
+glyphname = Wdieresis.ss03;
+lastChange = "2022-06-14 22:52:48 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = W.ss03;
+},
+{
+pos = (809,115);
+ref = dieresiscomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = W.ss03;
+},
+{
+pos = (891,123);
+ref = dieresiscomb.case;
+}
+);
+width = 1155;
+}
+);
+}

@@ -1,0 +1,31 @@
+{
+glyphname = lj;
+lastChange = "2022-10-05 04:23:32 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = l;
+},
+{
+pos = (260,0);
+ref = j;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = l;
+},
+{
+pos = (237,0);
+ref = j;
+}
+);
+width = 468;
+}
+);
+unicode = 457;
+}

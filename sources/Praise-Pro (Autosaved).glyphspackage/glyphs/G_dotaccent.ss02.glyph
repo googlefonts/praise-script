@@ -1,0 +1,30 @@
+{
+glyphname = Gdotaccent.ss02;
+lastChange = "2022-06-08 19:53:50 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = G.ss02;
+},
+{
+pos = (435,107);
+ref = dotaccentcomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = G.ss02;
+},
+{
+pos = (430,178);
+ref = dotaccentcomb.case;
+}
+);
+width = 539;
+}
+);
+}

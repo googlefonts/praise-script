@@ -1,0 +1,26 @@
+{
+glyphname = Oslashacute.ss02;
+lastChange = "2022-09-22 01:02:28 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = Oslash.ss02;
+},
+{
+pos = (385,150);
+ref = acutecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = Oslashacute;
+}
+);
+width = 506;
+}
+);
+}

@@ -1,0 +1,31 @@
+{
+glyphname = oacute.ss02;
+lastChange = "2022-06-14 22:04:47 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = o.ss02;
+},
+{
+pos = (236,-30);
+ref = acute;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = o.ss02;
+},
+{
+pos = (295,0);
+ref = acutecomb;
+}
+);
+width = 391;
+}
+);
+note = oacute;
+}

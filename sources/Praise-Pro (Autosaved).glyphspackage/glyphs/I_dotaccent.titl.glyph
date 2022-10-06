@@ -1,0 +1,30 @@
+{
+glyphname = Idotaccent.titl;
+lastChange = "2022-06-08 20:09:30 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = I.titl;
+},
+{
+pos = (362,83);
+ref = dotaccentcomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = I.titl;
+},
+{
+pos = (355,165);
+ref = dotaccentcomb.case;
+}
+);
+width = 268;
+}
+);
+}

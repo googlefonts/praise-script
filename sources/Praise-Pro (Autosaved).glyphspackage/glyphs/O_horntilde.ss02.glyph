@@ -1,0 +1,30 @@
+{
+glyphname = Ohorntilde.ss02;
+lastChange = "2022-06-08 19:54:41 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = Ohorn.ss02;
+},
+{
+pos = (325,127);
+ref = tildecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = Ohorn.ss02;
+},
+{
+pos = (318,165);
+ref = tildecomb.case;
+}
+);
+width = 506;
+}
+);
+}

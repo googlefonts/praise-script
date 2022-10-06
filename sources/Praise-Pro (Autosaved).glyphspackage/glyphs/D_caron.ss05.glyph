@@ -1,0 +1,29 @@
+{
+glyphname = Dcaron.ss05;
+lastChange = "2022-09-23 03:40:49 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = D.ss05;
+},
+{
+ref = caroncomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = D.ss05;
+},
+{
+pos = (715,175);
+ref = caroncomb;
+}
+);
+width = 932;
+}
+);
+}

@@ -1,0 +1,31 @@
+{
+glyphname = ecaron.titl;
+lastChange = "2022-10-06 01:46:31 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = e.titl;
+},
+{
+pos = (251,-13);
+ref = caron;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = e.titl;
+},
+{
+pos = (215,46);
+ref = caroncomb;
+}
+);
+width = 339;
+}
+);
+note = ecaron;
+}

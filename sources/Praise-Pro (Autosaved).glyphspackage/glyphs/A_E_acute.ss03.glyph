@@ -1,0 +1,30 @@
+{
+glyphname = AEacute.ss03;
+lastChange = "2022-10-04 17:09:03 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = AE.ss03;
+},
+{
+pos = (670,167);
+ref = acutecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = AE.ss03;
+},
+{
+pos = (1345,237);
+ref = acutecomb.case;
+}
+);
+width = 1486;
+}
+);
+}

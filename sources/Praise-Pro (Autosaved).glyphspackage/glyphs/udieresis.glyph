@@ -1,0 +1,31 @@
+{
+glyphname = udieresis;
+lastChange = "2022-06-14 22:52:48 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = u;
+},
+{
+pos = (78,0);
+ref = dieresiscomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = u;
+},
+{
+pos = (258,-13);
+ref = dieresiscomb;
+}
+);
+width = 408;
+}
+);
+unicode = 252;
+}

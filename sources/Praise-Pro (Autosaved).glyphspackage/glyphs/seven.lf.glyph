@@ -1,0 +1,25 @@
+{
+color = 4;
+glyphname = seven.lf;
+lastChange = "2022-10-06 02:16:46 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = seven;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = seven;
+}
+);
+width = 354;
+}
+);
+metricLeft = seven;
+metricRight = seven;
+}

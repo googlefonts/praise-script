@@ -1,0 +1,30 @@
+{
+glyphname = Ecircumflexacute.ss03;
+lastChange = "2022-06-08 19:55:03 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = E.ss03;
+},
+{
+pos = (621,169);
+ref = circumflexcomb_acutecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = E.ss03;
+},
+{
+pos = (586,242);
+ref = circumflexcomb_acutecomb.case;
+}
+);
+width = 716;
+}
+);
+}

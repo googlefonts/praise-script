@@ -1,0 +1,32 @@
+{
+color = 0;
+glyphname = dong;
+lastChange = "2022-10-05 03:49:57 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = dcroat;
+},
+{
+pos = (34,30);
+ref = macronbelowcomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = dcroat;
+},
+{
+pos = (109,0);
+ref = macronbelowcomb;
+}
+);
+width = 421;
+}
+);
+unicode = 8363;
+}

@@ -1,0 +1,30 @@
+{
+glyphname = ohorndotbelow.titl;
+lastChange = "2022-10-06 01:46:31 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = ohorn.titl;
+},
+{
+pos = (64,-140);
+ref = dotbelowcomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = ohorn.titl;
+},
+{
+pos = (53,-5);
+ref = dotbelowcomb;
+}
+);
+width = 395;
+}
+);
+}

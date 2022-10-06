@@ -1,0 +1,31 @@
+{
+glyphname = itilde;
+lastChange = "2022-06-13 20:10:17 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (10,-23);
+ref = tildecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (146,0);
+ref = tildecomb;
+}
+);
+width = 227;
+}
+);
+unicode = 297;
+}

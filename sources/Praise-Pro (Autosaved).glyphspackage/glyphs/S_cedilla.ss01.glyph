@@ -1,0 +1,30 @@
+{
+glyphname = Scedilla.ss01;
+lastChange = "2022-06-08 19:53:11 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = S.ss01;
+},
+{
+pos = (214,0);
+ref = cedillacomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = S.ss01;
+},
+{
+pos = (215,-58);
+ref = cedillacomb;
+}
+);
+width = 670;
+}
+);
+}

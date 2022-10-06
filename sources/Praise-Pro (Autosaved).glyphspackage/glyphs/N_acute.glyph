@@ -1,0 +1,31 @@
+{
+glyphname = Nacute;
+lastChange = "2022-09-21 03:27:02 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = N;
+},
+{
+pos = (282,146);
+ref = acutecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = N;
+},
+{
+pos = (619,175);
+ref = acutecomb.case;
+}
+);
+width = 667;
+}
+);
+unicode = 323;
+}

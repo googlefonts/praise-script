@@ -1,0 +1,28 @@
+{
+color = 4;
+glyphname = foursuperior;
+lastChange = "2022-10-06 19:57:03 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+pos = (59,309);
+ref = four;
+scale = (0.5873,0.5873);
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+pos = (0,309);
+ref = four;
+scale = (0.5873,0.5873);
+}
+);
+width = 245;
+}
+);
+unicode = 8308;
+}

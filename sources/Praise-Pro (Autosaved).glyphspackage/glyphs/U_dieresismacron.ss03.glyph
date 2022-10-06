@@ -1,0 +1,37 @@
+{
+glyphname = Udieresismacron.ss03;
+lastChange = "2022-06-14 22:52:48 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = U.ss03;
+},
+{
+ref = dieresiscomb;
+},
+{
+pos = (23,167);
+ref = macroncomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = U.ss03;
+},
+{
+pos = (795,177);
+ref = dieresiscomb.case;
+},
+{
+pos = (843,314);
+ref = macroncomb.case;
+}
+);
+width = 910;
+}
+);
+}

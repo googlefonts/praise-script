@@ -1,0 +1,30 @@
+{
+glyphname = uhorngrave.titl;
+lastChange = "2022-10-06 01:46:31 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = uhorn.titl;
+},
+{
+pos = (226,0);
+ref = gravecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = uhorn.titl;
+},
+{
+pos = (216,46);
+ref = gravecomb;
+}
+);
+width = 423;
+}
+);
+}

@@ -1,0 +1,29 @@
+{
+glyphname = Emacron.ss05;
+lastChange = "2022-06-14 22:53:02 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = E.ss05;
+},
+{
+ref = macroncomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = E.ss05;
+},
+{
+pos = (431,171);
+ref = macroncomb.case;
+}
+);
+width = 551;
+}
+);
+}

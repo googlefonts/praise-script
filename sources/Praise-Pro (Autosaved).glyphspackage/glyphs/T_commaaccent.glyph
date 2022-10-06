@@ -1,0 +1,31 @@
+{
+glyphname = Tcommaaccent;
+lastChange = "2022-09-21 03:27:02 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = T;
+},
+{
+pos = (139,0);
+ref = commaaccentcomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = T;
+},
+{
+pos = (103,0);
+ref = commaaccentcomb;
+}
+);
+width = 442;
+}
+);
+unicode = 538;
+}

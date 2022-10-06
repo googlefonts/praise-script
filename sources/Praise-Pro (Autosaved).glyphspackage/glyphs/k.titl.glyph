@@ -1,0 +1,20 @@
+{
+glyphname = k.titl;
+lastChange = "2022-10-06 01:46:31 +0000";
+layers = (
+{
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+alignment = -1;
+pos = (-10,0);
+ref = K.titl;
+scale = (0.8,0.8);
+}
+);
+width = 393;
+}
+);
+metricLeft = n.titl;
+note = K.smcp;
+}

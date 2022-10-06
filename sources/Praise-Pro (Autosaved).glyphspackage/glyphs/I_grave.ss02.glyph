@@ -1,0 +1,31 @@
+{
+glyphname = Igrave.ss02;
+lastChange = "2022-06-08 19:54:05 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = I.ss02;
+},
+{
+pos = (296,135);
+ref = grave;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = I.ss02;
+},
+{
+pos = (196,164);
+ref = gravecomb.case;
+}
+);
+width = 340;
+}
+);
+note = Igrave;
+}

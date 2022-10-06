@@ -1,0 +1,31 @@
+{
+glyphname = Lacute;
+lastChange = "2022-09-20 20:28:11 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = L;
+},
+{
+pos = (176,146);
+ref = acutecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = L;
+},
+{
+pos = (381,165);
+ref = acutecomb.case;
+}
+);
+width = 417;
+}
+);
+unicode = 313;
+}

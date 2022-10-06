@@ -1,0 +1,31 @@
+{
+glyphname = Etilde;
+lastChange = "2022-06-23 02:53:56 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = E;
+},
+{
+pos = (98,156);
+ref = tildecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = E;
+},
+{
+pos = (265,175);
+ref = tildecomb.case;
+}
+);
+width = 451;
+}
+);
+unicode = 7868;
+}

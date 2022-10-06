@@ -1,0 +1,31 @@
+{
+glyphname = Rcommaaccent;
+lastChange = "2022-06-03 20:39:54 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+ref = R;
+},
+{
+pos = (193,0);
+ref = commaaccentcomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = R;
+},
+{
+pos = (219,0);
+ref = commaaccentcomb;
+}
+);
+width = 566;
+}
+);
+unicode = 342;
+}
