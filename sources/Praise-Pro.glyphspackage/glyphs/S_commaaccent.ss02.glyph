@@ -1,0 +1,31 @@
+{
+color = 5;
+glyphname = Scommaaccent.ss02;
+kernLeft = _S_ss02;
+kernRight = _S_ss02;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = S.ss02;
+},
+{
+ref = commaaccentcomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = S.ss02;
+},
+{
+pos = (34,-11);
+ref = commaaccentcomb;
+}
+);
+width = 408;
+}
+);
+}

@@ -1,0 +1,30 @@
+{
+color = 4;
+glyphname = Ocircumflextilde.titl;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = O.titl;
+},
+{
+pos = (290,75);
+ref = circumflexcomb_tildecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = O.titl;
+},
+{
+pos = (322,158);
+ref = circumflexcomb_tildecomb.case;
+}
+);
+width = 491;
+}
+);
+}

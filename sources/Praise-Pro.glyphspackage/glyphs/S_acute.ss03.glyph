@@ -1,0 +1,33 @@
+{
+color = 5;
+glyphname = Sacute.ss03;
+kernLeft = _S_ss03;
+kernRight = _S_ss03;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = S.ss03;
+},
+{
+pos = (699,216);
+ref = acute;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = S.ss03;
+},
+{
+pos = (742,243);
+ref = acutecomb.case;
+}
+);
+width = 839;
+}
+);
+note = Sacute;
+}

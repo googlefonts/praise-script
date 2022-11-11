@@ -1,0 +1,32 @@
+{
+glyphname = nacute.ss02;
+kernLeft = _n;
+kernRight = _n_ss02;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = n.ss02;
+},
+{
+pos = (218,-29);
+ref = acute;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = n.ss02;
+},
+{
+pos = (277,0);
+ref = acutecomb;
+}
+);
+width = 397;
+}
+);
+note = nacute;
+}

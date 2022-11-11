@@ -1,0 +1,30 @@
+{
+color = 4;
+glyphname = ecircumflextilde.titl;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = e.titl;
+},
+{
+pos = (214,-53);
+ref = circumflexcomb_tildecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = e.titl;
+},
+{
+pos = (178,46);
+ref = circumflexcomb_tildecomb;
+}
+);
+width = 339;
+}
+);
+}

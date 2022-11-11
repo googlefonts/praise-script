@@ -1,0 +1,33 @@
+{
+color = 5;
+glyphname = Lcaron.ss02;
+kernLeft = _L_ss02;
+kernRight = _L_ss02;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = L.ss02;
+},
+{
+pos = (230,-99);
+ref = quoteright;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = L.ss02;
+},
+{
+pos = (434,165);
+ref = caroncomb.alt;
+}
+);
+width = 411;
+}
+);
+note = Lcaron;
+}

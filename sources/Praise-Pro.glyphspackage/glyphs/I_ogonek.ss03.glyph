@@ -1,0 +1,33 @@
+{
+color = 5;
+glyphname = Iogonek.ss03;
+kernLeft = _I_ss03;
+kernRight = _I_ss03;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = I.ss03;
+},
+{
+pos = (-89,-37);
+ref = ogonek;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = I.ss03;
+},
+{
+pos = (71,-46);
+ref = ogonekcomb;
+}
+);
+width = 382;
+}
+);
+note = Iogonek;
+}

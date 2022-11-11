@@ -1,0 +1,32 @@
+{
+color = 5;
+glyphname = Ecircumflexacute.ss04;
+kernLeft = _E_ss04;
+kernRight = _E_ss04;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = E.ss04;
+},
+{
+pos = (354,92);
+ref = circumflexcomb_acutecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = E.ss04;
+},
+{
+pos = (317,175);
+ref = circumflexcomb_acutecomb.case;
+}
+);
+width = 533;
+}
+);
+}

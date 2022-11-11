@@ -1,0 +1,30 @@
+{
+color = 4;
+glyphname = Ebreve.titl;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = E.titl;
+},
+{
+pos = (289,80);
+ref = brevecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = E.titl;
+},
+{
+pos = (275,164);
+ref = brevecomb.case;
+}
+);
+width = 426;
+}
+);
+}

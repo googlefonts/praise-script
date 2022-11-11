@@ -1,0 +1,30 @@
+{
+color = 4;
+glyphname = ehookabove.titl;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = e.titl;
+},
+{
+pos = (201,-36);
+ref = hookabovecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = e.titl;
+},
+{
+pos = (263,46);
+ref = hookabovecomb;
+}
+);
+width = 339;
+}
+);
+}

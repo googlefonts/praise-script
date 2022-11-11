@@ -1,0 +1,31 @@
+{
+glyphname = uhorntilde;
+kernLeft = _u_ss02;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = uhorn;
+},
+{
+pos = (107,-23);
+ref = tildecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = uhorn;
+},
+{
+pos = (228,-13);
+ref = tildecomb;
+}
+);
+width = 403;
+}
+);
+unicode = 7919;
+}

@@ -1,0 +1,30 @@
+{
+glyphname = hcircumflex.ss01;
+kernLeft = _o;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = h.ss01;
+},
+{
+pos = (73,250);
+ref = circumflexcomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = h.ss01;
+},
+{
+pos = (309,220);
+ref = circumflexcomb;
+}
+);
+width = 400;
+}
+);
+}

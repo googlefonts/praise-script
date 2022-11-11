@@ -1,0 +1,31 @@
+{
+color = 5;
+glyphname = Uhorntilde.ss05;
+kernLeft = _U_ss05;
+kernRight = _U_ss05;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = Uhorn.ss05;
+},
+{
+ref = tildecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = Uhorn.ss05;
+},
+{
+pos = (623,175);
+ref = tildecomb.case;
+}
+);
+width = 773;
+}
+);
+}

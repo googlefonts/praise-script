@@ -1,0 +1,30 @@
+{
+color = 4;
+glyphname = iinvertedbreve.titl;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = idotless.titl;
+},
+{
+pos = (103,164);
+ref = breveinvertedcomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = idotless.titl;
+},
+{
+pos = (173,47);
+ref = breveinvertedcomb;
+}
+);
+width = 212;
+}
+);
+}

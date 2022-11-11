@@ -1,0 +1,30 @@
+{
+color = 4;
+glyphname = ocircumflexgrave.titl;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = o.titl;
+},
+{
+pos = (218,-43);
+ref = circumflexcomb_gravecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = o.titl;
+},
+{
+pos = (227,41);
+ref = circumflexcomb_gravecomb;
+}
+);
+width = 395;
+}
+);
+}

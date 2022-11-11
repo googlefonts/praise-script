@@ -1,0 +1,30 @@
+{
+color = 4;
+glyphname = cdotaccent.titl;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = c.titl;
+},
+{
+pos = (303,-33);
+ref = dotaccentcomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = c.titl;
+},
+{
+pos = (348,47);
+ref = dotaccentcomb;
+}
+);
+width = 389;
+}
+);
+}

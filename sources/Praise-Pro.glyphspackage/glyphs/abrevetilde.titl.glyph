@@ -1,0 +1,30 @@
+{
+color = 4;
+glyphname = abrevetilde.titl;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = a.titl;
+},
+{
+pos = (298,-22);
+ref = brevecomb_tildecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = a.titl;
+},
+{
+pos = (267,47);
+ref = brevecomb_tildecomb;
+}
+);
+width = 390;
+}
+);
+}

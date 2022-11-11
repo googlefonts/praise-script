@@ -1,0 +1,32 @@
+{
+color = 5;
+glyphname = Tcommaaccent.ss01;
+kernLeft = _T_ss01;
+kernRight = _T_ss01;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = T.ss01;
+},
+{
+pos = (219,0);
+ref = commaaccentcomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = T.ss01;
+},
+{
+pos = (189,-48);
+ref = commaaccentcomb;
+}
+);
+width = 643;
+}
+);
+}

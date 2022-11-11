@@ -1,0 +1,33 @@
+{
+color = 5;
+glyphname = Tbar.ss04;
+kernLeft = _T_ss04;
+kernRight = _T_ss04;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = T.ss04;
+},
+{
+pos = (-43,186);
+ref = hyphen;
+scale = (1.117,0.7715);
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = T.ss04;
+},
+{
+pos = (107,121);
+ref = strokeshortcomb;
+}
+);
+width = 334;
+}
+);
+}

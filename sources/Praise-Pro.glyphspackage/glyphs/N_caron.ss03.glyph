@@ -1,0 +1,32 @@
+{
+color = 5;
+glyphname = Ncaron.ss03;
+kernLeft = _N_ss03;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = N.ss03;
+},
+{
+pos = (852,172);
+ref = caron;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = N.ss03;
+},
+{
+pos = (863,221);
+ref = caroncomb.case;
+}
+);
+width = 971;
+}
+);
+note = Ncaron;
+}

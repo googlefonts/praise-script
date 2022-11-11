@@ -1,0 +1,33 @@
+{
+color = 5;
+glyphname = Oacute.ss04;
+kernLeft = _O_ss04;
+kernRight = _O_ss04;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = O.ss04;
+},
+{
+pos = (363,121);
+ref = acute;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = O.ss04;
+},
+{
+pos = (498,171);
+ref = acutecomb.case;
+}
+);
+width = 596;
+}
+);
+note = Oacute;
+}

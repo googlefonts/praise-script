@@ -1,0 +1,30 @@
+{
+color = 4;
+glyphname = wgrave.titl;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = w.titl;
+},
+{
+pos = (233,0);
+ref = gravecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = w.titl;
+},
+{
+pos = (230,36);
+ref = gravecomb;
+}
+);
+width = 533;
+}
+);
+}

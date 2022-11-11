@@ -1,0 +1,39 @@
+{
+color = 5;
+glyphname = Udieresisgrave.ss04;
+kernLeft = _U_ss04;
+kernRight = _U_ss04;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = U.ss04;
+},
+{
+ref = dieresiscomb;
+},
+{
+pos = (-35,133);
+ref = gravecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = U.ss04;
+},
+{
+pos = (726,176);
+ref = dieresiscomb.case;
+},
+{
+pos = (697,313);
+ref = gravecomb.case;
+}
+);
+width = 833;
+}
+);
+}

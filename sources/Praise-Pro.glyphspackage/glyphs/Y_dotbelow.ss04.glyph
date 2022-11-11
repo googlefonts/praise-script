@@ -1,0 +1,32 @@
+{
+color = 5;
+glyphname = Ydotbelow.ss04;
+kernLeft = _Y_ss04;
+kernRight = _Y_ss04;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = Y.ss04;
+},
+{
+pos = (112,-406);
+ref = dotbelowcomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = Y.ss04;
+},
+{
+pos = (571,-60);
+ref = dotbelowcomb;
+}
+);
+width = 759;
+}
+);
+}

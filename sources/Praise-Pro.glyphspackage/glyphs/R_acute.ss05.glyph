@@ -1,0 +1,31 @@
+{
+color = 5;
+glyphname = Racute.ss05;
+kernLeft = _R_ss05;
+kernRight = _R_ss05;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = R.ss05;
+},
+{
+ref = acutecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = R.ss05;
+},
+{
+pos = (732,203);
+ref = acutecomb.case;
+}
+);
+width = 842;
+}
+);
+}

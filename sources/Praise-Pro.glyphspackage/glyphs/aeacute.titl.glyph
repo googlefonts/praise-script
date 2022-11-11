@@ -1,0 +1,30 @@
+{
+color = 4;
+glyphname = aeacute.titl;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = ae.titl;
+},
+{
+pos = (475,20);
+ref = acutecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = ae.titl;
+},
+{
+pos = (434,43);
+ref = acutecomb;
+}
+);
+width = 560;
+}
+);
+}

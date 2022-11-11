@@ -1,0 +1,30 @@
+{
+color = 4;
+glyphname = Tcedilla.titl;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = T.titl;
+},
+{
+pos = (-66,25);
+ref = cedillacomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = T.titl;
+},
+{
+pos = (106,22);
+ref = cedillacomb;
+}
+);
+width = 391;
+}
+);
+}

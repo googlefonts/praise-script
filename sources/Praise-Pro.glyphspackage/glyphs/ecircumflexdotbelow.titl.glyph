@@ -1,0 +1,38 @@
+{
+color = 4;
+glyphname = ecircumflexdotbelow.titl;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = e.titl;
+},
+{
+pos = (112,-124);
+ref = dotbelowcomb;
+},
+{
+pos = (203,-33);
+ref = circumflexcomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = e.titl;
+},
+{
+pos = (69,8);
+ref = dotbelowcomb;
+},
+{
+pos = (178,46);
+ref = circumflexcomb;
+}
+);
+width = 339;
+}
+);
+}

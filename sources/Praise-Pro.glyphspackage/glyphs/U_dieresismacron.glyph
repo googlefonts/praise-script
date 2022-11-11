@@ -1,0 +1,41 @@
+{
+color = 5;
+glyphname = Udieresismacron;
+kernLeft = _U;
+kernRight = _U;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = U;
+},
+{
+pos = (170,179);
+ref = dieresiscomb;
+},
+{
+pos = (193,346);
+ref = macroncomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = U;
+},
+{
+pos = (565,175);
+ref = dieresiscomb.case;
+},
+{
+pos = (613,312);
+ref = macroncomb.case;
+}
+);
+width = 674;
+}
+);
+unicode = (469,470);
+}

@@ -1,0 +1,33 @@
+{
+color = 5;
+glyphname = Itilde;
+kernLeft = _I;
+kernRight = _I;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = I;
+},
+{
+pos = (65,156);
+ref = tildecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = I;
+},
+{
+pos = (296,185);
+ref = tildecomb.case;
+}
+);
+width = 354;
+}
+);
+unicode = 296;
+}

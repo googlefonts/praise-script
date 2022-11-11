@@ -1,0 +1,32 @@
+{
+color = 5;
+glyphname = Ecircumflexhookabove.ss03;
+kernLeft = _E_ss03;
+kernRight = _E_ss03;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = E.ss03;
+},
+{
+pos = (600,144);
+ref = circumflexcomb_hookabovecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = E.ss03;
+},
+{
+pos = (586,242);
+ref = circumflexcomb_hookabovecomb.case;
+}
+);
+width = 716;
+}
+);
+}

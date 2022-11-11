@@ -1,0 +1,31 @@
+{
+glyphname = gcircumflex.ss02;
+kernLeft = _g_ss02;
+kernRight = _g_ss02;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = g.ss02;
+},
+{
+pos = (236,-61);
+ref = circumflexcomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = g.ss02;
+},
+{
+pos = (226,0);
+ref = circumflexcomb;
+}
+);
+width = 406;
+}
+);
+}

@@ -1,0 +1,32 @@
+{
+glyphname = ograve.ss04;
+kernLeft = _o;
+kernRight = _o;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = o.ss04;
+},
+{
+pos = (232,-32);
+ref = grave;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = o.ss04;
+},
+{
+pos = (176,0);
+ref = gravecomb;
+}
+);
+width = 393;
+}
+);
+note = ograve;
+}

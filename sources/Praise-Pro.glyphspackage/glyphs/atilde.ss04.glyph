@@ -1,0 +1,32 @@
+{
+glyphname = atilde.ss04;
+kernLeft = _o;
+kernRight = _a;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = a.ss04;
+},
+{
+pos = (226,-48);
+ref = tilde;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = a.ss04;
+},
+{
+pos = (250,0);
+ref = tildecomb;
+}
+);
+width = 426;
+}
+);
+note = atilde;
+}

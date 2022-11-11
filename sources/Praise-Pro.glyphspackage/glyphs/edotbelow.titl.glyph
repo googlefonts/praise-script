@@ -1,0 +1,30 @@
+{
+color = 4;
+glyphname = edotbelow.titl;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = e.titl;
+},
+{
+pos = (94,-122);
+ref = dotbelowcomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = e.titl;
+},
+{
+pos = (69,8);
+ref = dotbelowcomb;
+}
+);
+width = 339;
+}
+);
+}

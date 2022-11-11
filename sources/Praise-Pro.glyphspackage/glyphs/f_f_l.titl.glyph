@@ -1,0 +1,34 @@
+{
+color = 0;
+glyphname = f_f_l.titl;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = f.titl;
+},
+{
+pos = (317,0);
+ref = f.titl;
+},
+{
+pos = (634,0);
+ref = l.titl;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = f_f.titl;
+},
+{
+pos = (652,0);
+ref = l.titl;
+}
+);
+width = 951;
+}
+);
+}

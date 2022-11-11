@@ -1,0 +1,31 @@
+{
+color = 4;
+glyphname = Zacute.titl;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = Z.titl;
+},
+{
+pos = (301,135);
+ref = acute;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = Z.titl;
+},
+{
+pos = (341,172);
+ref = acutecomb.case;
+}
+);
+width = 411;
+}
+);
+note = Zacute;
+}

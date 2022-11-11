@@ -1,0 +1,32 @@
+{
+color = 5;
+glyphname = Cdotaccent.ss01;
+kernLeft = _C_ss01;
+kernRight = _C_ss01;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = C.ss01;
+},
+{
+pos = (273,205);
+ref = dotaccentcomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = C.ss01;
+},
+{
+pos = (751,222);
+ref = dotaccentcomb.case;
+}
+);
+width = 728;
+}
+);
+}

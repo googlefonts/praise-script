@@ -1,0 +1,32 @@
+{
+color = 5;
+glyphname = Ccircumflex.ss04;
+kernLeft = _C_ss04;
+kernRight = _C_ss04;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = C.ss04;
+},
+{
+pos = (363,97);
+ref = circumflexcomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = C.ss04;
+},
+{
+pos = (366,180);
+ref = circumflexcomb.case;
+}
+);
+width = 491;
+}
+);
+}

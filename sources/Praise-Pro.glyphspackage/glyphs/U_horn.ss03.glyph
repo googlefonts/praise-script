@@ -1,0 +1,33 @@
+{
+color = 5;
+glyphname = Uhorn.ss03;
+kernLeft = _W_ss03;
+kernRight = _U_ss03;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = U.ss03;
+},
+{
+pos = (970,40);
+ref = horncomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = U.ss03;
+},
+{
+pos = (988,160);
+ref = horncomb;
+}
+);
+width = 910;
+}
+);
+metricLeft = W.ss03;
+}

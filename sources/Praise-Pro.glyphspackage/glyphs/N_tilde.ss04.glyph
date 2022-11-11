@@ -1,0 +1,33 @@
+{
+color = 5;
+glyphname = Ntilde.ss04;
+kernLeft = _N_ss04;
+kernRight = _N_ss04;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = N.ss04;
+},
+{
+pos = (590,106);
+ref = tilde;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = N.ss04;
+},
+{
+pos = (699,142);
+ref = tildecomb.case;
+}
+);
+width = 815;
+}
+);
+note = Ntilde;
+}

@@ -1,0 +1,32 @@
+{
+glyphname = emacron.ss04;
+kernLeft = _o;
+kernRight = _e;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = e.ss04;
+},
+{
+pos = (198,-70);
+ref = macron;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = e.ss04;
+},
+{
+pos = (220,0);
+ref = macroncomb;
+}
+);
+width = 332;
+}
+);
+note = emacron;
+}

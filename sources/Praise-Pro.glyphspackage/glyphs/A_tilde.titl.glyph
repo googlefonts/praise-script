@@ -1,0 +1,31 @@
+{
+color = 4;
+glyphname = Atilde.titl;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = A.titl;
+},
+{
+pos = (405,103);
+ref = tilde;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = A.titl;
+},
+{
+pos = (351,165);
+ref = tildecomb.case;
+}
+);
+width = 481;
+}
+);
+note = Atilde;
+}

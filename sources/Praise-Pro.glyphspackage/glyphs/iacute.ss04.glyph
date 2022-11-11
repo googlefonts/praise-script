@@ -1,0 +1,30 @@
+{
+glyphname = iacute.ss04;
+kernLeft = _i_ss02;
+kernRight = _n;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = idotless.ss04;
+},
+{
+ref = acutecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = idotless.ss04;
+},
+{
+pos = (228,0);
+ref = acutecomb;
+}
+);
+width = 236;
+}
+);
+}

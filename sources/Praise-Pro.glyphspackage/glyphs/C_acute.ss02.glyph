@@ -1,0 +1,33 @@
+{
+color = 5;
+glyphname = Cacute.ss02;
+kernLeft = _C_ss02;
+kernRight = _C_ss02;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = C.ss02;
+},
+{
+pos = (371,156);
+ref = acute;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = C.ss02;
+},
+{
+pos = (422,176);
+ref = acutecomb.case;
+}
+);
+width = 458;
+}
+);
+note = Cacute;
+}

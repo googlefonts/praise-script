@@ -1,0 +1,32 @@
+{
+color = 5;
+glyphname = Zdotaccent.ss01;
+kernLeft = _Z_ss01;
+kernRight = _Z_ss01;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = Z.ss01;
+},
+{
+pos = (283,205);
+ref = dotaccentcomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = Z.ss01;
+},
+{
+pos = (451,175);
+ref = dotaccentcomb.case;
+}
+);
+width = 625;
+}
+);
+}

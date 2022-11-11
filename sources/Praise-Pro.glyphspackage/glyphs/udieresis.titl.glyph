@@ -1,0 +1,31 @@
+{
+color = 4;
+glyphname = udieresis.titl;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = u.titl;
+},
+{
+pos = (229,9);
+ref = dieresis;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = u.titl;
+},
+{
+pos = (288,46);
+ref = dieresiscomb;
+}
+);
+width = 423;
+}
+);
+note = udieresis;
+}

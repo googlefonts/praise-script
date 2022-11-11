@@ -1,0 +1,32 @@
+{
+glyphname = aring.ss02;
+kernLeft = _o;
+kernRight = _a_ss02;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = a.ss02;
+},
+{
+pos = (286,-72);
+ref = ring;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = a.ss02;
+},
+{
+pos = (312,0);
+ref = ringcomb;
+}
+);
+width = 418;
+}
+);
+note = aring;
+}

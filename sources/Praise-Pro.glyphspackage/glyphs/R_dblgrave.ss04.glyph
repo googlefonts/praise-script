@@ -1,0 +1,32 @@
+{
+color = 5;
+glyphname = Rdblgrave.ss04;
+kernLeft = _R_ss04;
+kernRight = _R_ss04;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = R.ss04;
+},
+{
+pos = (302,175);
+ref = dblgravecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = R.ss04;
+},
+{
+pos = (416,195);
+ref = dblgravecomb.case;
+}
+);
+width = 728;
+}
+);
+}

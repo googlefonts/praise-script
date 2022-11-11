@@ -1,0 +1,30 @@
+{
+color = 4;
+glyphname = Ohookabove.titl;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = O.titl;
+},
+{
+pos = (297,93);
+ref = hookabovecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = O.titl;
+},
+{
+pos = (407,158);
+ref = hookabovecomb.case;
+}
+);
+width = 491;
+}
+);
+}

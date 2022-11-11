@@ -1,0 +1,30 @@
+{
+glyphname = icaron.ss05;
+kernLeft = _i_ss02;
+kernRight = _n;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = idotless.ss05;
+},
+{
+ref = caroncomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = idotless.ss05;
+},
+{
+pos = (181,0);
+ref = caroncomb;
+}
+);
+width = 254;
+}
+);
+}

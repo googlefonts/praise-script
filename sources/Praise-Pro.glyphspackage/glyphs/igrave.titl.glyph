@@ -1,0 +1,31 @@
+{
+color = 4;
+glyphname = igrave.titl;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = i.titl;
+},
+{
+pos = (195,-8);
+ref = grave;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = idotless.titl;
+},
+{
+pos = (128,47);
+ref = gravecomb;
+}
+);
+width = 212;
+}
+);
+note = igrave;
+}

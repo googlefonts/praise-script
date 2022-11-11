@@ -1,0 +1,32 @@
+{
+color = 5;
+glyphname = Ahookabove.ss04;
+kernLeft = _A_ss04;
+kernRight = _A_ss04;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = A.ss04;
+},
+{
+pos = (786,121);
+ref = hookabovecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = A.ss04;
+},
+{
+pos = (940,175);
+ref = hookabovecomb.case;
+}
+);
+width = 926;
+}
+);
+}

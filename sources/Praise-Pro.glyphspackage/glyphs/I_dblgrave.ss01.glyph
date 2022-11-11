@@ -1,0 +1,32 @@
+{
+color = 5;
+glyphname = Idblgrave.ss01;
+kernLeft = _I_ss01;
+kernRight = _I_ss01;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = I.ss01;
+},
+{
+pos = (120,205);
+ref = dblgravecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = I.ss01;
+},
+{
+pos = (464,157);
+ref = dblgravecomb.case;
+}
+);
+width = 556;
+}
+);
+}

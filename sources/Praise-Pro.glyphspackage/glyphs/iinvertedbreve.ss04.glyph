@@ -1,0 +1,31 @@
+{
+glyphname = iinvertedbreve.ss04;
+kernLeft = _i_ss02;
+kernRight = _n;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = idotless.ss04;
+},
+{
+pos = (67,115);
+ref = breveinvertedcomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = idotless.ss04;
+},
+{
+pos = (151,0);
+ref = breveinvertedcomb;
+}
+);
+width = 236;
+}
+);
+}

@@ -1,0 +1,32 @@
+{
+color = 5;
+glyphname = Amacron.ss01;
+kernLeft = _A_ss01;
+kernRight = _A_ss01;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = A.ss01;
+},
+{
+pos = (1095,188);
+ref = macroncomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = A.ss01;
+},
+{
+pos = (1081,227);
+ref = macroncomb.case;
+}
+);
+width = 1075;
+}
+);
+}

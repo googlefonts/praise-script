@@ -1,0 +1,40 @@
+{
+color = 5;
+glyphname = Abrevedotbelow.ss03;
+kernLeft = _A_ss03;
+kernRight = _A_ss03;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = A.ss03;
+},
+{
+pos = (712,-189);
+ref = dotbelowcomb;
+},
+{
+pos = (1146,163);
+ref = brevecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = A.ss03;
+},
+{
+pos = (693,0);
+ref = dotbelowcomb;
+},
+{
+pos = (1127,237);
+ref = brevecomb.case;
+}
+);
+width = 1161;
+}
+);
+}

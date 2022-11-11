@@ -1,0 +1,32 @@
+{
+glyphname = amacron.ss02;
+kernLeft = _o;
+kernRight = _a_ss02;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = a.ss02;
+},
+{
+pos = (260,-55);
+ref = macron;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = a.ss02;
+},
+{
+pos = (284,0);
+ref = macroncomb;
+}
+);
+width = 418;
+}
+);
+note = amacron;
+}

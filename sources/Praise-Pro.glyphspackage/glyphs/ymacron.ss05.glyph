@@ -1,0 +1,30 @@
+{
+glyphname = ymacron.ss05;
+kernLeft = _y_ss05;
+kernRight = _n;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = y.ss05;
+},
+{
+ref = macroncomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = y.ss05;
+},
+{
+pos = (216,0);
+ref = macroncomb;
+}
+);
+width = 401;
+}
+);
+}

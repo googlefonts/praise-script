@@ -1,0 +1,31 @@
+{
+color = 5;
+glyphname = Wgrave.ss05;
+kernLeft = _W_ss05;
+kernRight = _W_ss05;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = W.ss05;
+},
+{
+ref = gravecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = W.ss05;
+},
+{
+pos = (781,122);
+ref = gravecomb.case;
+}
+);
+width = 1132;
+}
+);
+}

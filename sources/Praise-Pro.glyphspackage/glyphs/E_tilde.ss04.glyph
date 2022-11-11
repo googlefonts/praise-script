@@ -1,0 +1,32 @@
+{
+color = 5;
+glyphname = Etilde.ss04;
+kernLeft = _E_ss04;
+kernRight = _E_ss04;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = E.ss04;
+},
+{
+pos = (355,110);
+ref = tildecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = E.ss04;
+},
+{
+pos = (326,175);
+ref = tildecomb.case;
+}
+);
+width = 533;
+}
+);
+}

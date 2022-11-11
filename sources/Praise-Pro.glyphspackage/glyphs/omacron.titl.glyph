@@ -1,0 +1,31 @@
+{
+color = 4;
+glyphname = omacron.titl;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = o.titl;
+},
+{
+pos = (222,-31);
+ref = macron;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = o.titl;
+},
+{
+pos = (266,41);
+ref = macroncomb;
+}
+);
+width = 395;
+}
+);
+note = omacron;
+}

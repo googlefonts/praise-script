@@ -1,0 +1,30 @@
+{
+glyphname = gcommaaccent.ss05;
+kernLeft = _y_ss05;
+kernRight = _n;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = g.ss05;
+},
+{
+ref = commaturnedabovecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = g.ss05;
+},
+{
+pos = (333,0);
+ref = commaturnedabovecomb;
+}
+);
+width = 422;
+}
+);
+}

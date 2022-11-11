@@ -1,0 +1,31 @@
+{
+color = 5;
+glyphname = Uacute.ss05;
+kernLeft = _U_ss05;
+kernRight = _U_ss05;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = U.ss05;
+},
+{
+ref = acutecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = U.ss05;
+},
+{
+pos = (711,175);
+ref = acutecomb.case;
+}
+);
+width = 773;
+}
+);
+}

@@ -1,0 +1,19 @@
+{
+color = 1;
+glyphname = rdblgrave.ss05.init;
+layers = (
+{
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = r.ss05.init;
+},
+{
+pos = (42,0);
+ref = dblgravecomb;
+}
+);
+width = 324;
+}
+);
+}

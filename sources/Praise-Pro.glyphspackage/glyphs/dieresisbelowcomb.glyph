@@ -1,0 +1,45 @@
+{
+color = 4;
+glyphname = dieresisbelowcomb;
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+pos = (150,0);
+},
+{
+name = bottom;
+pos = (120,-177);
+}
+);
+background = {
+anchors = (
+{
+name = _bottom;
+pos = (124,0);
+},
+{
+name = bottom;
+pos = (124,-173);
+}
+);
+shapes = (
+{
+pos = (0,-694);
+ref = dieresiscomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+pos = (0,-666);
+ref = dieresiscomb;
+}
+);
+width = 247;
+}
+);
+unicode = 804;
+}

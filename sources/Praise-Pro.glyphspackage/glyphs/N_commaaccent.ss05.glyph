@@ -1,0 +1,31 @@
+{
+color = 5;
+glyphname = Ncommaaccent.ss05;
+kernLeft = _N_ss05;
+kernRight = _N_ss05;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = N.ss05;
+},
+{
+ref = commaaccentcomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = N.ss05;
+},
+{
+pos = (370,0);
+ref = commaaccentcomb;
+}
+);
+width = 769;
+}
+);
+}

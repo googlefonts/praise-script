@@ -1,0 +1,32 @@
+{
+glyphname = ecaron.ss02;
+kernLeft = _o;
+kernRight = _e_ss02;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = e.ss02;
+},
+{
+pos = (234,-38);
+ref = caron;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = e.ss02;
+},
+{
+pos = (210,0);
+ref = caroncomb;
+}
+);
+width = 354;
+}
+);
+note = ecaron;
+}

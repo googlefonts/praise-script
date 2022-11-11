@@ -1,0 +1,32 @@
+{
+glyphname = uogonek.ss02;
+kernLeft = _u_ss02;
+kernRight = _u_ss02;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = u.ss02;
+},
+{
+pos = (47,15);
+ref = ogonek;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = u.ss02;
+},
+{
+pos = (178,0);
+ref = ogonekcomb;
+}
+);
+width = 407;
+}
+);
+note = uogonek;
+}

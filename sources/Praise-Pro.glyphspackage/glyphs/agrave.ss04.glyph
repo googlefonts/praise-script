@@ -1,0 +1,32 @@
+{
+glyphname = agrave.ss04;
+kernLeft = _o;
+kernRight = _a;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = a.ss04;
+},
+{
+pos = (247,-31);
+ref = grave;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = a.ss04;
+},
+{
+pos = (203,0);
+ref = gravecomb;
+}
+);
+width = 426;
+}
+);
+note = agrave;
+}

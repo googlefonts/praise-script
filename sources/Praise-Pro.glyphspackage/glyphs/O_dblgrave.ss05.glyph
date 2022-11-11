@@ -1,0 +1,31 @@
+{
+color = 5;
+glyphname = Odblgrave.ss05;
+kernLeft = _O_ss05;
+kernRight = _O_ss05;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = O.ss05;
+},
+{
+ref = dblgravecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = O.ss05;
+},
+{
+pos = (394,201);
+ref = dblgravecomb.case;
+}
+);
+width = 647;
+}
+);
+}

@@ -1,0 +1,39 @@
+{
+glyphname = ocircumflexdotbelow.ss04;
+kernLeft = _o;
+kernRight = _o;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = o.ss04;
+},
+{
+pos = (65,-164);
+ref = dotbelowcomb;
+},
+{
+pos = (227,-38);
+ref = circumflexcomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = o.ss04;
+},
+{
+pos = (43,0);
+ref = dotbelowcomb;
+},
+{
+pos = (214,0);
+ref = circumflexcomb;
+}
+);
+width = 393;
+}
+);
+}

@@ -1,0 +1,32 @@
+{
+glyphname = rcaron.ss04;
+kernLeft = _n;
+kernRight = _n;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = r.ss04;
+},
+{
+pos = (-43,7);
+ref = caron;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = r.ss04;
+},
+{
+pos = (209,0);
+ref = caroncomb;
+}
+);
+width = 351;
+}
+);
+note = rcaron;
+}

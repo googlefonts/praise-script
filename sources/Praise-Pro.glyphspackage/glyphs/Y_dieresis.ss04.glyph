@@ -1,0 +1,33 @@
+{
+color = 5;
+glyphname = Ydieresis.ss04;
+kernLeft = _Y_ss04;
+kernRight = _Y_ss04;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = Y.ss04;
+},
+{
+pos = (473,142);
+ref = dieresis;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = Y.ss04;
+},
+{
+pos = (575,155);
+ref = dieresiscomb.case;
+}
+);
+width = 759;
+}
+);
+note = Ydieresis;
+}

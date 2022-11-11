@@ -1,0 +1,33 @@
+{
+color = 5;
+glyphname = Idieresis.ss03;
+kernLeft = _I_ss03;
+kernRight = _I_ss03;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = I.ss03;
+},
+{
+pos = (330,184);
+ref = dieresis;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = I.ss03;
+},
+{
+pos = (399,184);
+ref = dieresiscomb.case;
+}
+);
+width = 382;
+}
+);
+note = Idieresis;
+}

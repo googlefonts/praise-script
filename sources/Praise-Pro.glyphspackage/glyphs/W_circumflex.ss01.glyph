@@ -1,0 +1,32 @@
+{
+color = 5;
+glyphname = Wcircumflex.ss01;
+kernLeft = _W_ss01;
+kernRight = _W_ss01;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = W.ss01;
+},
+{
+pos = (382,205);
+ref = circumflexcomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = W.ss01;
+},
+{
+pos = (917,175);
+ref = circumflexcomb.case;
+}
+);
+width = 1081;
+}
+);
+}

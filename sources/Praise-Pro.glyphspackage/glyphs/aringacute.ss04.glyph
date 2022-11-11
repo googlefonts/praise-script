@@ -1,0 +1,35 @@
+{
+glyphname = aringacute.ss04;
+kernLeft = _o;
+kernRight = _a;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = aring.ss04;
+},
+{
+pos = (346,121);
+ref = acutecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = a.ss04;
+},
+{
+pos = (308,0);
+ref = ringcomb;
+},
+{
+pos = (403,175);
+ref = acutecomb;
+}
+);
+width = 426;
+}
+);
+}

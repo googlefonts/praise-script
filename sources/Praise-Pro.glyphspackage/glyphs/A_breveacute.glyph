@@ -1,0 +1,33 @@
+{
+color = 5;
+glyphname = Abreveacute;
+kernLeft = _A;
+kernRight = _A;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = A;
+},
+{
+pos = (118,179);
+ref = brevecomb_acutecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = A;
+},
+{
+pos = (399,175);
+ref = brevecomb_acutecomb.case;
+}
+);
+width = 540;
+}
+);
+unicode = 7854;
+}

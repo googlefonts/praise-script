@@ -1,0 +1,31 @@
+{
+color = 5;
+glyphname = Ihookabove.ss05;
+kernLeft = _I_ss05;
+kernRight = _I_ss05;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = I.ss05;
+},
+{
+ref = hookabovecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = I.ss05;
+},
+{
+pos = (588,221);
+ref = hookabovecomb.case;
+}
+);
+width = 552;
+}
+);
+}

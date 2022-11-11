@@ -1,0 +1,33 @@
+{
+color = 5;
+glyphname = Ocircumflexacute;
+kernLeft = _O;
+kernRight = _O;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = O;
+},
+{
+pos = (53,179);
+ref = circumflexcomb_acutecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = O;
+},
+{
+pos = (330,175);
+ref = circumflexcomb_acutecomb.case;
+}
+);
+width = 503;
+}
+);
+unicode = 7888;
+}

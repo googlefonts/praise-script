@@ -1,0 +1,30 @@
+{
+glyphname = udblgrave.ss04;
+kernLeft = _u_ss02;
+kernRight = _n;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = u.ss04;
+},
+{
+ref = dblgravecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = u.ss04;
+},
+{
+pos = (79,0);
+ref = dblgravecomb;
+}
+);
+width = 397;
+}
+);
+}

@@ -1,0 +1,35 @@
+{
+color = 5;
+glyphname = NJ.ss01;
+kernLeft = _N_ss01;
+kernRight = _N_ss01;
+layers = (
+{
+background = {
+shapes = (
+{
+pos = (242,0);
+ref = N.ss01;
+},
+{
+pos = (1019,0);
+ref = J.ss01;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = N.ss01;
+},
+{
+alignment = -1;
+pos = (798,0);
+ref = J.ss01;
+}
+);
+width = 1479;
+}
+);
+metricRight = J.ss01;
+}

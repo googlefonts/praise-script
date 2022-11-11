@@ -1,0 +1,42 @@
+{
+color = 4;
+glyphname = brevecomb_tildecomb.case;
+layers = (
+{
+background = {
+anchors = (
+{
+name = _top;
+pos = (125,454);
+},
+{
+name = top;
+pos = (125,725);
+}
+);
+shapes = (
+{
+ref = brevecomb;
+},
+{
+pos = (0,116);
+ref = tildecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+alignment = -1;
+ref = brevecomb.case;
+},
+{
+alignment = -1;
+pos = (37,129);
+ref = tildecomb.case;
+}
+);
+width = 235;
+}
+);
+}

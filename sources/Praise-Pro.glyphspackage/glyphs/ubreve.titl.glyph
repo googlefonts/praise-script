@@ -1,0 +1,30 @@
+{
+color = 4;
+glyphname = ubreve.titl;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = u.titl;
+},
+{
+pos = (224,-38);
+ref = brevecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = u.titl;
+},
+{
+pos = (268,46);
+ref = brevecomb;
+}
+);
+width = 423;
+}
+);
+}
