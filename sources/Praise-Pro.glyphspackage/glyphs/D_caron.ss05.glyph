@@ -1,0 +1,31 @@
+{
+color = 5;
+glyphname = Dcaron.ss05;
+kernLeft = _D_ss05;
+kernRight = _D_ss05;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = D.ss05;
+},
+{
+ref = caroncomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = D.ss05;
+},
+{
+pos = (715,175);
+ref = caroncomb;
+}
+);
+width = 932;
+}
+);
+}

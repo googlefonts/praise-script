@@ -1,0 +1,32 @@
+{
+color = 5;
+glyphname = Ubreve.ss02;
+kernLeft = _U_ss02;
+kernRight = _U_ss02;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = U.ss02;
+},
+{
+pos = (319,71);
+ref = brevecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = U.ss02;
+},
+{
+pos = (312,165);
+ref = brevecomb.case;
+}
+);
+width = 489;
+}
+);
+}

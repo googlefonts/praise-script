@@ -1,0 +1,31 @@
+{
+glyphname = ytilde.ss04;
+kernLeft = _y;
+kernRight = _n;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = y.ss04;
+},
+{
+pos = (171,-50);
+ref = tildecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = y.ss04;
+},
+{
+pos = (190,0);
+ref = tildecomb;
+}
+);
+width = 392;
+}
+);
+}

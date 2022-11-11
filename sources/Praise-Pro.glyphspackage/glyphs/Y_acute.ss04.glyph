@@ -1,0 +1,33 @@
+{
+color = 5;
+glyphname = Yacute.ss04;
+kernLeft = _Y_ss04;
+kernRight = _Y_ss04;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = Y.ss04;
+},
+{
+pos = (527,137);
+ref = acute;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = Y.ss04;
+},
+{
+pos = (638,155);
+ref = acutecomb.case;
+}
+);
+width = 759;
+}
+);
+note = Yacute;
+}

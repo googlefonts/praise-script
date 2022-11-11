@@ -1,0 +1,26 @@
+{
+color = 4;
+glyphname = threequarters;
+layers = (
+{
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = three.numr;
+},
+{
+pos = (242,0);
+ref = fraction;
+},
+{
+pos = (331,0);
+ref = four.dnom;
+}
+);
+width = 583;
+}
+);
+metricLeft = three.numr;
+metricRight = three.numr;
+unicode = 190;
+}

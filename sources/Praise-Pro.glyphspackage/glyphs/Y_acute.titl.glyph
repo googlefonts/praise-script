@@ -1,0 +1,31 @@
+{
+color = 4;
+glyphname = Yacute.titl;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = Y.titl;
+},
+{
+pos = (335,132);
+ref = acute;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = Y.titl;
+},
+{
+pos = (340,145);
+ref = acutecomb.case;
+}
+);
+width = 412;
+}
+);
+note = Yacute;
+}

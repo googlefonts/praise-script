@@ -1,0 +1,40 @@
+{
+color = 5;
+glyphname = Acircumflexdotbelow.ss04;
+kernLeft = _A_ss04;
+kernRight = _A_ss04;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = A.ss04;
+},
+{
+pos = (478,-131);
+ref = dotbelowcomb;
+},
+{
+pos = (803,110);
+ref = circumflexcomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = A.ss04;
+},
+{
+pos = (519,0);
+ref = dotbelowcomb;
+},
+{
+pos = (855,175);
+ref = circumflexcomb.case;
+}
+);
+width = 926;
+}
+);
+}

@@ -1,0 +1,26 @@
+{
+color = 4;
+glyphname = Ldot.titl;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = L.titl;
+},
+{
+pos = (167,50);
+ref = periodcentered.titl;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = L.titl;
+}
+);
+width = 394;
+}
+);
+}

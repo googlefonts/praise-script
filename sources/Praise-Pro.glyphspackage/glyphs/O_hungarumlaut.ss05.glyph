@@ -1,0 +1,31 @@
+{
+color = 5;
+glyphname = Ohungarumlaut.ss05;
+kernLeft = _O_ss05;
+kernRight = _O_ss05;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = O.ss05;
+},
+{
+ref = hungarumlautcomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = O.ss05;
+},
+{
+pos = (541,201);
+ref = hungarumlautcomb.case;
+}
+);
+width = 647;
+}
+);
+}

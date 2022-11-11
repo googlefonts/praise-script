@@ -1,0 +1,31 @@
+{
+glyphname = ihookabove.ss02;
+kernLeft = _i_ss02;
+kernRight = _i_ss02;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = idotless.ss02;
+},
+{
+pos = (145,-56);
+ref = hookabovecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = idotless.ss02;
+},
+{
+pos = (216,0);
+ref = hookabovecomb;
+}
+);
+width = 210;
+}
+);
+}

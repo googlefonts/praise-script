@@ -1,0 +1,33 @@
+{
+color = 5;
+glyphname = Umacron.ss04;
+kernLeft = _U_ss04;
+kernRight = _U_ss04;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = U.ss04;
+},
+{
+pos = (619,99);
+ref = macron;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = U.ss04;
+},
+{
+pos = (731,176);
+ref = macroncomb.case;
+}
+);
+width = 833;
+}
+);
+note = Umacron;
+}

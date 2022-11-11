@@ -1,0 +1,34 @@
+{
+color = 5;
+glyphname = Uogonek.ss03;
+kernLeft = _W_ss03;
+kernRight = _U_ss03;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = U.ss03;
+},
+{
+pos = (220,9);
+ref = ogonek;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = U.ss03;
+},
+{
+pos = (673,-98);
+ref = ogonekcomb;
+}
+);
+width = 910;
+}
+);
+metricLeft = W.ss03;
+note = Uogonek;
+}

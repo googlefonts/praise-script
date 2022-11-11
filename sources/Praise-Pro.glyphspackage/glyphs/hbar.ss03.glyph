@@ -1,0 +1,32 @@
+{
+glyphname = hbar.ss03;
+kernLeft = _asc_swsh_ss03;
+kernRight = _asc_swsh_ss03;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = h.ss03;
+},
+{
+pos = (-8,330);
+ref = strokeshortcomb;
+scale = (1.23,1);
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = h.ss03;
+},
+{
+pos = (193,342);
+ref = strokeshortcomb;
+}
+);
+width = 385;
+}
+);
+}

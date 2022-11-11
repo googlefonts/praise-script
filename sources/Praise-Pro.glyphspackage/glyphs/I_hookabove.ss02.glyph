@@ -1,0 +1,32 @@
+{
+color = 5;
+glyphname = Ihookabove.ss02;
+kernLeft = _I_ss02;
+kernRight = _I_ss02;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = I.ss02;
+},
+{
+pos = (304,128);
+ref = hookabovecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = I.ss02;
+},
+{
+pos = (319,164);
+ref = hookabovecomb.case;
+}
+);
+width = 340;
+}
+);
+}

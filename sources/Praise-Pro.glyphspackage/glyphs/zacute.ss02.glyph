@@ -1,0 +1,32 @@
+{
+glyphname = zacute.ss02;
+kernLeft = _z_ss02;
+kernRight = _z_ss02;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = z.ss02;
+},
+{
+pos = (210,-30);
+ref = acute;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = z.ss02;
+},
+{
+pos = (238,-6);
+ref = acutecomb;
+}
+);
+width = 332;
+}
+);
+note = zacute;
+}

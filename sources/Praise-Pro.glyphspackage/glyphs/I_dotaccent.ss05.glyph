@@ -1,0 +1,31 @@
+{
+color = 5;
+glyphname = Idotaccent.ss05;
+kernLeft = _I_ss05;
+kernRight = _I_ss05;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = I.ss05;
+},
+{
+ref = dotaccentcomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = I.ss05;
+},
+{
+pos = (609,221);
+ref = dotaccentcomb.case;
+}
+);
+width = 552;
+}
+);
+}

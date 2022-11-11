@@ -1,0 +1,30 @@
+{
+glyphname = ncommaaccent.ss02;
+kernLeft = _n;
+kernRight = _n_ss02;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = n.ss02;
+},
+{
+ref = commaaccentcomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = n.ss02;
+},
+{
+pos = (109,0);
+ref = commaaccentcomb;
+}
+);
+width = 397;
+}
+);
+}

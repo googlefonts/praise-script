@@ -1,0 +1,33 @@
+{
+color = 5;
+glyphname = Uhorngrave.ss03;
+kernLeft = _W_ss03;
+kernRight = _U_ss03;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = Uhorn.ss03;
+},
+{
+pos = (700,192);
+ref = gravecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = Uhorn.ss03;
+},
+{
+pos = (723,177);
+ref = gravecomb.case;
+}
+);
+width = 910;
+}
+);
+metricLeft = W.ss03;
+}

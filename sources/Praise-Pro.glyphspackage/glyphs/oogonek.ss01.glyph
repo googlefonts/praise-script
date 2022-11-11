@@ -1,0 +1,29 @@
+{
+glyphname = oogonek.ss01;
+kernLeft = _o;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = o.ss01;
+},
+{
+pos = (194,0);
+ref = ogonekcomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = o.ss01;
+},
+{
+ref = ogonekcomb;
+}
+);
+width = 394;
+}
+);
+}

@@ -1,0 +1,40 @@
+{
+glyphname = odieresismacron;
+kernLeft = _o;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = o;
+},
+{
+pos = (79,0);
+ref = dieresiscomb;
+},
+{
+pos = (102,167);
+ref = macroncomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = o;
+},
+{
+pos = (236,0);
+ref = dieresiscomb;
+},
+{
+alignment = -1;
+pos = (293,137);
+ref = macroncomb;
+}
+);
+width = 397;
+}
+);
+unicode = 555;
+}

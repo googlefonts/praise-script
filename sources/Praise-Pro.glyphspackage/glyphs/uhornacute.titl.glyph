@@ -1,0 +1,30 @@
+{
+color = 4;
+glyphname = uhornacute.titl;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = uhorn.titl;
+},
+{
+pos = (293,0);
+ref = acutecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = uhorn.titl;
+},
+{
+pos = (338,46);
+ref = acutecomb;
+}
+);
+width = 423;
+}
+);
+}

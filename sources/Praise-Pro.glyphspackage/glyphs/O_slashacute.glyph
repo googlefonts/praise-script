@@ -1,0 +1,32 @@
+{
+color = 5;
+glyphname = Oslashacute;
+kernLeft = _O;
+kernRight = _O;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = Oslash;
+},
+{
+ref = acutecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = Oslash;
+},
+{
+pos = (434,175);
+ref = acutecomb.case;
+}
+);
+width = 506;
+}
+);
+unicode = 510;
+}

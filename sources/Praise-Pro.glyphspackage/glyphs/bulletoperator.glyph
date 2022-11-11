@@ -1,0 +1,27 @@
+{
+color = 4;
+glyphname = bulletoperator;
+layers = (
+{
+background = {
+shapes = (
+{
+pos = (-49,14);
+ref = bullet;
+scale = (0.8279,0.8279);
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+pos = (-49,14);
+ref = bullet;
+scale = (0.8279,0.8279);
+}
+);
+width = 422;
+}
+);
+unicode = 8729;
+}

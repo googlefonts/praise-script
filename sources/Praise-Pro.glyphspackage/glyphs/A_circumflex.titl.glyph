@@ -1,0 +1,31 @@
+{
+color = 4;
+glyphname = Acircumflex.titl;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = A.titl;
+},
+{
+pos = (472,124);
+ref = circumflex;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = A.titl;
+},
+{
+pos = (342,165);
+ref = circumflexcomb.case;
+}
+);
+width = 481;
+}
+);
+note = Acircumflex;
+}

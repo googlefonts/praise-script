@@ -1,0 +1,42 @@
+{
+color = 4;
+glyphname = circumflexcomb_hookabovecomb;
+layers = (
+{
+background = {
+anchors = (
+{
+name = _top;
+pos = (156,454);
+},
+{
+name = top;
+pos = (156,745);
+}
+);
+shapes = (
+{
+ref = circumflexcomb;
+},
+{
+alignment = -1;
+pos = (181,93);
+ref = hookabovecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = circumflexcomb;
+},
+{
+alignment = -1;
+pos = (223,68);
+ref = hookabovecomb;
+}
+);
+width = 246;
+}
+);
+}

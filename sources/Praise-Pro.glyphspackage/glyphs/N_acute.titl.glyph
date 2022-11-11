@@ -1,0 +1,31 @@
+{
+color = 4;
+glyphname = Nacute.titl;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = N.titl;
+},
+{
+pos = (337,114);
+ref = acute;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = N.titl;
+},
+{
+pos = (410,145);
+ref = acute;
+}
+);
+width = 486;
+}
+);
+note = Nacute;
+}

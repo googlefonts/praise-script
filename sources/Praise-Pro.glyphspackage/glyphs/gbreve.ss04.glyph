@@ -1,0 +1,31 @@
+{
+glyphname = gbreve.ss04;
+kernLeft = _g;
+kernRight = _n;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = g.ss04;
+},
+{
+pos = (243,-63);
+ref = brevecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = g.ss04;
+},
+{
+pos = (242,0);
+ref = brevecomb;
+}
+);
+width = 416;
+}
+);
+}

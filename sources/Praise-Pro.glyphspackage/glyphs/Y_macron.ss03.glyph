@@ -1,0 +1,33 @@
+{
+color = 5;
+glyphname = Ymacron.ss03;
+kernLeft = _Y_ss03;
+kernRight = _Y_ss03;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = Y.ss03;
+},
+{
+pos = (740,111);
+ref = macroncomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = Y.ss03;
+},
+{
+alignment = -1;
+pos = (837,243);
+ref = macroncomb.case;
+}
+);
+width = 969;
+}
+);
+}

@@ -1,0 +1,33 @@
+{
+color = 5;
+glyphname = Igrave.ss03;
+kernLeft = _I_ss03;
+kernRight = _I_ss03;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = I.ss03;
+},
+{
+pos = (352,135);
+ref = grave;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = I.ss03;
+},
+{
+pos = (327,184);
+ref = gravecomb.case;
+}
+);
+width = 382;
+}
+);
+note = Igrave;
+}

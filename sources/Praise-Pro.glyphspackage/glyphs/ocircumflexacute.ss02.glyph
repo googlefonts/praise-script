@@ -1,0 +1,31 @@
+{
+glyphname = ocircumflexacute.ss02;
+kernLeft = _o;
+kernRight = _e_ss02;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = o.ss02;
+},
+{
+pos = (179,-69);
+ref = circumflexcomb_acutecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = o.ss02;
+},
+{
+pos = (211,0);
+ref = circumflexcomb_acutecomb;
+}
+);
+width = 396;
+}
+);
+}

@@ -1,0 +1,32 @@
+{
+color = 6;
+glyphname = zdotaccent;
+kernLeft = _z;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = z;
+},
+{
+pos = (130,0);
+ref = dotaccentcomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+pos = (293,-11);
+ref = dotaccentcomb;
+},
+{
+ref = z;
+}
+);
+width = 358;
+}
+);
+unicode = 380;
+}

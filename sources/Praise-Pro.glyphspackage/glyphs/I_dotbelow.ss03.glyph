@@ -1,0 +1,32 @@
+{
+color = 5;
+glyphname = Idotbelow.ss03;
+kernLeft = _I_ss03;
+kernRight = _I_ss03;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = I.ss03;
+},
+{
+pos = (43,-234);
+ref = dotbelowcomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = I.ss03;
+},
+{
+pos = (83,-62);
+ref = dotbelowcomb;
+}
+);
+width = 382;
+}
+);
+}

@@ -1,0 +1,33 @@
+{
+color = 5;
+glyphname = Egrave;
+kernLeft = _E;
+kernRight = _E;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = E;
+},
+{
+pos = (56,145);
+ref = gravecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = E;
+},
+{
+pos = (218,175);
+ref = gravecomb.case;
+}
+);
+width = 451;
+}
+);
+unicode = 200;
+}

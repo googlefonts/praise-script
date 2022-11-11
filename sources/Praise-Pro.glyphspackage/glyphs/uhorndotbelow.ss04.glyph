@@ -1,0 +1,31 @@
+{
+glyphname = uhorndotbelow.ss04;
+kernLeft = _u_ss02;
+kernRight = _n;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = uhorn.ss04;
+},
+{
+pos = (45,-148);
+ref = dotbelowcomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = uhorn.ss04;
+},
+{
+pos = (93,0);
+ref = dotbelowcomb;
+}
+);
+width = 397;
+}
+);
+}

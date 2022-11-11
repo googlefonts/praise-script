@@ -1,0 +1,29 @@
+{
+color = 4;
+glyphname = Rcommaaccent.titl;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = R.titl;
+},
+{
+ref = commaaccentcomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = R.titl;
+},
+{
+pos = (142,10);
+ref = commaaccentcomb;
+}
+);
+width = 482;
+}
+);
+}

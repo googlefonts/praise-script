@@ -1,0 +1,30 @@
+{
+color = 4;
+glyphname = ygrave.titl;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = y.titl;
+},
+{
+pos = (184,-23);
+ref = gravecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = y.titl;
+},
+{
+pos = (134,31);
+ref = gravecomb;
+}
+);
+width = 346;
+}
+);
+}

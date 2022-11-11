@@ -1,0 +1,31 @@
+{
+color = 5;
+glyphname = Ocaron.ss04;
+kernLeft = _O_ss04;
+kernRight = _O_ss04;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = O.ss04;
+},
+{
+ref = caroncomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = O.ss04;
+},
+{
+pos = (438,171);
+ref = caroncomb.case;
+}
+);
+width = 596;
+}
+);
+}

@@ -1,0 +1,31 @@
+{
+color = 4;
+glyphname = Iacute.titl;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = I.titl;
+},
+{
+pos = (317,131);
+ref = acute;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = I.titl;
+},
+{
+pos = (346,165);
+ref = acutecomb.case;
+}
+);
+width = 268;
+}
+);
+note = Iacute;
+}

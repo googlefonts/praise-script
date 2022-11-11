@@ -1,0 +1,33 @@
+{
+color = 5;
+glyphname = Tcaron.ss02;
+kernLeft = _T_ss02;
+kernRight = _T_ss02;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = T.ss02;
+},
+{
+pos = (293,128);
+ref = caron;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = T.ss02;
+},
+{
+pos = (307,173);
+ref = caroncomb.case;
+}
+);
+width = 410;
+}
+);
+note = Tcaron;
+}

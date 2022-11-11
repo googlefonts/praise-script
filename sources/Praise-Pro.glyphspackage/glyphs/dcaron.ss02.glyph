@@ -1,0 +1,35 @@
+{
+glyphname = dcaron.ss02;
+kernLeft = _o;
+kernRight = _d_caron;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = d.ss02;
+},
+{
+pos = (461,63);
+ref = quoteright;
+scale = (0.75,0.7468);
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+alignment = -1;
+ref = d.ss02;
+},
+{
+pos = (564,117);
+ref = caroncomb.alt;
+}
+);
+width = 545;
+}
+);
+metricLeft = d.ss02;
+note = dcaron;
+}

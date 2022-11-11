@@ -1,0 +1,31 @@
+{
+glyphname = ohookabove.ss04;
+kernLeft = _o;
+kernRight = _o;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = o.ss04;
+},
+{
+pos = (237,-53);
+ref = hookabovecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = o.ss04;
+},
+{
+pos = (299,0);
+ref = hookabovecomb;
+}
+);
+width = 393;
+}
+);
+}

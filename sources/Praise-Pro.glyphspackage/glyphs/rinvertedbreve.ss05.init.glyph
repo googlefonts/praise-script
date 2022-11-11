@@ -1,0 +1,20 @@
+{
+color = 1;
+glyphname = rinvertedbreve.ss05.init;
+layers = (
+{
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = r.ss05.init;
+},
+{
+alignment = -1;
+pos = (134,0);
+ref = breveinvertedcomb;
+}
+);
+width = 324;
+}
+);
+}

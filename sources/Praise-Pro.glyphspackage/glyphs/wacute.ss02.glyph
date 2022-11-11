@@ -1,0 +1,31 @@
+{
+glyphname = wacute.ss02;
+kernLeft = _w_ss02;
+kernRight = _w_ss02;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = w.ss02;
+},
+{
+pos = (292,-46);
+ref = acutecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = w.ss02;
+},
+{
+pos = (328,0);
+ref = acutecomb;
+}
+);
+width = 562;
+}
+);
+}

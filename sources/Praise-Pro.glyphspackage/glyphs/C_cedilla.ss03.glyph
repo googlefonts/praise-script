@@ -1,0 +1,33 @@
+{
+color = 5;
+glyphname = Ccedilla.ss03;
+kernLeft = _C_ss03;
+kernRight = _C_ss03;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = C.ss03;
+},
+{
+pos = (6,-73);
+ref = cedilla;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = C.ss03;
+},
+{
+pos = (216,-79);
+ref = cedillacomb;
+}
+);
+width = 735;
+}
+);
+note = Ccedilla;
+}

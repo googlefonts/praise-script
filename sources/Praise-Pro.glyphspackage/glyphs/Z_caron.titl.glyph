@@ -1,0 +1,31 @@
+{
+color = 4;
+glyphname = Zcaron.titl;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = Z.titl;
+},
+{
+pos = (305,118);
+ref = caron;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = Z.titl;
+},
+{
+pos = (281,172);
+ref = caroncomb.case;
+}
+);
+width = 411;
+}
+);
+note = Zcaron;
+}

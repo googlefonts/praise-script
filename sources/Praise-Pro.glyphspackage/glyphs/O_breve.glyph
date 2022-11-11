@@ -1,0 +1,33 @@
+{
+color = 5;
+glyphname = Obreve;
+kernLeft = _O;
+kernRight = _O;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = O;
+},
+{
+pos = (118,179);
+ref = brevecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = O;
+},
+{
+pos = (344,175);
+ref = brevecomb.case;
+}
+);
+width = 503;
+}
+);
+unicode = 334;
+}

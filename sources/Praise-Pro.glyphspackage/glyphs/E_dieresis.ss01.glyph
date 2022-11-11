@@ -1,0 +1,32 @@
+{
+color = 5;
+glyphname = Edieresis.ss01;
+kernLeft = _E_ss01;
+kernRight = _E_ss01;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = E.ss01;
+},
+{
+pos = (158,205);
+ref = dieresiscomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = E.ss01;
+},
+{
+pos = (475,194);
+ref = dieresiscomb.case;
+}
+);
+width = 590;
+}
+);
+}

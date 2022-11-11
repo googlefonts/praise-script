@@ -1,0 +1,32 @@
+{
+color = 5;
+glyphname = Rcaron.ss01;
+kernLeft = _R_ss01;
+kernRight = _R_ss01;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = R.ss01;
+},
+{
+pos = (237,205);
+ref = caroncomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = R.ss01;
+},
+{
+pos = (691,203);
+ref = caroncomb.case;
+}
+);
+width = 815;
+}
+);
+}

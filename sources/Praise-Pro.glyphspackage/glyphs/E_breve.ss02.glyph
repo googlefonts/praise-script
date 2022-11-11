@@ -1,0 +1,32 @@
+{
+color = 5;
+glyphname = Ebreve.ss02;
+kernLeft = _E_ss02;
+kernRight = _E_ss02;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = E.ss02;
+},
+{
+pos = (259,91);
+ref = brevecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = E.ss02;
+},
+{
+pos = (273,164);
+ref = brevecomb.case;
+}
+);
+width = 444;
+}
+);
+}

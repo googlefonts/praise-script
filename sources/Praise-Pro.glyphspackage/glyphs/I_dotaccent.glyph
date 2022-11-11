@@ -1,0 +1,33 @@
+{
+color = 5;
+glyphname = Idotaccent;
+kernLeft = _I;
+kernRight = _I;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = I;
+},
+{
+pos = (135,179);
+ref = dotaccentcomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = I;
+},
+{
+pos = (393,185);
+ref = dotaccentcomb.case;
+}
+);
+width = 354;
+}
+);
+unicode = 304;
+}

@@ -1,0 +1,32 @@
+{
+glyphname = iogonek.ss02;
+kernLeft = _i_ss02;
+kernRight = _i_ss02;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = i.ss02;
+},
+{
+pos = (-151,19);
+ref = ogonek;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = i.ss02;
+},
+{
+pos = (-16,0);
+ref = ogonek;
+}
+);
+width = 210;
+}
+);
+note = iogonek;
+}

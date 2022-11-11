@@ -1,0 +1,31 @@
+{
+color = 5;
+glyphname = Lacute.ss04;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = L.ss04;
+},
+{
+pos = (497,135);
+ref = acute;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = L.ss04;
+},
+{
+pos = (545,164);
+ref = acutecomb.case;
+}
+);
+width = 617;
+}
+);
+note = Lacute;
+}

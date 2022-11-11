@@ -1,0 +1,31 @@
+{
+glyphname = uhornacute.ss04;
+kernLeft = _u_ss02;
+kernRight = _n;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = uhorn.ss04;
+},
+{
+pos = (227,-29);
+ref = acutecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = uhorn.ss04;
+},
+{
+pos = (266,0);
+ref = acutecomb;
+}
+);
+width = 397;
+}
+);
+}

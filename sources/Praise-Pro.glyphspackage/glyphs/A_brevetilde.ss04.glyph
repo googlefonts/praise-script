@@ -1,0 +1,32 @@
+{
+color = 5;
+glyphname = Abrevetilde.ss04;
+kernLeft = _A_ss04;
+kernRight = _A_ss04;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = A.ss04;
+},
+{
+pos = (785,106);
+ref = brevecomb_tildecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = A.ss04;
+},
+{
+pos = (869,175);
+ref = brevecomb_tildecomb.case;
+}
+);
+width = 926;
+}
+);
+}

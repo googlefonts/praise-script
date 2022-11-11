@@ -1,0 +1,32 @@
+{
+color = 5;
+glyphname = Oinvertedbreve.ss04;
+kernLeft = _O_ss04;
+kernRight = _O_ss04;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = O.ss04;
+},
+{
+pos = (217,265);
+ref = breveinvertedcomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = O.ss04;
+},
+{
+pos = (408,171);
+ref = breveinvertedcomb.case;
+}
+);
+width = 596;
+}
+);
+}

@@ -1,0 +1,31 @@
+{
+color = 4;
+glyphname = ograve.titl;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = o.titl;
+},
+{
+pos = (208,-10);
+ref = grave;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = o.titl;
+},
+{
+pos = (189,41);
+ref = gravecomb;
+}
+);
+width = 395;
+}
+);
+note = ograve;
+}

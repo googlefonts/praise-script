@@ -1,0 +1,31 @@
+{
+glyphname = jcircumflex.ss02;
+kernLeft = _j_ss02;
+kernRight = _j_ss02;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = jdotless.ss02;
+},
+{
+pos = (88,-48);
+ref = circumflexcomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = jdotless.ss02;
+},
+{
+pos = (87,0);
+ref = circumflexcomb;
+}
+);
+width = 211;
+}
+);
+}

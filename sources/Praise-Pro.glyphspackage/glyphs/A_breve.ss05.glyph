@@ -1,0 +1,31 @@
+{
+color = 5;
+glyphname = Abreve.ss05;
+kernLeft = _A_ss05;
+kernRight = _A_ss05;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = A.ss05;
+},
+{
+ref = brevecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = A.ss05;
+},
+{
+pos = (951,186);
+ref = brevecomb.case;
+}
+);
+width = 998;
+}
+);
+}

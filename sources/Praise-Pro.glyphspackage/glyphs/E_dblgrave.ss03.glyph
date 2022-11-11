@@ -1,0 +1,32 @@
+{
+color = 5;
+glyphname = Edblgrave.ss03;
+kernLeft = _E_ss03;
+kernRight = _E_ss03;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = E.ss03;
+},
+{
+pos = (473,220);
+ref = dblgravecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = E.ss03;
+},
+{
+pos = (483,242);
+ref = dblgravecomb.case;
+}
+);
+width = 716;
+}
+);
+}

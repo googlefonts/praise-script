@@ -1,0 +1,32 @@
+{
+glyphname = uacute.ss02;
+kernLeft = _u_ss02;
+kernRight = _u_ss02;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = u.ss02;
+},
+{
+pos = (242,-32);
+ref = acute;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = u.ss02;
+},
+{
+pos = (303,0);
+ref = acutecomb;
+}
+);
+width = 407;
+}
+);
+note = uacute;
+}

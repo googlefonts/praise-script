@@ -1,0 +1,32 @@
+{
+color = 6;
+glyphname = zcaron;
+kernLeft = _z;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = z;
+},
+{
+pos = (54,0);
+ref = caroncomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+pos = (224,-11);
+ref = caroncomb;
+},
+{
+ref = z;
+}
+);
+width = 358;
+}
+);
+unicode = 382;
+}

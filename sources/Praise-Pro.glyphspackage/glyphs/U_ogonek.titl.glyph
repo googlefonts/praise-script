@@ -1,0 +1,31 @@
+{
+color = 4;
+glyphname = Uogonek.titl;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = U.titl;
+},
+{
+pos = (-83,0);
+ref = ogonek;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = U.titl;
+},
+{
+pos = (90,-10);
+ref = ogonekcomb;
+}
+);
+width = 519;
+}
+);
+note = Uogonek;
+}

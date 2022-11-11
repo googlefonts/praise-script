@@ -1,0 +1,34 @@
+{
+color = 4;
+glyphname = Aringacute.titl;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = Aring.titl;
+},
+{
+pos = (517,182);
+ref = acutecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = A.titl;
+},
+{
+pos = (409,165);
+ref = ringcomb.case;
+},
+{
+pos = (517,340);
+ref = acutecomb.case;
+}
+);
+width = 481;
+}
+);
+}

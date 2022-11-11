@@ -1,0 +1,32 @@
+{
+color = 5;
+glyphname = Ecaron.ss01;
+kernLeft = _E_ss01;
+kernRight = _E_ss01;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = E.ss01;
+},
+{
+pos = (159,205);
+ref = caroncomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = E.ss01;
+},
+{
+pos = (478,194);
+ref = caroncomb.case;
+}
+);
+width = 590;
+}
+);
+}

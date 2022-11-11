@@ -1,0 +1,32 @@
+{
+color = 5;
+glyphname = Oslashacute.ss04;
+kernLeft = _O_ss04;
+kernRight = _O_ss04;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = Oslash.ss04;
+},
+{
+pos = (371,146);
+ref = acutecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = Oslash.ss04;
+},
+{
+pos = (498,171);
+ref = acutecomb.case;
+}
+);
+width = 596;
+}
+);
+}

@@ -1,0 +1,33 @@
+{
+color = 5;
+glyphname = Ugrave.ss04;
+kernLeft = _U_ss04;
+kernRight = _U_ss04;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = U.ss04;
+},
+{
+pos = (605,114);
+ref = grave;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = U.ss04;
+},
+{
+pos = (654,176);
+ref = gravecomb.case;
+}
+);
+width = 833;
+}
+);
+note = Ugrave;
+}

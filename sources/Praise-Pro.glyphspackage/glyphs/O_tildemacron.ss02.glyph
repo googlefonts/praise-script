@@ -1,0 +1,40 @@
+{
+color = 5;
+glyphname = Otildemacron.ss02;
+kernLeft = _O;
+kernRight = _O;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = O.ss02;
+},
+{
+pos = (325,108);
+ref = tildecomb;
+},
+{
+pos = (350,268);
+ref = macroncomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = O.ss02;
+},
+{
+pos = (318,165);
+ref = tildecomb.case;
+},
+{
+pos = (369,285);
+ref = macroncomb.case;
+}
+);
+width = 506;
+}
+);
+}

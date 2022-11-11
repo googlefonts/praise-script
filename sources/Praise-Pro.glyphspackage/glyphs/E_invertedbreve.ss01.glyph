@@ -1,0 +1,32 @@
+{
+color = 5;
+glyphname = Einvertedbreve.ss01;
+kernLeft = _E_ss01;
+kernRight = _E_ss01;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = E.ss01;
+},
+{
+pos = (168,205);
+ref = breveinvertedcomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = E.ss01;
+},
+{
+pos = (448,194);
+ref = breveinvertedcomb.case;
+}
+);
+width = 590;
+}
+);
+}

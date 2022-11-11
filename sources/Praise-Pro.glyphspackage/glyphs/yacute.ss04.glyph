@@ -1,0 +1,32 @@
+{
+glyphname = yacute.ss04;
+kernLeft = _y;
+kernRight = _n;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = y.ss04;
+},
+{
+pos = (201,-26);
+ref = acute;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = y.ss04;
+},
+{
+pos = (265,0);
+ref = acutecomb;
+}
+);
+width = 392;
+}
+);
+note = yacute;
+}

@@ -1,0 +1,32 @@
+{
+color = 5;
+glyphname = Uhornhookabove.ss04;
+kernLeft = _U_ss04;
+kernRight = _U_ss04;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = Uhorn.ss04;
+},
+{
+pos = (614,83);
+ref = hookabovecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = Uhorn.ss04;
+},
+{
+pos = (777,176);
+ref = hookabovecomb.case;
+}
+);
+width = 833;
+}
+);
+}

@@ -1,0 +1,19 @@
+{
+color = 1;
+glyphname = rcaron.ss05.init;
+layers = (
+{
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = r.ss05.init;
+},
+{
+pos = (182,0);
+ref = caroncomb;
+}
+);
+width = 324;
+}
+);
+}

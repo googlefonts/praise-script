@@ -1,0 +1,31 @@
+{
+glyphname = acircumflexgrave.ss04;
+kernLeft = _o;
+kernRight = _a;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = a.ss04;
+},
+{
+pos = (274,-97);
+ref = circumflexcomb_gravecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = a.ss04;
+},
+{
+pos = (241,0);
+ref = circumflexcomb_gravecomb;
+}
+);
+width = 426;
+}
+);
+}

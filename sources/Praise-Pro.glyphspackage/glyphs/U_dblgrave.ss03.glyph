@@ -1,0 +1,33 @@
+{
+color = 5;
+glyphname = Udblgrave.ss03;
+kernLeft = _W_ss03;
+kernRight = _U_ss03;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = U.ss03;
+},
+{
+pos = (595,180);
+ref = dblgravecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = U.ss03;
+},
+{
+pos = (658,177);
+ref = dblgravecomb.case;
+}
+);
+width = 910;
+}
+);
+metricLeft = W.ss03;
+}

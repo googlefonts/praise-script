@@ -1,0 +1,33 @@
+{
+color = 5;
+glyphname = Eacute;
+kernLeft = _E;
+kernRight = _E;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = E;
+},
+{
+pos = (180,146);
+ref = acutecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = E;
+},
+{
+pos = (353,175);
+ref = acutecomb.case;
+}
+);
+width = 451;
+}
+);
+unicode = 201;
+}

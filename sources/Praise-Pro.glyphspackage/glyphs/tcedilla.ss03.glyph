@@ -1,0 +1,31 @@
+{
+glyphname = tcedilla.ss03;
+kernLeft = _tss03;
+kernRight = _tss03;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = t.ss03;
+},
+{
+pos = (-66,16);
+ref = cedillacomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = t.ss03;
+},
+{
+pos = (95,7);
+ref = cedillacomb;
+}
+);
+width = 259;
+}
+);
+}
