@@ -133825,19 +133825,16 @@ note = d;
 },
 {
 glyphname = dcaron.ss03;
+lastChange = "2022-11-23 17:12:55 +0000";
 layers = (
 {
 layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
 shapes = (
 {
-ref = d.ss03;
-},
-{
-pos = (925,324);
-ref = caroncomb.alt;
+ref = dcaron.ss01;
 }
 );
-width = 421;
+width = 451;
 }
 );
 },
@@ -135141,19 +135138,16 @@ width = 260;
 },
 {
 glyphname = lcaron.ss03;
+lastChange = "2022-11-23 17:12:27 +0000";
 layers = (
 {
 layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
 shapes = (
 {
-ref = l.ss03;
-},
-{
-pos = (730,329);
-ref = caroncomb.alt;
+ref = lcaron.ss01;
 }
 );
-width = 260;
+width = 281;
 }
 );
 },
@@ -137675,19 +137669,16 @@ width = 259;
 },
 {
 glyphname = tcaron.ss03;
+lastChange = "2022-11-23 17:13:14 +0000";
 layers = (
 {
 layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
 shapes = (
 {
-ref = t.ss03;
-},
-{
-pos = (531,315);
-ref = caroncomb.alt;
+ref = tcaron.ss02;
 }
 );
-width = 259;
+width = 241;
 }
 );
 },
