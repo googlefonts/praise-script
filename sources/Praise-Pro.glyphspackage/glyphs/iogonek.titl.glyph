@@ -1,0 +1,27 @@
+{
+color = 5;
+glyphname = iogonek.titl;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = i.titl;
+},
+{
+pos = (-148,6);
+ref = ogonek;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = idotless.titl;
+}
+);
+width = 212;
+}
+);
+note = iogonek;
+}

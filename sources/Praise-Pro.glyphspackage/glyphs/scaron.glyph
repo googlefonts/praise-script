@@ -1,0 +1,19 @@
+{
+glyphname = scaron;
+layers = (
+{
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = s;
+},
+{
+pos = (216,15);
+ref = caroncomb;
+}
+);
+width = 306;
+}
+);
+unicode = 353;
+}

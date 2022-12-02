@@ -1,0 +1,16 @@
+{
+glyphname = nine.dnom;
+layers = (
+{
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+pos = (0,9);
+ref = nine.smcp;
+scale = (0.6554,0.6554);
+}
+);
+width = 205;
+}
+);
+}

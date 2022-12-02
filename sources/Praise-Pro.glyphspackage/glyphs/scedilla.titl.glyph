@@ -1,0 +1,26 @@
+{
+color = 5;
+glyphname = scedilla.titl;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = s.titl;
+},
+{
+pos = (-55,7);
+ref = cedillacomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = s.titl;
+}
+);
+width = 327;
+}
+);
+}

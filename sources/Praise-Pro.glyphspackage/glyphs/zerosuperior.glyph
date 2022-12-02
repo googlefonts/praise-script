@@ -1,0 +1,19 @@
+{
+glyphname = zerosuperior;
+layers = (
+{
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+pos = (0,314);
+ref = zero.smcp;
+scale = (0.7214,0.7214);
+}
+);
+width = 250;
+}
+);
+metricLeft = zero;
+metricRight = zero;
+unicode = 8304;
+}

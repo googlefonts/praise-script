@@ -1,0 +1,25 @@
+{
+glyphname = Eth;
+layers = (
+{
+anchors = (
+{
+name = _center;
+pos = (251,321);
+}
+);
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = D;
+},
+{
+pos = (126,60);
+ref = strokeshortcomb;
+}
+);
+width = 591;
+}
+);
+unicode = 208;
+}

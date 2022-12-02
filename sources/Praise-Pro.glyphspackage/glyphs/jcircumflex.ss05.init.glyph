@@ -1,0 +1,27 @@
+{
+color = 5;
+glyphname = jcircumflex.ss05.init;
+kernLeft = _j;
+kernRight = _n;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = jdotless.ss05;
+},
+{
+ref = circumflexcomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = jdotless.ss05.init;
+}
+);
+width = 239;
+}
+);
+}

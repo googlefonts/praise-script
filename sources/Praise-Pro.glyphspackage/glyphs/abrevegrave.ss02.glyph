@@ -1,0 +1,19 @@
+{
+color = 7;
+glyphname = abrevegrave.ss02;
+layers = (
+{
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = a.ss02;
+},
+{
+pos = (258,0);
+ref = brevecomb_gravecomb;
+}
+);
+width = 418;
+}
+);
+}

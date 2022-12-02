@@ -1,0 +1,27 @@
+{
+color = 5;
+glyphname = sacute.titl;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = s.titl;
+},
+{
+pos = (225,3);
+ref = acute;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = s.titl;
+}
+);
+width = 327;
+}
+);
+note = sacute;
+}

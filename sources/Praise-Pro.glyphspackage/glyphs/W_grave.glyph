@@ -1,0 +1,19 @@
+{
+glyphname = Wgrave;
+layers = (
+{
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = W;
+},
+{
+pos = (532,128);
+ref = gravecomb.case;
+}
+);
+width = 851;
+}
+);
+unicode = 7808;
+}

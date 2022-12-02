@@ -1,0 +1,46 @@
+{
+glyphname = caroncomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (77,425);
+},
+{
+name = top;
+pos = (110,573);
+}
+);
+background = {
+anchors = (
+{
+name = _top;
+pos = (77,425);
+},
+{
+name = top;
+pos = (110,573);
+}
+);
+shapes = (
+{
+angle = 180;
+pos = (246,1080);
+ref = circumflexcomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+angle = 180;
+pos = (246,1080);
+ref = circumflexcomb;
+}
+);
+width = 246;
+}
+);
+unicode = 780;
+}

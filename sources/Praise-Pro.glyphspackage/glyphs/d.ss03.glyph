@@ -1,0 +1,226 @@
+{
+color = 1;
+glyphname = d.ss03;
+kernLeft = _d;
+kernRight = _asc_swsh_ss03_2;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (207,0);
+},
+{
+name = center;
+pos = (493,567);
+},
+{
+name = top;
+pos = (629,752);
+},
+{
+name = topright;
+pos = (926,749);
+}
+);
+background = {
+anchors = (
+{
+name = bottom;
+pos = (207,0);
+},
+{
+name = center;
+pos = (493,567);
+},
+{
+name = top;
+pos = (629,752);
+},
+{
+name = topright;
+pos = (926,749);
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+closed = 1;
+nodes = (
+(145,40,o),
+(141,45,o),
+(141,56,cs),
+(141,101,o),
+(189,203,o),
+(203,234.5,cs),
+(225,283,o),
+(271,376,o),
+(298,395,cs),
+(309,403,o),
+(319,408,o),
+(325,408,cs),
+(329,408,o),
+(332,406,o),
+(332,401,cs),
+(332,390,o),
+(232,146,o),
+(193,81,cs),
+(176,53,o),
+(161,40,o),
+(151,40,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(331,123,o),
+(357,194,o),
+(391,265,cs),
+(428,341,o),
+(474,419,o),
+(506,467,c),
+(599,466,o),
+(699,493,o),
+(786,540.5,cs),
+(845.239,572.896,o),
+(898,622.543,o),
+(898,679,cs),
+(898,735,o),
+(854,760,o),
+(773,760,cs),
+(625,760,o),
+(494,645,o),
+(398,503,c),
+(381,506,o),
+(358,511,o),
+(337,517,cs),
+(316,523,o),
+(298,530,o),
+(290,530,cs),
+(284,530,o),
+(278,526,o),
+(278,520,cs),
+(278,510,o),
+(305,501,o),
+(326,494,cs),
+(345,488,o),
+(366,483,o),
+(383,480,c),
+(371,461.333,o),
+(360,443,o),
+(349,424,c),
+(336,429,o),
+(317,432,o),
+(305,432,cs),
+(209,432,o),
+(135,356,o),
+(94,278,cs),
+(55,203,o),
+(26,126,o),
+(26,83,cs),
+(26,23,o),
+(55,-5,o),
+(115,-5,cs),
+(155,-5,o),
+(188,26,o),
+(227,93,c),
+(225,32,o),
+(257,-7,o),
+(309,-7,cs),
+(350,-7,o),
+(389,20,o),
+(422,60,cs),
+(458,104,o),
+(490,165,o),
+(508,201,cs),
+(510,205,o),
+(511,208,o),
+(511,211,cs),
+(511,217,o),
+(504,227,o),
+(497,227,cs),
+(493,227,o),
+(490,224,o),
+(488,220,cs),
+(478,201,o),
+(451,148,o),
+(422,108,cs),
+(396,72,o),
+(369,41,o),
+(349,41,cs),
+(336,41,o),
+(331,55,o),
+(331,77,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(697,695,o),
+(796,695,cs),
+(831,695,o),
+(840,677,o),
+(840,661,cs),
+(840,621.13,o),
+(788.715,581.395,o),
+(741.5,556.5,cs),
+(677,523,o),
+(598,496,o),
+(526,496,c),
+(598,598,o)
+);
+}
+);
+userData = {
+assembly = "SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+PUSHW[ ]	/* 1 value pushed */
+0 
+RCVT[ ]	/* ReadCVT */
+IF[ ]	/* If */
+PUSHW[ ]	/* 1 value pushed */
+59 
+MDAP[1]	/* MoveDirectAbsPt */
+ELSE[ ]	/* Else */
+PUSHW[ ]	/* 2 values pushed */
+59 11 
+MIAP[0]	/* MoveIndirectAbsPt */
+EIF[ ]	/* EndIf */
+PUSHW[ ]	/* 1 value pushed */
+0 
+RCVT[ ]	/* ReadCVT */
+IF[ ]	/* If */
+PUSHW[ ]	/* 1 value pushed */
+67 
+MDAP[1]	/* MoveDirectAbsPt */
+ELSE[ ]	/* Else */
+PUSHW[ ]	/* 2 values pushed */
+67 11 
+MIAP[0]	/* MoveIndirectAbsPt */
+EIF[ ]	/* EndIf */
+PUSHW[ ]	/* 1 value pushed */
+59 
+SRP0[ ]	/* SetRefPoint0 */
+PUSHW[ ]	/* 2 values pushed */
+38 5 
+MIRP[10100]	/* MoveIndirectRelPt */
+NPUSHW[ ]	/* 33 values pushed */
+7 38 23 38 39 38 55 38 71 38 87 38 103 38 119 38 135 38 151 38 167 38 183 38 199 38 215 38 231 38 247 38 16 
+DELTAP1[ ]	/* DeltaExceptionP1 */
+NPUSHW[ ]	/* 21 values pushed */
+7 38 23 38 39 38 55 38 71 38 87 38 103 38 119 38 135 38 151 38 10 
+DELTAP2[ ]	/* DeltaExceptionP2 */
+NPUSHW[ ]	/* 5 values pushed */
+166 38 182 38 2 
+DELTAP2[ ]	/* DeltaExceptionP2 */
+PUSHW[ ]	/* 1 value pushed */
+114 
+MDRP[10000]	/* MoveDirectRelPt */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */";
+};
+width = 421;
+}
+);
+note = d;
+}

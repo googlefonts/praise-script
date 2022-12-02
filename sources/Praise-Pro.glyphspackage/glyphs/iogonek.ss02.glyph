@@ -1,0 +1,23 @@
+{
+color = 5;
+glyphname = iogonek.ss02;
+layers = (
+{
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = idotless.ss02;
+},
+{
+pos = (239,0);
+ref = dotaccentcomb;
+},
+{
+pos = (-16,0);
+ref = ogonekcomb;
+}
+);
+width = 210;
+}
+);
+}

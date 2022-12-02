@@ -1,0 +1,36 @@
+{
+color = 5;
+glyphname = dzcaron.ss02;
+kernLeft = _o;
+kernRight = _z_ss02;
+layers = (
+{
+background = {
+shapes = (
+{
+pos = (20,0);
+ref = d.ss02;
+},
+{
+pos = (427,0);
+ref = zcaron.ss02;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+alignment = -1;
+ref = d.ss02;
+},
+{
+pos = (418,0);
+ref = zcaron.ss02;
+}
+);
+width = 750;
+}
+);
+metricLeft = d.ss02;
+metricRight = zcaron.ss02;
+}

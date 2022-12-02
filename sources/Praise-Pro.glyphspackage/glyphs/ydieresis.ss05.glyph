@@ -1,0 +1,19 @@
+{
+color = 5;
+glyphname = ydieresis.ss05;
+layers = (
+{
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = y.ss05;
+},
+{
+pos = (223,0);
+ref = dieresiscomb;
+}
+);
+width = 401;
+}
+);
+}

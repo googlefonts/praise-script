@@ -1,0 +1,23 @@
+{
+glyphname = Odotaccentmacron;
+layers = (
+{
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = O;
+},
+{
+pos = (437,175);
+ref = dotaccentcomb.case;
+},
+{
+pos = (421,332);
+ref = macroncomb.case;
+}
+);
+width = 503;
+}
+);
+unicode = 560;
+}

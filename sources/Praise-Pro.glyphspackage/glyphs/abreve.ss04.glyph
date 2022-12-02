@@ -1,0 +1,19 @@
+{
+color = 7;
+glyphname = abreve.ss04;
+layers = (
+{
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = a.ss04;
+},
+{
+pos = (255,0);
+ref = brevecomb;
+}
+);
+width = 426;
+}
+);
+}

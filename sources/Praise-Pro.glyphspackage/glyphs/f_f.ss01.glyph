@@ -1,0 +1,32 @@
+{
+color = 10;
+glyphname = f_f.ss01;
+layers = (
+{
+background = {
+shapes = (
+{
+pos = (33,0);
+ref = f.ss01;
+},
+{
+pos = (347,0);
+ref = f.ss01;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = f.ss01;
+},
+{
+pos = (312,0);
+ref = f.ss01;
+}
+);
+width = 624;
+}
+);
+metricLeft = f;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = two.lf;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = two;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = two;
+}
+);
+width = 280;
+}
+);
+metricLeft = two;
+metricRight = two;
+}

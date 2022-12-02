@@ -1,0 +1,29 @@
+{
+glyphname = brevecomb_acutecomb;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = brevecomb;
+},
+{
+pos = (94,129);
+ref = acutecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = brevecomb;
+},
+{
+pos = (94,129);
+ref = acutecomb;
+}
+);
+width = 235;
+}
+);
+}

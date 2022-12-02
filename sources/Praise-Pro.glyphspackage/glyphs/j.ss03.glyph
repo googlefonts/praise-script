@@ -1,0 +1,21 @@
+{
+color = 1;
+glyphname = j.ss03;
+kernLeft = _j_ss03;
+kernRight = _dec_swsh_ss03;
+layers = (
+{
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = jdotless.ss03;
+},
+{
+pos = (194,-1);
+ref = dotaccentcomb;
+}
+);
+width = 225;
+}
+);
+}

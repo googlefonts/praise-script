@@ -1,0 +1,30 @@
+{
+glyphname = Hbar.titl;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = H.titl;
+},
+{
+pos = (-66,159);
+ref = emdash.titl;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = H.titl;
+},
+{
+pos = (-41,161);
+ref = emdash;
+scale = (0.9199,0.9199);
+}
+);
+width = 506;
+}
+);
+}

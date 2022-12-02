@@ -1,0 +1,18 @@
+{
+glyphname = Wacute.ss04;
+layers = (
+{
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = W.ss04;
+},
+{
+pos = (766,127);
+ref = acutecomb.case;
+}
+);
+width = 972;
+}
+);
+}

@@ -1,0 +1,27 @@
+{
+color = 5;
+glyphname = cacute.titl;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = c.titl;
+},
+{
+pos = (242,0);
+ref = acute;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = c.titl;
+}
+);
+width = 389;
+}
+);
+note = cacute;
+}

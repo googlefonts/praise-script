@@ -1,0 +1,42 @@
+{
+glyphname = commercialMinusSign;
+layers = (
+{
+background = {
+shapes = (
+{
+pos = (259,40);
+ref = bullet;
+scale = (0.5229,0.5229);
+},
+{
+pos = (-14,269);
+ref = bullet;
+scale = (0.5229,0.5229);
+},
+{
+ref = divisionslash;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+pos = (259,40);
+ref = bullet;
+scale = (0.5229,0.5229);
+},
+{
+pos = (-14,269);
+ref = bullet;
+scale = (0.5229,0.5229);
+},
+{
+ref = divisionslash;
+}
+);
+width = 582;
+}
+);
+unicode = 8274;
+}

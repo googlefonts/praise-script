@@ -1,0 +1,22 @@
+{
+glyphname = Abrevedotbelow.ss05;
+layers = (
+{
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = A.ss05;
+},
+{
+pos = (585,0);
+ref = dotbelowcomb;
+},
+{
+pos = (951,186);
+ref = brevecomb.case;
+}
+);
+width = 998;
+}
+);
+}

@@ -1,0 +1,22 @@
+{
+glyphname = Udieresiscaron.ss04;
+layers = (
+{
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = U.ss04;
+},
+{
+pos = (737,175);
+ref = dieresiscomb.case;
+},
+{
+pos = (780,312);
+ref = caroncomb.case;
+}
+);
+width = 833;
+}
+);
+}

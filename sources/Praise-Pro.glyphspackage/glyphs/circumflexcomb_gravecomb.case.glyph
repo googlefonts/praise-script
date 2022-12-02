@@ -1,0 +1,29 @@
+{
+glyphname = circumflexcomb_gravecomb.case;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = circumflexcomb.case;
+},
+{
+pos = (145,99);
+ref = gravecomb.case;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = circumflexcomb.case;
+},
+{
+pos = (145,99);
+ref = gravecomb.case;
+}
+);
+width = 246;
+}
+);
+}

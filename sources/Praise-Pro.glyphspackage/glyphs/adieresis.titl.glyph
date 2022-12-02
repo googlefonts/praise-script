@@ -1,0 +1,27 @@
+{
+color = 5;
+glyphname = adieresis.titl;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = a.titl;
+},
+{
+pos = (406,39);
+ref = dieresis;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = a.titl;
+}
+);
+width = 390;
+}
+);
+note = adieresis;
+}

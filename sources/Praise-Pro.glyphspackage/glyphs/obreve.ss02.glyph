@@ -1,0 +1,19 @@
+{
+color = 5;
+glyphname = obreve.ss02;
+layers = (
+{
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = o.ss02;
+},
+{
+pos = (229,0);
+ref = brevecomb;
+}
+);
+width = 396;
+}
+);
+}

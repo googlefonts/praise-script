@@ -1,0 +1,19 @@
+{
+color = 5;
+glyphname = ubreve.ss05;
+layers = (
+{
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = u.ss05;
+},
+{
+pos = (205,0);
+ref = brevecomb;
+}
+);
+width = 419;
+}
+);
+}

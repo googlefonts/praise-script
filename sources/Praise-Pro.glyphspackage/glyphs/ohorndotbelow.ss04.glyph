@@ -1,0 +1,19 @@
+{
+color = 7;
+glyphname = ohorndotbelow.ss04;
+layers = (
+{
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = ohorn.ss04;
+},
+{
+pos = (44,0);
+ref = dotbelowcomb;
+}
+);
+width = 393;
+}
+);
+}

@@ -1,0 +1,143 @@
+{
+color = 3;
+glyphname = l.ss01;
+kernLeft = _l_ss01;
+kernRight = _l;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (141,0);
+},
+{
+name = center;
+pos = (141,273);
+},
+{
+name = top;
+pos = (376,663);
+},
+{
+name = topright;
+pos = (461,672);
+}
+);
+background = {
+anchors = (
+{
+name = bottom;
+pos = (141,0);
+},
+{
+name = center;
+pos = (141,273);
+},
+{
+name = top;
+pos = (376,663);
+},
+{
+name = topright;
+pos = (461,672);
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+closed = 1;
+nodes = (
+(197,-7,o),
+(236,12,o),
+(269,47,cs),
+(310,90,o),
+(347,157,o),
+(369,204,cs),
+(374,214,o),
+(365,224,o),
+(356,224,cs),
+(352,224,o),
+(348,222,o),
+(346,217,cs),
+(320,162,o),
+(283,101,o),
+(242,64,cs),
+(221,45,o),
+(194,30,o),
+(172,30,cs),
+(149,30,o),
+(134,49,o),
+(134,78,cs),
+(134,93,o),
+(137,111,o),
+(141,123,c),
+(190,169,o),
+(250,236,o),
+(304,321,cs),
+(403,478,o),
+(437,557,o),
+(437,609,cs),
+(437,642,o),
+(407,672,o),
+(359,672,cs),
+(310,672,o),
+(257,621,o),
+(173,478,cs),
+(84,327,o),
+(35,179,o),
+(35,102,cs),
+(35,38,o),
+(70,-7,o),
+(149,-7,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(163,203,o),
+(183,252,o),
+(217,326,cs),
+(251,400,o),
+(282,464,o),
+(314,523,cs),
+(336,564,o),
+(366,611,o),
+(381,611,cs),
+(390,611,o),
+(395,604,o),
+(395,593,cs),
+(396,571,o),
+(383,535,o),
+(373,515,cs),
+(353,473,o),
+(313,397,o),
+(268,325,cs),
+(231,264,o),
+(187,213,o),
+(154,179,c)
+);
+}
+);
+userData = {
+assembly = "SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+PUSHW[ ]	/* 1 value pushed */
+0 
+RCVT[ ]	/* ReadCVT */
+IF[ ]	/* If */
+PUSHW[ ]	/* 1 value pushed */
+3 
+MDAP[1]	/* MoveDirectAbsPt */
+ELSE[ ]	/* Else */
+PUSHW[ ]	/* 2 values pushed */
+3 8 
+MIAP[0]	/* MoveIndirectAbsPt */
+EIF[ ]	/* EndIf */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */";
+};
+width = 281;
+}
+);
+note = l;
+}

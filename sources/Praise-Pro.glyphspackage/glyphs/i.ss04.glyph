@@ -1,0 +1,21 @@
+{
+color = 1;
+glyphname = i.ss04;
+kernLeft = _i_ss02;
+kernRight = _n;
+layers = (
+{
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = idotless.ss04;
+},
+{
+pos = (250,0);
+ref = dotaccentcomb;
+}
+);
+width = 236;
+}
+);
+}

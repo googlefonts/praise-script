@@ -1,0 +1,18 @@
+{
+glyphname = Racute.ss03;
+layers = (
+{
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = R.ss03;
+},
+{
+pos = (797,234);
+ref = acutecomb.case;
+}
+);
+width = 1007;
+}
+);
+}

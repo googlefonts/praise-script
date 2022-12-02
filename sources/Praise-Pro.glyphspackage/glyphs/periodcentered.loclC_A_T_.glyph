@@ -1,0 +1,37 @@
+{
+glyphname = periodcentered.loclCAT;
+layers = (
+{
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(215,204,o),
+(252,241,o),
+(252,281,cs),
+(252,302,o),
+(239,317,o),
+(218,317,cs),
+(185,317,o),
+(148,280,o),
+(148,241,cs),
+(148,219,o),
+(161,204,o),
+(182,204,cs)
+);
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+pos = (30,208);
+ref = period;
+}
+);
+width = 307;
+}
+);
+note = periodcentered;
+}

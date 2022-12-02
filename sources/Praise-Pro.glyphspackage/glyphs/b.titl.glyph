@@ -1,0 +1,19 @@
+{
+color = 1;
+glyphname = b.titl;
+layers = (
+{
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+alignment = -1;
+pos = (-7,0);
+ref = B.titl;
+scale = (0.8,0.8);
+}
+);
+width = 375;
+}
+);
+note = B.smcp;
+}

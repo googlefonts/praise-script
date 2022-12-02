@@ -1,0 +1,120 @@
+{
+color = 3;
+glyphname = O.ss02;
+kernLeft = _O;
+kernRight = _O;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (176,-9);
+},
+{
+name = center;
+pos = (240,291);
+},
+{
+name = ogonek;
+pos = (207,1);
+},
+{
+name = top;
+pos = (424,591);
+},
+{
+name = topleft;
+pos = (28,591);
+},
+{
+name = topright;
+pos = (476,587);
+}
+);
+background = {
+anchors = (
+{
+name = bottom;
+pos = (176,-9);
+},
+{
+name = center;
+pos = (240,291);
+},
+{
+name = ogonek;
+pos = (207,1);
+},
+{
+name = top;
+pos = (424,591);
+},
+{
+name = topleft;
+pos = (28,591);
+},
+{
+name = topright;
+pos = (477,591);
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+closed = 1;
+nodes = (
+(264,-20,o),
+(309,-4,o),
+(359,39,cs),
+(465,129,o),
+(546,298,o),
+(546,452,cs),
+(546,544,o),
+(499,602,o),
+(402,602,cs),
+(195,602,o),
+(60,329,o),
+(60,137,cs),
+(60,30,o),
+(121,-20,o),
+(207,-20,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(185,17,o),
+(175,31,o),
+(175,58,cs),
+(175,113,o),
+(196,197,o),
+(232,292,cs),
+(298,458,o),
+(368,562,o),
+(407,562,cs),
+(422,562,o),
+(430,548,o),
+(430,514,cs),
+(430,460,o),
+(408,376,o),
+(377,292,cs),
+(313,123,o),
+(247,17,o),
+(201,17,cs)
+);
+}
+);
+userData = {
+assembly = "SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+PUSHW[ ]	/* 4 values pushed */
+17 4 25 4 
+CALL[ ]	/* CallFunction */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */";
+};
+width = 506;
+}
+);
+note = O;
+}

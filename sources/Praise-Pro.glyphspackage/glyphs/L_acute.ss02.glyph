@@ -1,0 +1,18 @@
+{
+glyphname = Lacute.ss02;
+layers = (
+{
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = L.ss02;
+},
+{
+pos = (355,161);
+ref = acutecomb.case;
+}
+);
+width = 411;
+}
+);
+}

@@ -1,0 +1,27 @@
+{
+color = 5;
+glyphname = imacron.titl;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = idotless.titl;
+},
+{
+pos = (226,-26);
+ref = macron;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = idotless.titl;
+}
+);
+width = 212;
+}
+);
+note = imacron;
+}

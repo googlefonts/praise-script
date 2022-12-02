@@ -1,0 +1,46 @@
+{
+glyphname = breveinvertedcomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (107,425);
+},
+{
+name = top;
+pos = (142,558);
+}
+);
+background = {
+anchors = (
+{
+name = _top;
+pos = (107,425);
+},
+{
+name = top;
+pos = (142,558);
+}
+);
+shapes = (
+{
+angle = 180;
+pos = (257,1072);
+ref = brevecomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+angle = 180;
+pos = (257,1072);
+ref = brevecomb;
+}
+);
+width = 235;
+}
+);
+unicode = 785;
+}

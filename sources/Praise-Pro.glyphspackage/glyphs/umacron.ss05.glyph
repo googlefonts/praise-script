@@ -1,0 +1,19 @@
+{
+color = 5;
+glyphname = umacron.ss05;
+layers = (
+{
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = u.ss05;
+},
+{
+pos = (230,0);
+ref = macroncomb;
+}
+);
+width = 419;
+}
+);
+}

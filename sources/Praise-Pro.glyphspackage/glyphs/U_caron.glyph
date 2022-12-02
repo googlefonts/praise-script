@@ -1,0 +1,19 @@
+{
+glyphname = Ucaron;
+layers = (
+{
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = U;
+},
+{
+pos = (567,175);
+ref = caroncomb.case;
+}
+);
+width = 674;
+}
+);
+unicode = 467;
+}

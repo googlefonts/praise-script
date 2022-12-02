@@ -1,0 +1,23 @@
+{
+color = 7;
+glyphname = ecircumflexdotbelow.ss04;
+layers = (
+{
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = e.ss04;
+},
+{
+pos = (86,0);
+ref = dotbelowcomb;
+},
+{
+pos = (181,0);
+ref = circumflexcomb;
+}
+);
+width = 332;
+}
+);
+}

@@ -1,0 +1,27 @@
+{
+color = 5;
+glyphname = lacute.titl;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = l.titl;
+},
+{
+pos = (228,10);
+ref = acute;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = l.titl;
+}
+);
+width = 299;
+}
+);
+note = lacute;
+}

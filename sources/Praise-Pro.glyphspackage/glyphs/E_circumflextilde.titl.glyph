@@ -1,0 +1,18 @@
+{
+glyphname = Ecircumflextilde.titl;
+layers = (
+{
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = E.titl;
+},
+{
+pos = (261,164);
+ref = circumflexcomb_tildecomb.case;
+}
+);
+width = 426;
+}
+);
+}

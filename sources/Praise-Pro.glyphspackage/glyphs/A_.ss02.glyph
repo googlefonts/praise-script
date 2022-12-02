@@ -1,0 +1,179 @@
+{
+color = 3;
+glyphname = A.ss02;
+kernLeft = _A_ss02;
+kernRight = _A_ss02;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (240,0);
+},
+{
+name = ogonek;
+pos = (422,10);
+},
+{
+name = top;
+pos = (592,600);
+}
+);
+background = {
+anchors = (
+{
+name = bottom;
+pos = (240,0);
+},
+{
+name = ogonek;
+pos = (422,10);
+},
+{
+name = top;
+pos = (592,600);
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+closed = 1;
+nodes = (
+(195,231,o),
+(338,231,cs),
+(388,231,o),
+(441,228,o),
+(480,226,cs),
+(501,225,o),
+(511,222,o),
+(515,220,cs),
+(517,219,o),
+(518,218,o),
+(520,218,cs),
+(523,218,o),
+(526,224,o),
+(526,238,cs),
+(526,249,o),
+(511,256,o),
+(482,263,cs),
+(409,279,o),
+(309,285,o),
+(192,285,cs),
+(119,285,o),
+(73,274,o),
+(51,243,cs),
+(42,230,o),
+(41,224,o),
+(41,217,cs),
+(41,212,o),
+(44,208,o),
+(48,208,cs),
+(64,208,o)
+);
+},
+{
+closed = 1;
+nodes = (
+(570,525,o),
+(632,587,cs),
+(635,590,o),
+(636,592,o),
+(636,594,cs),
+(636,602,o),
+(618,606,o),
+(596,606,cs),
+(540,606,o),
+(515,586,o),
+(487,556,cs),
+(381,443,ls),
+(340,399,o),
+(258,321,o),
+(181,234,cs),
+(135,182,o),
+(68,116,o),
+(21,74,cs),
+(-5,52,o),
+(-21,40,o),
+(-34,32,cs),
+(-39,29,o),
+(-40,27,o),
+(-40,24,cs),
+(-40,10,o),
+(11,-5,o),
+(53,-5,cs),
+(107,-5,o),
+(137,29,o),
+(175,80,cs),
+(228,152,o),
+(404,417,o),
+(447,476,c),
+(448,476,l),
+(407,372,o),
+(351,200,o),
+(351,93,cs),
+(351,38,o),
+(361,5,o),
+(399,-6,cs),
+(420,-12,o),
+(432,-13,o),
+(444,-13,cs),
+(450,-13,o),
+(453,-12,o),
+(453,-10,cs),
+(453,-8,o),
+(451,-7,o),
+(449,-4,cs),
+(444,3,o),
+(442,14,o),
+(442,27,cs),
+(442,136,o)
+);
+}
+);
+userData = {
+assembly = "SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+PUSHW[ ]	/* 1 value pushed */
+0 
+RCVT[ ]	/* ReadCVT */
+IF[ ]	/* If */
+PUSHW[ ]	/* 1 value pushed */
+20 
+MDAP[1]	/* MoveDirectAbsPt */
+ELSE[ ]	/* Else */
+PUSHW[ ]	/* 2 values pushed */
+20 11 
+MIAP[0]	/* MoveIndirectAbsPt */
+EIF[ ]	/* EndIf */
+PUSHW[ ]	/* 1 value pushed */
+0 
+RCVT[ ]	/* ReadCVT */
+IF[ ]	/* If */
+PUSHW[ ]	/* 1 value pushed */
+26 
+MDAP[1]	/* MoveDirectAbsPt */
+ELSE[ ]	/* Else */
+PUSHW[ ]	/* 2 values pushed */
+26 11 
+MIAP[0]	/* MoveIndirectAbsPt */
+EIF[ ]	/* EndIf */
+PUSHW[ ]	/* 1 value pushed */
+0 
+RCVT[ ]	/* ReadCVT */
+IF[ ]	/* If */
+PUSHW[ ]	/* 1 value pushed */
+42 
+MDAP[1]	/* MoveDirectAbsPt */
+ELSE[ ]	/* Else */
+PUSHW[ ]	/* 2 values pushed */
+42 11 
+MIAP[0]	/* MoveIndirectAbsPt */
+EIF[ ]	/* EndIf */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */";
+};
+width = 526;
+}
+);
+note = A;
+}

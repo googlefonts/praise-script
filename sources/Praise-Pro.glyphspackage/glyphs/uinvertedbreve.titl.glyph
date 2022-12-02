@@ -1,0 +1,26 @@
+{
+color = 5;
+glyphname = uinvertedbreve.titl;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = u.titl;
+},
+{
+pos = (123,153);
+ref = breveinvertedcomb;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = u.titl;
+}
+);
+width = 423;
+}
+);
+}

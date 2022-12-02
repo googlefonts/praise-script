@@ -1,0 +1,20 @@
+{
+glyphname = sevensuperior;
+layers = (
+{
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+alignment = -1;
+pos = (39,310);
+ref = seven.lf;
+scale = (0.5706,0.5706);
+}
+);
+width = 180;
+}
+);
+metricLeft = seven;
+metricRight = seven;
+unicode = 8311;
+}

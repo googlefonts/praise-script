@@ -1,0 +1,16 @@
+{
+glyphname = eight.numr;
+layers = (
+{
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+pos = (0,247);
+ref = eight;
+scale = (0.57,0.57);
+}
+);
+width = 217;
+}
+);
+}

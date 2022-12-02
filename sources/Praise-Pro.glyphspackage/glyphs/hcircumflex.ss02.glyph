@@ -1,0 +1,19 @@
+{
+color = 5;
+glyphname = hcircumflex.ss02;
+layers = (
+{
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = h.ss02;
+},
+{
+pos = (224,125);
+ref = circumflexcomb.case;
+}
+);
+width = 389;
+}
+);
+}

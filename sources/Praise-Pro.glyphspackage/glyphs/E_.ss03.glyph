@@ -1,0 +1,173 @@
+{
+color = 3;
+glyphname = E.ss03;
+kernLeft = _E_ss03;
+kernRight = _E_ss03;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (309,-85);
+},
+{
+name = ogonek;
+pos = (612,0);
+},
+{
+name = top;
+pos = (701,667);
+},
+{
+name = topleft;
+pos = (49,600);
+}
+);
+background = {
+anchors = (
+{
+name = bottom;
+pos = (309,-85);
+},
+{
+name = ogonek;
+pos = (612,0);
+},
+{
+name = top;
+pos = (701,667);
+},
+{
+name = topleft;
+pos = (49,600);
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+closed = 1;
+nodes = (
+(410,-96,o),
+(508,-69,o),
+(593,-21,cs),
+(677,28,o),
+(753,104,o),
+(794,181,cs),
+(800,193,o),
+(805,203,o),
+(805,211,cs),
+(805,217,o),
+(802,223,o),
+(796,223,cs),
+(790,223,o),
+(783,216,o),
+(770,198,cs),
+(676,68,o),
+(485,-32,o),
+(371,-32,cs),
+(282,-32,o),
+(244,25,o),
+(244,104,cs),
+(244,246,o),
+(360,425,o),
+(483,518,cs),
+(552,570,o),
+(629,604,o),
+(702,604,cs),
+(732,604,o),
+(748,596,o),
+(748,581,cs),
+(748,546,o),
+(656,476,o),
+(607,460,cs),
+(601,458,o),
+(598,454,o),
+(598,450,cs),
+(598,443,o),
+(603,440,o),
+(609,440,cs),
+(621,440,o),
+(700,454,o),
+(757,489,cs),
+(794,512,o),
+(821,545,o),
+(821,584,cs),
+(821,629,o),
+(784,667,o),
+(717,667,cs),
+(625,667,o),
+(525,634,o),
+(434,579,cs),
+(255,472,o),
+(98,275,o),
+(98,80,cs),
+(98,-45,o),
+(196,-96,o),
+(310,-96,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(101,262,o),
+(145,271,o),
+(273,271,cs),
+(342,271,o),
+(487,261,o),
+(541,261,cs),
+(593,261,o),
+(661,266,o),
+(699,280,cs),
+(712,285,o),
+(717,292,o),
+(717,303,cs),
+(717,306,o),
+(715,307,o),
+(713,307,cs),
+(698,306,o),
+(689,306,o),
+(676,306,cs),
+(517,306,o),
+(316,359,o),
+(222,361,cs),
+(117,363,o),
+(64,324,o),
+(64,264,cs),
+(64,256,o),
+(65,250,o),
+(67,243,c)
+);
+}
+);
+userData = {
+assembly = "SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+PUSHW[ ]	/* 1 value pushed */
+16 
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 1 value pushed */
+77 
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 3 values pushed */
+3 77 16 
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+PUSHW[ ]	/* 3 values pushed */
+6 77 16 
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+PUSHW[ ]	/* 3 values pushed */
+43 77 16 
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */";
+};
+width = 716;
+}
+);
+note = E;
+}

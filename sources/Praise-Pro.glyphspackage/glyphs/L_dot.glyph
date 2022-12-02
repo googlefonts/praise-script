@@ -1,0 +1,31 @@
+{
+glyphname = Ldot;
+kernLeft = _L;
+kernRight = _L;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = L;
+},
+{
+ref = periodcentered;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = L;
+},
+{
+pos = (164,-51);
+ref = periodcentered;
+}
+);
+width = 417;
+}
+);
+unicode = 319;
+}

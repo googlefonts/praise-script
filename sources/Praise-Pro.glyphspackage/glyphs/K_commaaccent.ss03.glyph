@@ -1,0 +1,18 @@
+{
+glyphname = Kcommaaccent.ss03;
+layers = (
+{
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = K.ss03;
+},
+{
+pos = (535,2);
+ref = commaaccentcomb;
+}
+);
+width = 1054;
+}
+);
+}

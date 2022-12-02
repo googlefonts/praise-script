@@ -1,0 +1,19 @@
+{
+color = 5;
+glyphname = zcaron.ss02;
+layers = (
+{
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = z.ss02;
+},
+{
+pos = (199,0);
+ref = caroncomb;
+}
+);
+width = 332;
+}
+);
+}

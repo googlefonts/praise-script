@@ -1,0 +1,29 @@
+{
+glyphname = Ldot.ss04;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = L.ss04;
+},
+{
+pos = (304,-38);
+ref = periodcentered;
+}
+);
+};
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = L.ss04;
+},
+{
+pos = (303,-60);
+ref = periodcentered;
+}
+);
+width = 617;
+}
+);
+}

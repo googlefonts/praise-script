@@ -1,0 +1,22 @@
+{
+glyphname = Aringacute.ss04;
+layers = (
+{
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = A.ss04;
+},
+{
+pos = (922,175);
+ref = ringcomb.case;
+},
+{
+pos = (1030,350);
+ref = acutecomb.case;
+}
+);
+width = 926;
+}
+);
+}

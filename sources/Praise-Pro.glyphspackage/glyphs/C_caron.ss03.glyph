@@ -1,0 +1,18 @@
+{
+glyphname = Ccaron.ss03;
+layers = (
+{
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = C.ss03;
+},
+{
+pos = (582,242);
+ref = caroncomb.case;
+}
+);
+width = 735;
+}
+);
+}

@@ -1,0 +1,19 @@
+{
+color = 5;
+glyphname = wgrave.ss02;
+layers = (
+{
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = w.ss02;
+},
+{
+pos = (206,0);
+ref = gravecomb;
+}
+);
+width = 562;
+}
+);
+}

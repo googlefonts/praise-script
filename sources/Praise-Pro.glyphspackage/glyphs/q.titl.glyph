@@ -1,0 +1,21 @@
+{
+color = 1;
+glyphname = q.titl;
+layers = (
+{
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+alignment = -1;
+pos = (-8,0);
+ref = Q.titl;
+scale = (0.8,0.8);
+}
+);
+width = 395;
+}
+);
+metricLeft = o.titl;
+metricRight = o.titl;
+note = Q.smcp;
+}

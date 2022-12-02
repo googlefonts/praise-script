@@ -1,0 +1,18 @@
+{
+glyphname = Ymacron.ss04;
+layers = (
+{
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = Y.ss04;
+},
+{
+pos = (610,175);
+ref = macroncomb.case;
+}
+);
+width = 759;
+}
+);
+}

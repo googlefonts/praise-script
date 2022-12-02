@@ -1,0 +1,19 @@
+{
+color = 5;
+glyphname = tcedilla.ss05;
+layers = (
+{
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = t.ss05;
+},
+{
+pos = (83,7);
+ref = cedillacomb;
+}
+);
+width = 253;
+}
+);
+}

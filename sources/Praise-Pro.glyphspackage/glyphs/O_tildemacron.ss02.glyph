@@ -1,0 +1,22 @@
+{
+glyphname = Otildemacron.ss02;
+layers = (
+{
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = O.ss02;
+},
+{
+pos = (319,166);
+ref = tildecomb.case;
+},
+{
+pos = (370,286);
+ref = macroncomb.case;
+}
+);
+width = 506;
+}
+);
+}

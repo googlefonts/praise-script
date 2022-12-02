@@ -1,0 +1,19 @@
+{
+color = 5;
+glyphname = gcaron.titl;
+layers = (
+{
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = g.titl;
+},
+{
+pos = (273,45);
+ref = caroncomb;
+}
+);
+width = 404;
+}
+);
+}

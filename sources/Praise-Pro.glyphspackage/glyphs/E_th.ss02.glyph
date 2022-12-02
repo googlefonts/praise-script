@@ -1,0 +1,18 @@
+{
+glyphname = Eth.ss02;
+layers = (
+{
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = D.ss02;
+},
+{
+pos = (48,59);
+ref = strokeshortcomb;
+}
+);
+width = 469;
+}
+);
+}

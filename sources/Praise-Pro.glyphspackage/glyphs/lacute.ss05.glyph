@@ -1,0 +1,19 @@
+{
+color = 5;
+glyphname = lacute.ss05;
+layers = (
+{
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = l.ss05;
+},
+{
+pos = (352,183);
+ref = acutecomb.case;
+}
+);
+width = 253;
+}
+);
+}

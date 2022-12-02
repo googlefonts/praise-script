@@ -1,0 +1,163 @@
+{
+color = 3;
+glyphname = N.ss04;
+kernLeft = _N_ss04;
+kernRight = _N_ss04;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (564,20);
+},
+{
+name = top;
+pos = (804,567);
+}
+);
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+closed = 1;
+nodes = (
+(720,512,o),
+(720,528,cs),
+(720,583,o),
+(670,612,o),
+(573,612,cs),
+(499,612,o),
+(408,602,o),
+(324,579,cs),
+(195,543,o),
+(85,469,o),
+(85,371,cs),
+(85,318,o),
+(156,284,o),
+(214,284,cs),
+(237,284,o),
+(245,288,o),
+(245,301,cs),
+(245,306,o),
+(243,308,o),
+(238,308,cs),
+(197,308,o),
+(172,318,o),
+(172,363,cs),
+(172,433,o),
+(246,500,o),
+(339,537,cs),
+(405,563,o),
+(477,581,o),
+(529,581,cs),
+(557,581,o),
+(571,574,o),
+(571,556,cs),
+(571,547,o),
+(568,535,o),
+(560,520,cs),
+(510,420,o),
+(363,207,o),
+(363,67,cs),
+(363,16,o),
+(396,-7,o),
+(461,-7,cs),
+(468,-7,o),
+(471,-6,o),
+(471,-4,cs),
+(471,-2,o),
+(468,1,o),
+(464,8,cs),
+(461,13,o),
+(458,25,o),
+(458,36,cs),
+(458,185,o),
+(679,399,o),
+(777,492,c),
+(778,491,l),
+(713,366,o),
+(631,206,o),
+(631,86,cs),
+(631,39,o),
+(653,-4,o),
+(708,-4,cs),
+(723,-4,o),
+(737,-1,o),
+(743,7,c),
+(737,16,o),
+(733,26,o),
+(733,47,cs),
+(733,79,o),
+(746,131,o),
+(760,172,cs),
+(777,220,o),
+(802,286,o),
+(870,402,cs),
+(897,448,o),
+(905,467,o),
+(905,493,cs),
+(905,519,o),
+(897,540,o),
+(867,558,cs),
+(856,565,o),
+(842,568,o),
+(831,568,cs),
+(818,568,o),
+(802,563,o),
+(790,553,cs),
+(755,526,o),
+(661,427,o),
+(588,332,c),
+(586,333,l),
+(609,368,o),
+(659,437,o),
+(696,483,cs),
+(709,498,o)
+);
+}
+);
+userData = {
+assembly = "SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+PUSHW[ ]	/* 1 value pushed */
+0 
+RCVT[ ]	/* ReadCVT */
+IF[ ]	/* If */
+PUSHW[ ]	/* 1 value pushed */
+30 
+MDAP[1]	/* MoveDirectAbsPt */
+ELSE[ ]	/* Else */
+PUSHW[ ]	/* 2 values pushed */
+30 9 
+MIAP[0]	/* MoveIndirectAbsPt */
+EIF[ ]	/* EndIf */
+PUSHW[ ]	/* 1 value pushed */
+0 
+RCVT[ ]	/* ReadCVT */
+IF[ ]	/* If */
+PUSHW[ ]	/* 1 value pushed */
+51 
+MDAP[1]	/* MoveDirectAbsPt */
+ELSE[ ]	/* Else */
+PUSHW[ ]	/* 2 values pushed */
+51 9 
+MIAP[0]	/* MoveIndirectAbsPt */
+EIF[ ]	/* EndIf */
+PUSHW[ ]	/* 1 value pushed */
+0 
+RCVT[ ]	/* ReadCVT */
+IF[ ]	/* If */
+PUSHW[ ]	/* 1 value pushed */
+53 
+MDAP[1]	/* MoveDirectAbsPt */
+ELSE[ ]	/* Else */
+PUSHW[ ]	/* 2 values pushed */
+53 9 
+MIAP[0]	/* MoveIndirectAbsPt */
+EIF[ ]	/* EndIf */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */";
+};
+width = 815;
+}
+);
+note = N;
+}

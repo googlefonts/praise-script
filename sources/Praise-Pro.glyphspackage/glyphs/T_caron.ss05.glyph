@@ -1,0 +1,18 @@
+{
+glyphname = Tcaron.ss05;
+layers = (
+{
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = T.ss05;
+},
+{
+pos = (544,205);
+ref = caroncomb.case;
+}
+);
+width = 618;
+}
+);
+}

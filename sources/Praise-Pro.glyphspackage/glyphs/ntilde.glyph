@@ -1,0 +1,19 @@
+{
+glyphname = ntilde;
+layers = (
+{
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = n;
+},
+{
+pos = (204,-10);
+ref = tildecomb;
+}
+);
+width = 397;
+}
+);
+unicode = 241;
+}

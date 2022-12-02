@@ -1,0 +1,19 @@
+{
+glyphname = Icaron;
+layers = (
+{
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = I;
+},
+{
+pos = (324,185);
+ref = caroncomb.case;
+}
+);
+width = 354;
+}
+);
+unicode = 463;
+}

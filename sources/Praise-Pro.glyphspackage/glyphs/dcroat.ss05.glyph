@@ -1,0 +1,19 @@
+{
+color = 7;
+glyphname = dcroat.ss05;
+layers = (
+{
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = d.ss05;
+},
+{
+pos = (305,259);
+ref = strokeshortcomb;
+}
+);
+width = 414;
+}
+);
+}

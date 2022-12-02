@@ -1,0 +1,19 @@
+{
+color = 7;
+glyphname = yacute.ss03;
+layers = (
+{
+layerId = "C623C401-2266-4A98-B253-3D45160C29C7";
+shapes = (
+{
+ref = y.ss03;
+},
+{
+pos = (269,0);
+ref = acutecomb;
+}
+);
+width = 402;
+}
+);
+}
